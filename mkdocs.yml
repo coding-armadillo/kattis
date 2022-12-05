@@ -2,6 +2,8 @@ site_name: kattis
 nav:
   - Home: index.md
   - Easy: easy.md
+  - Medium: medium.md
+  - Hard: hard.md
 theme:
   name: material
   favicon: https://open.kattis.com/images/site-logo

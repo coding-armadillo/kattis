@@ -1,0 +1,49 @@
+site_name: kattis
+nav:
+  - Home: index.md
+  - Easy: easy.md
+theme:
+  name: material
+  favicon: https://open.kattis.com/images/site-logo
+  logo: https://open.kattis.com/images/site-logo
+  font:
+    text: Roboto
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - header.autohide
+repo_name: coding-armadillo/kattis
+repo_url: https://github.com/coding-armadillo/kattis
+plugins:
+  - search
+  - tags
+  - glightbox:
+      auto_caption: True
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: date
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.tabbed:
+      alternate_style: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/coding-armadillo

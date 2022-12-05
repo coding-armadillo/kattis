@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "ms-vscode.wordcount",
+    "naumovs.theme-oceanicnext",
+    "oderwat.indent-rainbow",
+    "pkief.material-product-icons",
+    "streetsidesoftware.code-spell-checker",
+    "tyriar.sort-lines",
+    "vscode-icons-team.vscode-icons",
+    "wmaurer.change-case"
+  ]
+}

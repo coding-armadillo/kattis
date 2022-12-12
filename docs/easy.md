@@ -81,3 +81,91 @@
         ```py linenums="1"
         --8<-- "src/easy/sorttwonumbers.py"
         ```
+
+??? success "Reverse"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ofugsnuid.py"
+        ```
+
+??? success "N-sum"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/nsum.py"
+        ```
+
+??? success "Grading"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/grading.py"
+        ```
+
+??? success "Canadians, eh?"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/canadianseh.py"
+        ```
+
+??? success "Triangle Area"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/triarea.py"
+        ```
+
+??? success "Ladder"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ladder.py"
+        ```
+
+??? success "Filip"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/filip.py"
+        ```
+
+??? success "Herman"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/herman.py"
+        ```
+
+??? success "Final Exam"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/finalexam2.py"
+        ```
+
+??? success "Oddities"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/oddities.py"
+        ```
+
+??? success "Stuck In A Time Loop"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/timeloop.py"
+        ```

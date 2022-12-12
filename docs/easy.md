@@ -41,3 +41,43 @@
         ```cpp linenums="1"
         --8<-- "src/easy/hissingmicrophone.cpp"
         ```
+
+??? success "Quadrant Selection"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/quadrant.py"
+        ```
+
+??? success "Add Two Numbers"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/addtwonumbers.py"
+        ```
+
+??? success "Help a PhD candidate out!"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/helpaphd.py"
+        ```
+
+??? success "Two-sum"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/twosum.py"
+        ```
+
+??? success "Sort Two Numbers"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sorttwonumbers.py"
+        ```

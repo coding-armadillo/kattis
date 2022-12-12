@@ -169,3 +169,19 @@
         ```py linenums="1"
         --8<-- "src/easy/timeloop.py"
         ```
+
+??? success "Above Average"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/aboveaverage.py"
+        ```
+
+??? success "ABC"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/abc.py"
+        ```

@@ -5,5 +5,5 @@
     === "Python"
 
         ```py linenums="1"
-        --8<-- "src/vaccineefficacy.py"
+        --8<-- "src/medium/vaccineefficacy.py"
         ```

@@ -45,6 +45,9 @@ markdown_extensions:
   - pymdownx.emoji
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 extra:
   social:
     - icon: fontawesome/brands/github

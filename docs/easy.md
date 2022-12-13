@@ -36,6 +36,18 @@
         --8<-- "src/easy/addtwonumbers.py"
         ```
 
+??? success "Autori"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/autori](https://open.kattis.com/problems/autori).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/autori.py"
+        ```
+
 ??? success "Canadians, eh?"
 
     === "Problem"
@@ -46,6 +58,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/canadianseh.py"
+        ```
+
+??? success "Echo Echo Echo"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/echoechoecho](https://open.kattis.com/problems/echoechoecho).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/echoechoecho.py"
         ```
 
 ??? success "Filip"
@@ -186,6 +210,18 @@
         --8<-- "src/easy/hissingmicrophone.py"
         ```
 
+??? success "Jack-O'-Lantern Juxtaposition"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jackolanternjuxtaposition.py"
+        ```
+
 ??? success "Ladder"
 
     === "Problem"
@@ -256,6 +292,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/quadrant.py"
+        ```
+
+??? success "R2"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/r2](https://open.kattis.com/problems/r2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/r2.py"
         ```
 
 ??? success "Sort Two Numbers"

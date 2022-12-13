@@ -1,3 +1,4 @@
+import subprocess
 from pathlib import Path
 
 import requests
@@ -13,7 +14,9 @@ language_map = {
 summary = {}
 
 for folder in folders:
-    files = list(Path(f"src/{folder}").glob("*"))
+    uri = f"src/{folder}"
+    subprocess.call(["black", uri])
+    files = list(Path(uri).glob("*"))
     solutions = {}
 
     for file in files:
@@ -24,7 +27,9 @@ for folder in folders:
 
     total = len(solutions)
     s = "s" if total > 1 else ""
-    print(f"Found {total} solution{s} from src/{folder}")
+    print()
+    print(f"Found {total} solution{s} from {uri}")
+    print()
 
     summary[folder] = total
 
@@ -47,7 +52,7 @@ for folder in folders:
     === "{language_map[ext]}"
 
         ```{ext} linenums="1"
-        --8<-- "src/{folder}/{language}"
+        --8<-- "{uri}/{language}"
         ```
 """
         text += card

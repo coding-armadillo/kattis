@@ -36,6 +36,18 @@
         --8<-- "src/easy/addtwonumbers.py"
         ```
 
+??? success "A Real Challenge"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/areal](https://open.kattis.com/problems/areal).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/areal.py"
+        ```
+
 ??? success "Autori"
 
     === "Problem"
@@ -58,6 +70,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/canadianseh.py"
+        ```
+
+??? success "Coffee Cup Combo"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/coffeecupcombo.py"
+        ```
+
+??? success "Datum"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/datum](https://open.kattis.com/problems/datum).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/datum.py"
         ```
 
 ??? success "Digit Swap"
@@ -138,6 +174,18 @@
         --8<-- "src/easy/findingana.py"
         ```
 
+??? success "FizzBuzz"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/fizzbuzz](https://open.kattis.com/problems/fizzbuzz).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fizzbuzz.py"
+        ```
+
 ??? success "Birthday Memorization"
 
     === "Problem"
@@ -150,6 +198,18 @@
         --8<-- "src/easy/fodelsedagsmemorisering.py"
         ```
 
+??? success "Free Food"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/freefood](https://open.kattis.com/problems/freefood).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/freefood.py"
+        ```
+
 ??? success "FYI"
 
     === "Problem"
@@ -160,6 +220,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/fyi.py"
+        ```
+
+??? success "GCVWR"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/gcvwr](https://open.kattis.com/problems/gcvwr).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/gcvwr.py"
         ```
 
 ??? success "Grading"
@@ -258,6 +330,18 @@
         --8<-- "src/easy/hissingmicrophone.py"
         ```
 
+??? success "IsItHalloween.com"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/isithalloween](https://open.kattis.com/problems/isithalloween).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/isithalloween.py"
+        ```
+
 ??? success "Jack-O'-Lantern Juxtaposition"
 
     === "Problem"
@@ -280,6 +364,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/ladder.py"
+        ```
+
+??? success "Lost Lineup"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/lostlineup](https://open.kattis.com/problems/lostlineup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/lostlineup.py"
         ```
 
 ??? success "N-sum"
@@ -328,6 +424,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/ofugsnuid.py"
+        ```
+
+??? success "Pet"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pet](https://open.kattis.com/problems/pet).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pet.py"
         ```
 
 ??? success "Pokechat"
@@ -388,6 +496,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/r2.py"
+        ```
+
+??? success "Rating Problems"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/ratingproblems](https://open.kattis.com/problems/ratingproblems).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ratingproblems.py"
         ```
 
 ??? success "Sort Two Numbers"

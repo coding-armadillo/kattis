@@ -696,6 +696,12 @@
 
         See detail at [https://open.kattis.com/problems/triarea](https://open.kattis.com/problems/triarea).
 
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/triarea.cpp"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -707,6 +713,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/twosum](https://open.kattis.com/problems/twosum).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/twosum.cpp"
+        ```
 
     === "Python"
 

@@ -4,6 +4,7 @@ from pathlib import Path
 import requests
 import urllib3
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 folders = ["easy", "medium", "hard"]
@@ -34,7 +35,7 @@ for folder in folders:
     summary[folder] = total
 
     text = f"# Difficulty - {folder.capitalize()}\n"
-    for solution, languages in sorted(solutions.items()):
+    for solution, languages in tqdm(sorted(solutions.items())):
         url = f"https://open.kattis.com/problems/{solution}"
         html = requests.get(url, verify=False)
         soup = BeautifulSoup(html.content, "html.parser")

@@ -354,6 +354,18 @@
         --8<-- "src/easy/pot.py"
         ```
 
+??? success "Quality-Adjusted Life-Year"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/qaly](https://open.kattis.com/problems/qaly).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/qaly.py"
+        ```
+
 ??? success "Quadrant Selection"
 
     === "Problem"
@@ -388,6 +400,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sorttwonumbers.py"
+        ```
+
+??? success "Speed Limit"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/speedlimit](https://open.kattis.com/problems/speedlimit).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/speedlimit.py"
+        ```
+
+??? success "Stopwatch"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/stopwatch](https://open.kattis.com/problems/stopwatch).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/stopwatch.py"
         ```
 
 ??? success "Tarifa"

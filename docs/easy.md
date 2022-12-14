@@ -36,6 +36,18 @@
         --8<-- "src/easy/addtwonumbers.py"
         ```
 
+??? success "Apaxiaaaaaaaaaaaans!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/apaxiaaans](https://open.kattis.com/problems/apaxiaaans).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/apaxiaaans.py"
+        ```
+
 ??? success "A Real Challenge"
 
     === "Problem"
@@ -70,6 +82,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/canadianseh.py"
+        ```
+
+??? success "Solving for Carrots"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/carrots](https://open.kattis.com/problems/carrots).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/carrots.py"
         ```
 
 ??? success "Coffee Cup Combo"
@@ -120,6 +144,18 @@
         --8<-- "src/easy/echoechoecho.py"
         ```
 
+??? success "Estimating the Area of a Circle"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/estimatingtheareaofacircle.py"
+        ```
+
 ??? success "I've Been Everywhere, Man"
 
     === "Problem"
@@ -130,6 +166,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/everywhere.py"
+        ```
+
+??? success "Eye of Sauron"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/eyeofsauron](https://open.kattis.com/problems/eyeofsauron).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/eyeofsauron.py"
+        ```
+
+??? success "Faktor"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/faktor](https://open.kattis.com/problems/faktor).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/faktor.py"
         ```
 
 ??? success "Filip"
@@ -354,6 +414,30 @@
         --8<-- "src/easy/jackolanternjuxtaposition.py"
         ```
 
+??? success "Jumbo Javelin"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/jumbojavelin](https://open.kattis.com/problems/jumbojavelin).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jumbojavelin.py"
+        ```
+
+??? success "Kornislav"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/kornislav](https://open.kattis.com/problems/kornislav).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/kornislav.py"
+        ```
+
 ??? success "Ladder"
 
     === "Problem"
@@ -364,6 +448,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/ladder.py"
+        ```
+
+??? success "Last Factorial Digit"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/lastfactorialdigit.py"
         ```
 
 ??? success "Lost Lineup"
@@ -510,6 +606,18 @@
         --8<-- "src/easy/ratingproblems.py"
         ```
 
+??? success "Turn It Up!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/skruop](https://open.kattis.com/problems/skruop).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/skruop.py"
+        ```
+
 ??? success "Sort Two Numbers"
 
     === "Problem"
@@ -520,6 +628,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sorttwonumbers.py"
+        ```
+
+??? success "Speeding"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/speeding](https://open.kattis.com/problems/speeding).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/speeding.py"
         ```
 
 ??? success "Speed Limit"

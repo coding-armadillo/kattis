@@ -60,6 +60,18 @@
         --8<-- "src/easy/canadianseh.py"
         ```
 
+??? success "Digit Swap"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/digitswap](https://open.kattis.com/problems/digitswap).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/digitswap.py"
+        ```
+
 ??? success "Echo Echo Echo"
 
     === "Problem"
@@ -126,6 +138,18 @@
         --8<-- "src/easy/fodelsedagsmemorisering.py"
         ```
 
+??? success "FYI"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/fyi](https://open.kattis.com/problems/fyi).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fyi.py"
+        ```
+
 ??? success "Grading"
 
     === "Problem"
@@ -136,6 +160,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/grading.py"
+        ```
+
+??? success "Greetings!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/greetings2](https://open.kattis.com/problems/greetings2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/greetings2.py"
         ```
 
 ??? success "Homework"
@@ -246,6 +282,18 @@
         --8<-- "src/easy/nsum.py"
         ```
 
+??? success "Odd Echo"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/oddecho](https://open.kattis.com/problems/oddecho).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/oddecho.py"
+        ```
+
 ??? success "Oddities"
 
     === "Problem"
@@ -352,4 +400,16 @@
 
         ```py linenums="1"
         --8<-- "src/easy/twosum.py"
+        ```
+
+??? success "Which is Greater?"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/whichisgreater](https://open.kattis.com/problems/whichisgreater).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/whichisgreater.py"
         ```

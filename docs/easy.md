@@ -36,6 +36,18 @@
         --8<-- "src/easy/addtwonumbers.py"
         ```
 
+??? success "Alphabet Spam"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/alphabetspam](https://open.kattis.com/problems/alphabetspam).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/alphabetspam.py"
+        ```
+
 ??? success "Apaxiaaaaaaaaaaaans!"
 
     === "Problem"
@@ -70,6 +82,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/autori.py"
+        ```
+
+??? success "Betting"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/betting](https://open.kattis.com/problems/betting).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/betting.py"
+        ```
+
+??? success "Bijele"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/bijele](https://open.kattis.com/problems/bijele).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bijele.py"
         ```
 
 ??? success "Canadians, eh?"
@@ -118,6 +154,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/coffeecupcombo.py"
+        ```
+
+??? success "Cold-puter Science"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cold](https://open.kattis.com/problems/cold).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cold.py"
         ```
 
 ??? success "Datum"

@@ -1,0 +1,10 @@
+s = input()
+total = len(s)
+whites = s.count("_")
+lowers = len([c for c in s if ord(c) >= ord("a") and ord(c) <= ord("z")])
+uppers = len([c for c in s if ord(c) >= ord("A") and ord(c) <= ord("Z")])
+symbols = total - whites - lowers - uppers
+print(f"{whites/total:.15f}")
+print(f"{lowers/total:.15f}")
+print(f"{uppers/total:.15f}")
+print(f"{symbols/total:.15f}")

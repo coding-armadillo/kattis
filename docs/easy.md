@@ -96,6 +96,18 @@
         --8<-- "src/easy/carrots.py"
         ```
 
+??? success "Cetvrta"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cetvrta](https://open.kattis.com/problems/cetvrta).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cetvrta.py"
+        ```
+
 ??? success "Coffee Cup Combo"
 
     === "Problem"
@@ -474,6 +486,24 @@
         --8<-- "src/easy/ladder.py"
         ```
 
+??? success "Laptop Sticker"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/laptopsticker](https://open.kattis.com/problems/laptopsticker).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/laptopsticker.cpp"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/laptopsticker.py"
+        ```
+
 ??? success "Last Factorial Digit"
 
     === "Problem"
@@ -496,6 +526,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/lostlineup.py"
+        ```
+
+??? success "Magic Trick"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/magictrick](https://open.kattis.com/problems/magictrick).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/magictrick.py"
+        ```
+
+??? success "Nasty Hacks"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/nastyhacks](https://open.kattis.com/problems/nastyhacks).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/nastyhacks.py"
         ```
 
 ??? success "No Duplicates"
@@ -652,6 +706,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/rectanglearea.py"
+        ```
+
+??? success "Sibice"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sibice](https://open.kattis.com/problems/sibice).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sibice.py"
         ```
 
 ??? success "Turn It Up!"

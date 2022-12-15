@@ -120,6 +120,18 @@
         --8<-- "src/easy/datum.py"
         ```
 
+??? success "Detailed Differences"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/detaileddifferences](https://open.kattis.com/problems/detaileddifferences).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/detaileddifferences.py"
+        ```
+
 ??? success "Digit Swap"
 
     === "Problem"
@@ -142,6 +154,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/echoechoecho.py"
+        ```
+
+??? success "Electrical Outlets"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/electricaloutlets](https://open.kattis.com/problems/electricaloutlets).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/electricaloutlets.py"
         ```
 
 ??? success "Estimating the Area of a Circle"
@@ -474,6 +498,18 @@
         --8<-- "src/easy/lostlineup.py"
         ```
 
+??? success "No Duplicates"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/nodup](https://open.kattis.com/problems/nodup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/nodup.py"
+        ```
+
 ??? success "N-sum"
 
     === "Problem"
@@ -606,6 +642,18 @@
         --8<-- "src/easy/ratingproblems.py"
         ```
 
+??? success "Rectangle Area"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/rectanglearea](https://open.kattis.com/problems/rectanglearea).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/rectanglearea.py"
+        ```
+
 ??? success "Turn It Up!"
 
     === "Problem"
@@ -731,6 +779,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/whichisgreater](https://open.kattis.com/problems/whichisgreater).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/whichisgreater.cpp"
+        ```
 
     === "Python"
 

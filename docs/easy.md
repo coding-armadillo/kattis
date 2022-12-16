@@ -1,5 +1,17 @@
 # Difficulty - Easy
 
+??? success "Aaah!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/aaah](https://open.kattis.com/problems/aaah).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/aaah.py"
+        ```
+
 ??? success "ABC"
 
     === "Problem"

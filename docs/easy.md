@@ -96,6 +96,18 @@
         --8<-- "src/easy/autori.py"
         ```
 
+??? success "Avion"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/avion](https://open.kattis.com/problems/avion).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/avion.py"
+        ```
+
 ??? success "Betting"
 
     === "Problem"
@@ -154,6 +166,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/cetvrta.py"
+        ```
+
+??? success "Chanukah Challenge"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/chanukah](https://open.kattis.com/problems/chanukah).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/chanukah.py"
         ```
 
 ??? success "Coffee Cup Combo"
@@ -240,6 +264,18 @@
         --8<-- "src/easy/detaileddifferences.py"
         ```
 
+??? success "Dice Cup"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/dicecup](https://open.kattis.com/problems/dicecup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/dicecup.py"
+        ```
+
 ??? success "Digit Swap"
 
     === "Problem"
@@ -286,6 +322,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/electricaloutlets.py"
+        ```
+
+??? success "Encoded Message"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/encodedmessage](https://open.kattis.com/problems/encodedmessage).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/encodedmessage.py"
         ```
 
 ??? success "Estimating the Area of a Circle"
@@ -462,6 +510,18 @@
         --8<-- "src/easy/grading.py"
         ```
 
+??? success "Grass Seed Inc."
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/grassseed](https://open.kattis.com/problems/grassseed).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/grassseed.py"
+        ```
+
 ??? success "Greetings!"
 
     === "Problem"
@@ -618,6 +678,18 @@
         --8<-- "src/easy/knightpacking.py"
         ```
 
+??? success "Knot Knowledge"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/knotknowledge](https://open.kattis.com/problems/knotknowledge).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/knotknowledge.py"
+        ```
+
 ??? success "Kornislav"
 
     === "Problem"
@@ -744,6 +816,18 @@
         --8<-- "src/easy/nsum.py"
         ```
 
+??? success "Number Fun"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/numberfun](https://open.kattis.com/problems/numberfun).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/numberfun.py"
+        ```
+
 ??? success "Odd Echo"
 
     === "Problem"
@@ -792,6 +876,18 @@
         --8<-- "src/easy/pet.py"
         ```
 
+??? success "Piece of Cake!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pieceofcake2](https://open.kattis.com/problems/pieceofcake2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pieceofcake2.py"
+        ```
+
 ??? success "Planina"
 
     === "Problem"
@@ -838,6 +934,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/pot.py"
+        ```
+
+??? success "Building Pyramids"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pyramids](https://open.kattis.com/problems/pyramids).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pyramids.py"
         ```
 
 ??? success "Quality-Adjusted Life-Year"

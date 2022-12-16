@@ -11,6 +11,7 @@ folders = ["easy", "medium", "hard"]
 language_map = {
     "py": "Python",
     "cpp": "C++",
+    "java": "Java",
 }
 summary = {}
 

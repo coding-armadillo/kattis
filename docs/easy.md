@@ -204,6 +204,18 @@
         --8<-- "src/easy/countthevowels.py"
         ```
 
+??? success "CPR Number"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cprnummer](https://open.kattis.com/problems/cprnummer).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cprnummer.py"
+        ```
+
 ??? success "Datum"
 
     === "Problem"
@@ -250,6 +262,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/echoechoecho.py"
+        ```
+
+??? success "Egypt"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/egypt](https://open.kattis.com/problems/egypt).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/egypt.py"
         ```
 
 ??? success "Electrical Outlets"
@@ -450,6 +474,18 @@
         --8<-- "src/easy/greetings2.py"
         ```
 
+??? success "Heart Rate"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/heartrate](https://open.kattis.com/problems/heartrate).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/heartrate.py"
+        ```
+
 ??? success "Homework"
 
     === "Problem"
@@ -570,6 +606,18 @@
         --8<-- "src/easy/jumbojavelin.py"
         ```
 
+??? success "Knight Packing"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/knightpacking](https://open.kattis.com/problems/knightpacking).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/knightpacking.py"
+        ```
+
 ??? success "Kornislav"
 
     === "Problem"
@@ -592,6 +640,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/ladder.py"
+        ```
+
+??? success "Lamps"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/lamps](https://open.kattis.com/problems/lamps).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/lamps.py"
         ```
 
 ??? success "Laptop Sticker"
@@ -732,6 +792,18 @@
         --8<-- "src/easy/pet.py"
         ```
 
+??? success "Planina"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/planina](https://open.kattis.com/problems/planina).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/planina.py"
+        ```
+
 ??? success "Pokechat"
 
     === "Problem"
@@ -742,6 +814,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/pokechat.py"
+        ```
+
+??? success "Poker Hand"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pokerhand](https://open.kattis.com/problems/pokerhand).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pokerhand.py"
         ```
 
 ??? success "Pot"
@@ -814,6 +898,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/rectanglearea.py"
+        ```
+
+??? success "Seven Wonders"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sevenwonders](https://open.kattis.com/problems/sevenwonders).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sevenwonders.py"
         ```
 
 ??? success "Shattered Cake"

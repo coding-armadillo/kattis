@@ -180,6 +180,30 @@
         --8<-- "src/easy/cold.py"
         ```
 
+??? success "Cryptographer's Conundrum"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/conundrum](https://open.kattis.com/problems/conundrum).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/conundrum.py"
+        ```
+
+??? success "Count the Vowels"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/countthevowels](https://open.kattis.com/problems/countthevowels).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/countthevowels.py"
+        ```
+
 ??? success "Datum"
 
     === "Problem"
@@ -792,6 +816,18 @@
         --8<-- "src/easy/rectanglearea.py"
         ```
 
+??? success "Shattered Cake"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/shatteredcake](https://open.kattis.com/problems/shatteredcake).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/shatteredcake.py"
+        ```
+
 ??? success "Sibice"
 
     === "Problem"
@@ -904,6 +940,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/triarea.py"
+        ```
+
+??? success "Take Two Stones"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/twostones](https://open.kattis.com/problems/twostones).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/twostones.py"
         ```
 
 ??? success "Two-sum"

@@ -378,6 +378,18 @@
         --8<-- "src/easy/fyi.py"
         ```
 
+??? success "GCD"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/gcd](https://open.kattis.com/problems/gcd).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/gcd.py"
+        ```
+
 ??? success "GCVWR"
 
     === "Problem"
@@ -508,6 +520,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/jackolanternjuxtaposition.py"
+        ```
+
+??? success "Job Expenses"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/jobexpenses](https://open.kattis.com/problems/jobexpenses).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jobexpenses.py"
         ```
 
 ??? success "Jumbo Javelin"

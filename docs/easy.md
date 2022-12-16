@@ -570,6 +570,12 @@
         --8<-- "src/easy/hello.cpp"
         ```
 
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/hello.java"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1140,6 +1146,12 @@
         --8<-- "src/easy/triarea.cpp"
         ```
 
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/triarea.java"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1168,6 +1180,12 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/twosum.cpp"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/twosum.java"
         ```
 
     === "Python"

@@ -108,6 +108,18 @@
         --8<-- "src/easy/avion.py"
         ```
 
+??? success "Batter Up"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/batterup](https://open.kattis.com/problems/batterup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/batterup.py"
+        ```
+
 ??? success "Betting"
 
     === "Problem"
@@ -1096,6 +1108,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/speedlimit.py"
+        ```
+
+??? success "Square Peg"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/squarepeg](https://open.kattis.com/problems/squarepeg).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/squarepeg.py"
+        ```
+
+??? success "Statistics"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/statistics](https://open.kattis.com/problems/statistics).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/statistics.py"
         ```
 
 ??? success "Stopwatch"

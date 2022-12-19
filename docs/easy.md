@@ -618,6 +618,12 @@
         --8<-- "src/easy/hello.cpp"
         ```
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/hello.go"
+        ```
+
     === "Java"
 
         ```java linenums="1"
@@ -628,6 +634,12 @@
 
         ```py linenums="1"
         --8<-- "src/easy/hello.py"
+        ```
+
+    === "Rust"
+
+        ```rs linenums="1"
+        --8<-- "src/easy/hello.rs"
         ```
 
 ??? success "Help a PhD candidate out!"

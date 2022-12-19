@@ -59,7 +59,7 @@ for folder in folders:
 """
         text += card
 
-    with open(f"docs/{folder}.md", "w") as f:
+    with open(f"docs/{folder}.md", "w", encoding="utf-8") as f:
         f.write(text)
 
 with open("docs/index.md", "w") as f:

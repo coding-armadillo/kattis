@@ -918,7 +918,7 @@
         --8<-- "src/easy/ofugsnuid.py"
         ```
 
-??? success "Östgötska"
+??? success "Ã–stgÃ¶tska"
 
     === "Problem"
 

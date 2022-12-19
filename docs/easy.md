@@ -144,6 +144,18 @@
         --8<-- "src/easy/bijele.py"
         ```
 
+??? success "Bus"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/bus](https://open.kattis.com/problems/bus).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bus.py"
+        ```
+
 ??? success "Canadians, eh?"
 
     === "Problem"
@@ -250,6 +262,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/cprnummer.py"
+        ```
+
+??? success "Stacking Cups"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cups](https://open.kattis.com/problems/cups).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cups.py"
         ```
 
 ??? success "Datum"
@@ -394,6 +418,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/faktor.py"
+        ```
+
+??? success "Fifty Shades of Pink"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/fiftyshades](https://open.kattis.com/problems/fiftyshades).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fiftyshades.py"
         ```
 
 ??? success "Filip"
@@ -882,6 +918,18 @@
         --8<-- "src/easy/ofugsnuid.py"
         ```
 
+??? success "Östgötska"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/ostgotska](https://open.kattis.com/problems/ostgotska).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ostgotska.py"
+        ```
+
 ??? success "Pet"
 
     === "Problem"
@@ -1062,6 +1110,18 @@
         --8<-- "src/easy/sibice.py"
         ```
 
+??? success "Simon Says"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/simonsays](https://open.kattis.com/problems/simonsays).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/simonsays.py"
+        ```
+
 ??? success "Turn It Up!"
 
     === "Problem"
@@ -1144,6 +1204,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/stopwatch.py"
+        ```
+
+??? success "Tai's formula"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/taisformula](https://open.kattis.com/problems/taisformula).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/taisformula.py"
         ```
 
 ??? success "Tarifa"

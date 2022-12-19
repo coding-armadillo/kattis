@@ -624,6 +624,12 @@
         --8<-- "src/easy/hello.go"
         ```
 
+    === "Haskell"
+
+        ```hs linenums="1"
+        --8<-- "src/easy/hello.hs"
+        ```
+
     === "Java"
 
         ```java linenums="1"
@@ -1266,6 +1272,12 @@
         --8<-- "src/easy/triarea.cpp"
         ```
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/triarea.go"
+        ```
+
     === "Java"
 
         ```java linenums="1"
@@ -1300,6 +1312,12 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/twosum.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/twosum.go"
         ```
 
     === "Java"

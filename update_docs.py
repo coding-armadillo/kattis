@@ -12,6 +12,8 @@ language_map = {
     "py": "Python",
     "cpp": "C++",
     "java": "Java",
+    "rs": "Rust",
+    "go": "Go",
 }
 summary = {}
 

@@ -120,6 +120,18 @@
         --8<-- "src/easy/batterup.py"
         ```
 
+??? success "Bela"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/bela](https://open.kattis.com/problems/bela).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bela.py"
+        ```
+
 ??? success "Betting"
 
     === "Problem"
@@ -714,6 +726,18 @@
         --8<-- "src/easy/jackolanternjuxtaposition.py"
         ```
 
+??? success "Janitor Troubles"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/janitortroubles](https://open.kattis.com/problems/janitortroubles).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/janitortroubles.py"
+        ```
+
 ??? success "Job Expenses"
 
     === "Problem"
@@ -852,6 +876,18 @@
         --8<-- "src/easy/magictrick.py"
         ```
 
+??? success "Missing Numbers"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/missingnumbers](https://open.kattis.com/problems/missingnumbers).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/missingnumbers.py"
+        ```
+
 ??? success "Nasty Hacks"
 
     === "Problem"
@@ -948,6 +984,18 @@
         --8<-- "src/easy/ostgotska.py"
         ```
 
+??? success "Parking"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/parking2](https://open.kattis.com/problems/parking2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/parking2.py"
+        ```
+
 ??? success "Pet"
 
     === "Problem"
@@ -1020,6 +1068,18 @@
         --8<-- "src/easy/pot.py"
         ```
 
+??? success "Provinces and Gold"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/provincesandgold](https://open.kattis.com/problems/provincesandgold).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/provincesandgold.py"
+        ```
+
 ??? success "Building Pyramids"
 
     === "Problem"
@@ -1050,6 +1110,12 @@
 
         See detail at [https://open.kattis.com/problems/quadrant](https://open.kattis.com/problems/quadrant).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/quadrant.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1061,6 +1127,18 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/r2](https://open.kattis.com/problems/r2).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/r2.cpp"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/r2.java"
+        ```
 
     === "Python"
 

@@ -510,6 +510,18 @@
         --8<-- "src/easy/fodelsedagsmemorisering.py"
         ```
 
+??? success "Forced Choice"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/forcedchoice](https://open.kattis.com/problems/forcedchoice).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/forcedchoice.py"
+        ```
+
 ??? success "Free Food"
 
     === "Problem"
@@ -1116,6 +1128,12 @@
         --8<-- "src/easy/quadrant.go"
         ```
 
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/quadrant.java"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1242,6 +1260,30 @@
         --8<-- "src/easy/sorttwonumbers.py"
         ```
 
+??? success "Spavanac"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/spavanac](https://open.kattis.com/problems/spavanac).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/spavanac.cpp"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/spavanac.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/spavanac.py"
+        ```
+
 ??? success "Speeding"
 
     === "Problem"
@@ -1366,6 +1408,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/triarea.py"
+        ```
+
+??? success "Trik"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/trik](https://open.kattis.com/problems/trik).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/trik.py"
         ```
 
 ??? success "Take Two Stones"

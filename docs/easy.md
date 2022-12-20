@@ -1464,6 +1464,18 @@
         --8<-- "src/easy/twosum.py"
         ```
 
+??? success "Weak Vertices"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/weakvertices](https://open.kattis.com/problems/weakvertices).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/weakvertices.py"
+        ```
+
 ??? success "Which is Greater?"
 
     === "Problem"
@@ -1492,4 +1504,22 @@
 
         ```py linenums="1"
         --8<-- "src/easy/zamka.py"
+        ```
+
+??? success "Stand on Zanzibar"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/zanzibar](https://open.kattis.com/problems/zanzibar).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/zanzibar.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/zanzibar.py"
         ```

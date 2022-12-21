@@ -1164,11 +1164,41 @@
         --8<-- "src/easy/r2.py"
         ```
 
+??? success "Railroad"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/railroad2](https://open.kattis.com/problems/railroad2).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/railroad2.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/railroad2.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/railroad2.py"
+        ```
+
 ??? success "Rating Problems"
 
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/ratingproblems](https://open.kattis.com/problems/ratingproblems).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/ratingproblems.java"
+        ```
 
     === "Python"
 

@@ -336,6 +336,18 @@
         --8<-- "src/easy/digitswap.py"
         ```
 
+??? success "DRM Messages"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/drmmessages](https://open.kattis.com/problems/drmmessages).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/drmmessages.py"
+        ```
+
 ??? success "Echo Echo Echo"
 
     === "Problem"
@@ -1218,6 +1230,18 @@
         --8<-- "src/easy/rectanglearea.py"
         ```
 
+??? success "Relocation"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/relocation](https://open.kattis.com/problems/relocation).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/relocation.py"
+        ```
+
 ??? success "Seven Wonders"
 
     === "Problem"
@@ -1374,6 +1398,18 @@
         --8<-- "src/easy/stopwatch.py"
         ```
 
+??? success "Sum Squared Digits Function"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sumsquareddigits.py"
+        ```
+
 ??? success "Tai's formula"
 
     === "Problem"
@@ -1408,6 +1444,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/timeloop.py"
+        ```
+
+??? success "Transit Woes"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/transitwoes](https://open.kattis.com/problems/transitwoes).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/transitwoes.py"
         ```
 
 ??? success "Triangle Area"

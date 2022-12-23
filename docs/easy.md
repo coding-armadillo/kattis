@@ -336,6 +336,24 @@
         --8<-- "src/easy/digitswap.py"
         ```
 
+??? success "Double Password"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/doublepassword](https://open.kattis.com/problems/doublepassword).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/doublepassword.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/doublepassword.py"
+        ```
+
 ??? success "DRM Messages"
 
     === "Problem"
@@ -1302,6 +1320,24 @@
         --8<-- "src/easy/skruop.py"
         ```
 
+??? success "SMIL"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/smil](https://open.kattis.com/problems/smil).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/smil.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/smil.py"
+        ```
+
 ??? success "Sort Two Numbers"
 
     === "Problem"
@@ -1540,6 +1576,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/twosum.py"
+        ```
+
+??? success "Arrangement"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/upprodun](https://open.kattis.com/problems/upprodun).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/upprodun.py"
         ```
 
 ??? success "Weak Vertices"

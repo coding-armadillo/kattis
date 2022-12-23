@@ -1122,6 +1122,30 @@
         --8<-- "src/easy/provincesandgold.py"
         ```
 
+??? success "Prsteni"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/prsteni](https://open.kattis.com/problems/prsteni).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/prsteni.py"
+        ```
+
+??? success "Ptice"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/ptice](https://open.kattis.com/problems/ptice).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ptice.py"
+        ```
+
 ??? success "Building Pyramids"
 
     === "Problem"
@@ -1308,6 +1332,18 @@
         --8<-- "src/easy/simonsays.py"
         ```
 
+??? success "Skener"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/skener.py"
+        ```
+
 ??? success "Turn It Up!"
 
     === "Problem"
@@ -1444,6 +1480,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sumsquareddigits.py"
+        ```
+
+??? success "Symmetric Order"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/symmetricorder](https://open.kattis.com/problems/symmetricorder).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/symmetricorder.py"
         ```
 
 ??? success "Tai's formula"

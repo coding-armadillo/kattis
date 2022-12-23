@@ -20,6 +20,8 @@ summary = {}
 
 for folder in folders:
     uri = f"src/{folder}"
+    if not Path(uri).exists():
+        Path(uri).mkdir(exist_ok=True)
     subprocess.call(["black", uri])
     files = list(Path(uri).glob("*"))
     solutions = {}

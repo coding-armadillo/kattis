@@ -366,6 +366,18 @@
         --8<-- "src/easy/drmmessages.py"
         ```
 
+??? success "The Easiest Problem Is This One"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/easiest](https://open.kattis.com/problems/easiest).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/easiest.py"
+        ```
+
 ??? success "Echo Echo Echo"
 
     === "Problem"
@@ -802,6 +814,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/jumbojavelin.py"
+        ```
+
+??? success "Running Race"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/kaploeb](https://open.kattis.com/problems/kaploeb).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/kaploeb.py"
         ```
 
 ??? success "Knight Packing"
@@ -1284,6 +1308,18 @@
         --8<-- "src/easy/relocation.py"
         ```
 
+??? success "Reversed Binary Numbers"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/reversebinary](https://open.kattis.com/problems/reversebinary).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/reversebinary.py"
+        ```
+
 ??? success "Seven Wonders"
 
     === "Problem"
@@ -1696,4 +1732,16 @@
 
         ```py linenums="1"
         --8<-- "src/easy/zanzibar.py"
+        ```
+
+??? success "Zoom"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/zoom](https://open.kattis.com/problems/zoom).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/zoom.py"
         ```

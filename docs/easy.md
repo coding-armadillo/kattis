@@ -120,6 +120,18 @@
         --8<-- "src/easy/batterup.py"
         ```
 
+??? success "Beavergnaw"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/beavergnaw](https://open.kattis.com/problems/beavergnaw).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/beavergnaw.py"
+        ```
+
 ??? success "Bela"
 
     === "Problem"
@@ -756,6 +768,18 @@
         --8<-- "src/easy/hissingmicrophone.py"
         ```
 
+??? success "ICPC Awards"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/icpcawards](https://open.kattis.com/problems/icpcawards).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/icpcawards.py"
+        ```
+
 ??? success "IsItHalloween.com"
 
     === "Problem"
@@ -826,6 +850,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/kaploeb.py"
+        ```
+
+??? success "Kemija"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/kemija08](https://open.kattis.com/problems/kemija08).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/kemija08.py"
         ```
 
 ??? success "Knight Packing"

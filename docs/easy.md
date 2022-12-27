@@ -768,6 +768,18 @@
         --8<-- "src/easy/hissingmicrophone.py"
         ```
 
+??? success "Hitting the Targets"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/hittingtargets](https://open.kattis.com/problems/hittingtargets).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hittingtargets.py"
+        ```
+
 ??? success "ICPC Awards"
 
     === "Problem"
@@ -1062,6 +1074,18 @@
         --8<-- "src/easy/oddities.py"
         ```
 
+??? success "Odd Man Out"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/oddmanout](https://open.kattis.com/problems/oddmanout).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/oddmanout.py"
+        ```
+
 ??? success "Reverse"
 
     === "Problem"
@@ -1132,6 +1156,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/planina.py"
+        ```
+
+??? success "Planting Trees"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/plantingtrees](https://open.kattis.com/problems/plantingtrees).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/plantingtrees.py"
         ```
 
 ??? success "Pokechat"
@@ -1564,6 +1600,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/symmetricorder.py"
+        ```
+
+??? success "T9 Spelling"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/t9spelling](https://open.kattis.com/problems/t9spelling).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/t9spelling.py"
         ```
 
 ??? success "Tai's formula"

@@ -48,6 +48,18 @@
         --8<-- "src/easy/aboveaverage.py"
         ```
 
+??? success "ACM Contest Scoring"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/acm](https://open.kattis.com/problems/acm).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/acm.py"
+        ```
+
 ??? success "Add Two Numbers"
 
     === "Problem"
@@ -300,6 +312,18 @@
         --8<-- "src/easy/cprnummer.py"
         ```
 
+??? success "Cudoviste"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cudoviste](https://open.kattis.com/problems/cudoviste).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cudoviste.py"
+        ```
+
 ??? success "Stacking Cups"
 
     === "Problem"
@@ -436,6 +460,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/electricaloutlets.py"
+        ```
+
+??? success "Eligibility"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/eligibility](https://open.kattis.com/problems/eligibility).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/eligibility.py"
         ```
 
 ??? success "Encoded Message"

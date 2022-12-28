@@ -1,7 +1,7 @@
 # Kattis
 
-- [Easy ^139^](easy.md)
+- [Easy ^142^](easy.md)
 
-- [Medium ^3^](medium.md)
+- [Medium ^2^](medium.md)
 
-- [Hard ^0^](hard.md)
+- [Hard ^1^](hard.md)

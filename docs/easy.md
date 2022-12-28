@@ -1,5 +1,17 @@
 # Difficulty - Easy
 
+??? success "99 Problems"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/99problems](https://open.kattis.com/problems/99problems).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/99problems.py"
+        ```
+
 ??? success "Aaah!"
 
     === "Problem"
@@ -448,6 +460,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/estimatingtheareaofacircle.py"
+        ```
+
+??? success "Event Planning"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/eventplanning](https://open.kattis.com/problems/eventplanning).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/eventplanning.py"
         ```
 
 ??? success "I've Been Everywhere, Man"
@@ -1600,6 +1624,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/symmetricorder.py"
+        ```
+
+??? success "Synchronizing Lists"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/synchronizinglists](https://open.kattis.com/problems/synchronizinglists).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/synchronizinglists.py"
         ```
 
 ??? success "T9 Spelling"

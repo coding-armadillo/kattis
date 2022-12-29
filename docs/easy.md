@@ -216,6 +216,18 @@
 
         See detail at [https://open.kattis.com/problems/canadianseh](https://open.kattis.com/problems/canadianseh).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/canadianseh.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/canadianseh.java"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -388,6 +400,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/digitswap.py"
+        ```
+
+??? success "Divvying Up"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/divvyingup](https://open.kattis.com/problems/divvyingup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/divvyingup.py"
         ```
 
 ??? success "Double Password"
@@ -1530,6 +1554,18 @@
         --8<-- "src/easy/reversebinary.py"
         ```
 
+??? success "Roaming Romans"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/romans](https://open.kattis.com/problems/romans).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/romans.py"
+        ```
+
 ??? success "Seven Wonders"
 
     === "Problem"
@@ -1716,6 +1752,18 @@
         --8<-- "src/easy/stopwatch.py"
         ```
 
+??? success "Sum Kind of Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sumkindofproblem.py"
+        ```
+
 ??? success "Sum Squared Digits Function"
 
     === "Problem"
@@ -1854,11 +1902,41 @@
         --8<-- "src/easy/trik.py"
         ```
 
+??? success "Triple Texting"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/tripletexting](https://open.kattis.com/problems/tripletexting).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tripletexting.py"
+        ```
+
 ??? success "Take Two Stones"
 
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/twostones](https://open.kattis.com/problems/twostones).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/twostones.go"
+        ```
+
+    === "Haskell"
+
+        ```hs linenums="1"
+        --8<-- "src/easy/twostones.hs"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/twostones.java"
+        ```
 
     === "Python"
 

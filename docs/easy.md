@@ -102,6 +102,12 @@
 
         See detail at [https://open.kattis.com/problems/areal](https://open.kattis.com/problems/areal).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/areal.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -840,6 +846,18 @@
         --8<-- "src/easy/hittingtargets.py"
         ```
 
+??? success "The Amazing Human Cannonball"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/humancannonball2](https://open.kattis.com/problems/humancannonball2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/humancannonball2.py"
+        ```
+
 ??? success "ICPC Awards"
 
     === "Problem"
@@ -922,6 +940,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/kaploeb.py"
+        ```
+
+??? success "Karte"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/karte](https://open.kattis.com/problems/karte).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/karte.py"
         ```
 
 ??? success "Kemija"
@@ -1008,6 +1038,12 @@
         --8<-- "src/easy/laptopsticker.cpp"
         ```
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/laptopsticker.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1024,6 +1060,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/lastfactorialdigit.py"
+        ```
+
+??? success "Left Beehind"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/leftbeehind](https://open.kattis.com/problems/leftbeehind).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/leftbeehind.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/leftbeehind.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/leftbeehind.py"
         ```
 
 ??? success "Lost Lineup"
@@ -1348,6 +1408,24 @@
 
         ```py linenums="1"
         --8<-- "src/easy/quadrant.py"
+        ```
+
+??? success "Quick Estimates"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/quickestimate](https://open.kattis.com/problems/quickestimate).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/quickestimate.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/quickestimate.py"
         ```
 
 ??? success "R2"

@@ -954,6 +954,18 @@
         --8<-- "src/easy/jobexpenses.py"
         ```
 
+??? success "Joint Jog Jam"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/jointjogjam](https://open.kattis.com/problems/jointjogjam).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jointjogjam.py"
+        ```
+
 ??? success "Judging Moose"
 
     === "Problem"
@@ -1138,6 +1150,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/leftbeehind.py"
+        ```
+
+??? success "License to Launch"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/licensetolaunch](https://open.kattis.com/problems/licensetolaunch).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/licensetolaunch.py"
         ```
 
 ??? success "Logic Functions"
@@ -1686,6 +1710,18 @@
         --8<-- "src/easy/sibice.py"
         ```
 
+??? success "Digit Product"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sifferprodukt](https://open.kattis.com/problems/sifferprodukt).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sifferprodukt.py"
+        ```
+
 ??? success "Simon Says"
 
     === "Problem"
@@ -1708,6 +1744,24 @@
 
         ```py linenums="1"
         --8<-- "src/easy/skener.py"
+        ```
+
+??? success "Skocimis"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/skocimis](https://open.kattis.com/problems/skocimis).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/skocimis.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/skocimis.py"
         ```
 
 ??? success "Turn It Up!"
@@ -1920,6 +1974,24 @@
         --8<-- "src/easy/tarifa.py"
         ```
 
+??? success "The Last Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/thelastproblem](https://open.kattis.com/problems/thelastproblem).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/thelastproblem.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/thelastproblem.py"
+        ```
+
 ??? success "Stuck In A Time Loop"
 
     === "Problem"
@@ -2068,6 +2140,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/twosum.py"
+        ```
+
+??? success "Ultimate Binary Watch"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/ultimatebinarywatch](https://open.kattis.com/problems/ultimatebinarywatch).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ultimatebinarywatch.py"
+        ```
+
+??? success "Unlock Pattern"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/unlockpattern](https://open.kattis.com/problems/unlockpattern).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/unlockpattern.py"
         ```
 
 ??? success "Arrangement"

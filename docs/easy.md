@@ -96,6 +96,18 @@
         --8<-- "src/easy/apaxiaaans.py"
         ```
 
+??? success "Honour Thy (Apaxian) Parent"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/apaxianparent](https://open.kattis.com/problems/apaxianparent).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/apaxianparent.py"
+        ```
+
 ??? success "A Real Challenge"
 
     === "Problem"
@@ -942,6 +954,24 @@
         --8<-- "src/easy/jobexpenses.py"
         ```
 
+??? success "Judging Moose"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/judgingmoose](https://open.kattis.com/problems/judgingmoose).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/judgingmoose.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/judgingmoose.py"
+        ```
+
 ??? success "Jumbo Javelin"
 
     === "Problem"
@@ -1108,6 +1138,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/leftbeehind.py"
+        ```
+
+??? success "Logic Functions"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/logicfunctions](https://open.kattis.com/problems/logicfunctions).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/logicfunctions.cpp"
         ```
 
 ??? success "Lost Lineup"
@@ -1476,6 +1518,18 @@
         --8<-- "src/easy/r2.py"
         ```
 
+??? success "Racing Around the Alphabet"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/racingalphabet](https://open.kattis.com/problems/racingalphabet).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/racingalphabet.py"
+        ```
+
 ??? success "Railroad"
 
     === "Problem"
@@ -1554,6 +1608,24 @@
         --8<-- "src/easy/reversebinary.py"
         ```
 
+??? success "Riječi"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/rijeci](https://open.kattis.com/problems/rijeci).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/rijeci.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/rijeci.py"
+        ```
+
 ??? success "Roaming Romans"
 
     === "Problem"
@@ -1564,6 +1636,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/romans.py"
+        ```
+
+??? success "Secure Doors"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/securedoors](https://open.kattis.com/problems/securedoors).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/securedoors.py"
         ```
 
 ??? success "Seven Wonders"
@@ -1858,6 +1942,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/transitwoes.py"
+        ```
+
+??? success "Tri"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/tri](https://open.kattis.com/problems/tri).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tri.py"
         ```
 
 ??? success "Triangle Area"

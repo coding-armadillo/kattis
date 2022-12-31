@@ -846,6 +846,18 @@
         --8<-- "src/easy/greetings2.py"
         ```
 
+??? success "Harshad Numbers"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/harshadnumbers](https://open.kattis.com/problems/harshadnumbers).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/harshadnumbers.py"
+        ```
+
 ??? success "Heart Rate"
 
     === "Problem"
@@ -1296,6 +1308,30 @@
         --8<-- "src/easy/missingnumbers.py"
         ```
 
+??? success "Mixed Fractions"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/mixedfractions](https://open.kattis.com/problems/mixedfractions).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mixedfractions.py"
+        ```
+
+??? success "Modulo"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/modulo](https://open.kattis.com/problems/modulo).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/modulo.py"
+        ```
+
 ??? success "Nasty Hacks"
 
     === "Problem"
@@ -1356,6 +1392,18 @@
         --8<-- "src/easy/oddecho.py"
         ```
 
+??? success "Odd Gnome"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/oddgnome](https://open.kattis.com/problems/oddgnome).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/oddgnome.py"
+        ```
+
 ??? success "Oddities"
 
     === "Problem"
@@ -1414,6 +1462,24 @@
 
         ```py linenums="1"
         --8<-- "src/easy/parking2.py"
+        ```
+
+??? success "Paul Eigon"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pauleigon](https://open.kattis.com/problems/pauleigon).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/pauleigon.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pauleigon.py"
         ```
 
 ??? success "Pet"
@@ -1756,6 +1822,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/romans.py"
+        ```
+
+??? success "School Spirit"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/schoolspirit](https://open.kattis.com/problems/schoolspirit).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/schoolspirit.py"
         ```
 
 ??? success "Secure Doors"

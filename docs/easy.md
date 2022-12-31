@@ -18,6 +18,12 @@
 
         See detail at [https://open.kattis.com/problems/aaah](https://open.kattis.com/problems/aaah).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/aaah.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -66,10 +72,28 @@
 
         See detail at [https://open.kattis.com/problems/addtwonumbers](https://open.kattis.com/problems/addtwonumbers).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/addtwonumbers.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/easy/addtwonumbers.py"
+        ```
+
+??? success "Akcija"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/akcija](https://open.kattis.com/problems/akcija).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/akcija.py"
         ```
 
 ??? success "Alphabet Spam"
@@ -150,6 +174,24 @@
         --8<-- "src/easy/avion.py"
         ```
 
+??? success "Basketball One-on-One"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/basketballoneonone](https://open.kattis.com/problems/basketballoneonone).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/basketballoneonone.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/basketballoneonone.py"
+        ```
+
 ??? success "Batter Up"
 
     === "Problem"
@@ -192,6 +234,12 @@
 
         See detail at [https://open.kattis.com/problems/betting](https://open.kattis.com/problems/betting).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/betting.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -208,6 +256,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/bijele.py"
+        ```
+
+??? success "Boat Parts"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/boatparts](https://open.kattis.com/problems/boatparts).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/boatparts.py"
         ```
 
 ??? success "Bus"
@@ -280,6 +340,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/chanukah.py"
+        ```
+
+??? success "A Furious Cocktail"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cocktail](https://open.kattis.com/problems/cocktail).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cocktail.py"
         ```
 
 ??? success "Coffee Cup Combo"
@@ -364,6 +436,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/cups.py"
+        ```
+
+??? success "Cut in Line"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cutinline](https://open.kattis.com/problems/cutinline).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cutinline.py"
         ```
 
 ??? success "Datum"
@@ -1356,6 +1440,18 @@
         --8<-- "src/easy/pieceofcake2.py"
         ```
 
+??? success "Pizza Crust"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pizza2](https://open.kattis.com/problems/pizza2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pizza2.py"
+        ```
+
 ??? success "Planina"
 
     === "Problem"
@@ -1674,6 +1770,18 @@
         --8<-- "src/easy/securedoors.py"
         ```
 
+??? success "Server"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/server](https://open.kattis.com/problems/server).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/server.py"
+        ```
+
 ??? success "Seven Wonders"
 
     === "Problem"
@@ -1792,6 +1900,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/smil.py"
+        ```
+
+??? success "Soda Slurper"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sodaslurper](https://open.kattis.com/problems/sodaslurper).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sodaslurper.py"
         ```
 
 ??? success "Sort Two Numbers"

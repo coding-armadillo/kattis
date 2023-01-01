@@ -150,6 +150,18 @@
         --8<-- "src/easy/areal.py"
         ```
 
+??? success "Arithmetic Functions"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/arithmeticfunctions](https://open.kattis.com/problems/arithmeticfunctions).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/arithmeticfunctions.cpp"
+        ```
+
 ??? success "Autori"
 
     === "Problem"
@@ -882,6 +894,18 @@
         --8<-- "src/easy/heimavinna.py"
         ```
 
+??? success "Heir's Dilemma"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/heirsdilemma](https://open.kattis.com/problems/heirsdilemma).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/heirsdilemma.py"
+        ```
+
 ??? success "Hello World!"
 
     === "Problem"
@@ -1296,6 +1320,18 @@
         --8<-- "src/easy/magictrick.py"
         ```
 
+??? success "Mia"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/mia](https://open.kattis.com/problems/mia).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mia.py"
+        ```
+
 ??? success "Missing Numbers"
 
     === "Problem"
@@ -1330,6 +1366,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/modulo.py"
+        ```
+
+??? success "Mult!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/mult](https://open.kattis.com/problems/mult).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mult.py"
         ```
 
 ??? success "Nasty Hacks"
@@ -1660,6 +1708,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/quadrant.py"
+        ```
+
+??? success "Quick Brown Fox"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/quickbrownfox](https://open.kattis.com/problems/quickbrownfox).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/quickbrownfox.py"
         ```
 
 ??? success "Quick Estimates"

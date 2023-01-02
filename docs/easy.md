@@ -108,6 +108,18 @@
         --8<-- "src/easy/alphabetspam.py"
         ```
 
+??? success "Amsterdam Distance"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/amsterdamdistance](https://open.kattis.com/problems/amsterdamdistance).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/amsterdamdistance.py"
+        ```
+
 ??? success "Apaxiaaaaaaaaaaaans!"
 
     === "Problem"
@@ -160,6 +172,18 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/arithmeticfunctions.cpp"
+        ```
+
+??? success "Astrological Sign"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/astrologicalsign](https://open.kattis.com/problems/astrologicalsign).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/astrologicalsign.py"
         ```
 
 ??? success "Autori"
@@ -496,6 +520,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/dicecup.py"
+        ```
+
+??? success "A Different Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/different.py"
         ```
 
 ??? success "Digit Swap"
@@ -868,6 +904,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/harshadnumbers.py"
+        ```
+
+??? success "Haughty Cuisine"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/haughtycuisine](https://open.kattis.com/problems/haughtycuisine).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/haughtycuisine.py"
         ```
 
 ??? success "Heart Rate"
@@ -1318,6 +1366,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/magictrick.py"
+        ```
+
+??? success "Making A Meowth"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/makingameowth](https://open.kattis.com/problems/makingameowth).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/makingameowth.py"
         ```
 
 ??? success "Mia"
@@ -1944,6 +2004,18 @@
         --8<-- "src/easy/shatteredcake.py"
         ```
 
+??? success "Shopping List (Easy)"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/shoppinglisteasy](https://open.kattis.com/problems/shoppinglisteasy).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/shoppinglisteasy.py"
+        ```
+
 ??? success "Sibice"
 
     === "Problem"
@@ -2230,6 +2302,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/tarifa.py"
+        ```
+
+??? success "Test Drive"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/testdrive](https://open.kattis.com/problems/testdrive).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/testdrive.py"
         ```
 
 ??? success "The Last Problem"

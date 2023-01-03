@@ -1,6 +1,6 @@
 # Kattis
 
-- [Easy ^193^](easy.md)
+- [Easy ^207^](easy.md)
 
 - [Medium ^2^](medium.md)
 

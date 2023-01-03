@@ -1,5 +1,17 @@
 # Difficulty - Easy
 
+??? success "3D Printed Statues"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/3dprinter](https://open.kattis.com/problems/3dprinter).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/3dprinter.py"
+        ```
+
 ??? success "99 Problems"
 
     === "Problem"
@@ -426,6 +438,18 @@
         --8<-- "src/easy/conundrum.py"
         ```
 
+??? success "Convex Polygon Area"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/convexpolygonarea.py"
+        ```
+
 ??? success "Count the Vowels"
 
     === "Problem"
@@ -498,6 +522,18 @@
         --8<-- "src/easy/datum.py"
         ```
 
+??? success "Death Knight Hero"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/deathknight](https://open.kattis.com/problems/deathknight).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/deathknight.py"
+        ```
+
 ??? success "Detailed Differences"
 
     === "Problem"
@@ -522,6 +558,18 @@
         --8<-- "src/easy/dicecup.py"
         ```
 
+??? success "Dice Game"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/dicegame](https://open.kattis.com/problems/dicegame).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/dicegame.py"
+        ```
+
 ??? success "A Different Problem"
 
     === "Problem"
@@ -532,6 +580,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/different.py"
+        ```
+
+??? success "Different Distances"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/differentdistances](https://open.kattis.com/problems/differentdistances).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/differentdistances.py"
         ```
 
 ??? success "Digit Swap"
@@ -576,6 +636,18 @@
         --8<-- "src/easy/doublepassword.py"
         ```
 
+??? success "Drinking Song"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/drinkingsong](https://open.kattis.com/problems/drinkingsong).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/drinkingsong.py"
+        ```
+
 ??? success "DRM Messages"
 
     === "Problem"
@@ -586,6 +658,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/drmmessages.py"
+        ```
+
+??? success "Early Winter"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/earlywinter](https://open.kattis.com/problems/earlywinter).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/earlywinter.py"
         ```
 
 ??? success "The Easiest Problem Is This One"
@@ -622,6 +706,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/egypt.py"
+        ```
+
+??? success "Election Paradox"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/electionparadox](https://open.kattis.com/problems/electionparadox).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/electionparadox.py"
         ```
 
 ??? success "Electrical Outlets"
@@ -1380,6 +1476,18 @@
         --8<-- "src/easy/makingameowth.py"
         ```
 
+??? success "Marko"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/marko](https://open.kattis.com/problems/marko).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/marko.py"
+        ```
+
 ??? success "Mia"
 
     === "Problem"
@@ -1548,6 +1656,30 @@
         --8<-- "src/easy/ofugsnuid.py"
         ```
 
+??? success "Oktalni"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/oktalni](https://open.kattis.com/problems/oktalni).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/oktalni.py"
+        ```
+
+??? success "One Chicken Per Person!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/onechicken](https://open.kattis.com/problems/onechicken).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/onechicken.py"
+        ```
+
 ??? success "Östgötska"
 
     === "Problem"
@@ -1558,6 +1690,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/ostgotska.py"
+        ```
+
+??? success "Overdraft"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/overdraft](https://open.kattis.com/problems/overdraft).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/overdraft.py"
         ```
 
 ??? success "Parking"
@@ -1944,6 +2088,18 @@
         --8<-- "src/easy/romans.py"
         ```
 
+??? success "Scaling Recipe"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/scalingrecipe](https://open.kattis.com/problems/scalingrecipe).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/scalingrecipe.py"
+        ```
+
 ??? success "School Spirit"
 
     === "Problem"
@@ -2092,6 +2248,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/skruop.py"
+        ```
+
+??? success "Slatkisi"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/slatkisi](https://open.kattis.com/problems/slatkisi).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/slatkisi.py"
         ```
 
 ??? success "SMIL"

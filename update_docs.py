@@ -1,5 +1,6 @@
 import subprocess
 from pathlib import Path
+import pickle
 
 import requests
 import urllib3
@@ -17,6 +18,12 @@ language_map = {
     "hs": "Haskell",
 }
 summary = {}
+
+try:
+    with open("docs/.cache", "rb") as f:
+        cache = pickle.load(f)
+except:
+    cache = {}
 
 for folder in folders:
     uri = f"src/{folder}"
@@ -43,9 +50,13 @@ for folder in folders:
     text = f"# Difficulty - {folder.capitalize()}\n"
     for solution, languages in tqdm(sorted(solutions.items())):
         url = f"https://open.kattis.com/problems/{solution}"
-        html = requests.get(url, verify=False)
-        soup = BeautifulSoup(html.content, "html.parser")
-        name = soup.find("h1").text
+        if solution in cache:
+            name = cache[solution]
+        else:
+            html = requests.get(url, verify=False)
+            soup = BeautifulSoup(html.content, "html.parser")
+            name = soup.find("h1").text
+            cache[solution] = name
         card = f"""
 ??? success "{name}"
 
@@ -75,3 +86,6 @@ with open("docs/index.md", "w") as f:
 - [{folder.capitalize()} ^{total}^]({folder}.md)
 """
     f.write(text)
+
+with open("docs/.cache", "wb") as f:
+    pickle.dump(cache, f)

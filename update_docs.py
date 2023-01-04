@@ -16,6 +16,7 @@ language_map = {
     "rs": "Rust",
     "go": "Go",
     "hs": "Haskell",
+    "js": "JavaScript",
 }
 summary = {}
 

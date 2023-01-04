@@ -930,6 +930,18 @@
         --8<-- "src/easy/fizzbuzz.py"
         ```
 
+??? success "Flexible Spaces"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/flexible](https://open.kattis.com/problems/flexible).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/flexible.py"
+        ```
+
 ??? success "Birthday Memorization"
 
     === "Problem"
@@ -1038,6 +1050,18 @@
         --8<-- "src/easy/greetings2.py"
         ```
 
+??? success "Hangman"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/hangman](https://open.kattis.com/problems/hangman).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hangman.py"
+        ```
+
 ??? success "Harshad Numbers"
 
     === "Problem"
@@ -1126,6 +1150,12 @@
 
         ```java linenums="1"
         --8<-- "src/easy/hello.java"
+        ```
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/hello.js"
         ```
 
     === "Python"
@@ -1924,6 +1954,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/prsteni.py"
+        ```
+
+??? success "Prva"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/prva](https://open.kattis.com/problems/prva).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/prva.py"
         ```
 
 ??? success "Ptice"

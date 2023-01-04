@@ -1,17 +1,5 @@
 # Difficulty - Easy
 
-??? success "3D Printed Statues"
-
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/3dprinter](https://open.kattis.com/problems/3dprinter).
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/3dprinter.py"
-        ```
-
 ??? success "99 Problems"
 
     === "Problem"
@@ -220,6 +208,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/avion.py"
+        ```
+
+??? success "Babelfish"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/babelfish](https://open.kattis.com/problems/babelfish).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/babelfish.py"
         ```
 
 ??? success "Basketball One-on-One"
@@ -1704,6 +1704,18 @@
         --8<-- "src/easy/overdraft.py"
         ```
 
+??? success "The Owl and the Fox"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/owlandfox](https://open.kattis.com/problems/owlandfox).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/owlandfox.py"
+        ```
+
 ??? success "Parking"
 
     === "Problem"
@@ -2208,6 +2220,18 @@
         --8<-- "src/easy/simonsays.py"
         ```
 
+??? success "Simple Addition"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/simpleaddition](https://open.kattis.com/problems/simpleaddition).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/simpleaddition.py"
+        ```
+
 ??? success "Skener"
 
     === "Problem"
@@ -2290,6 +2314,30 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sodaslurper.py"
+        ```
+
+??? success "Sort"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sort](https://open.kattis.com/problems/sort).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sort.py"
+        ```
+
+??? success "Sort of Sorting"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sortofsorting](https://open.kattis.com/problems/sortofsorting).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sortofsorting.py"
         ```
 
 ??? success "Sort Two Numbers"

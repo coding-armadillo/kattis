@@ -24,6 +24,30 @@
         --8<-- "src/medium/arithmetic.py"
         ```
 
+??? success "Bus Numbers"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/busnumbers](https://open.kattis.com/problems/busnumbers).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/busnumbers.py"
+        ```
+
+??? success "Guess the Number"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/guess](https://open.kattis.com/problems/guess).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/guess.py"
+        ```
+
 ??? success "Simon Says"
 
     === "Problem"

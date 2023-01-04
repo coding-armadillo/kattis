@@ -120,6 +120,18 @@
         --8<-- "src/easy/amsterdamdistance.py"
         ```
 
+??? success "A New Alphabet"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/anewalphabet](https://open.kattis.com/problems/anewalphabet).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/anewalphabet.py"
+        ```
+
 ??? success "Apaxiaaaaaaaaaaaans!"
 
     === "Problem"
@@ -222,6 +234,18 @@
         --8<-- "src/easy/babelfish.py"
         ```
 
+??? success "Backspace"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/backspace](https://open.kattis.com/problems/backspace).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/backspace.py"
+        ```
+
 ??? success "Basketball One-on-One"
 
     === "Problem"
@@ -316,6 +340,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/boatparts.py"
+        ```
+
+??? success "Booking a Room"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/bookingaroom](https://open.kattis.com/problems/bookingaroom).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bookingaroom.py"
         ```
 
 ??? success "Bus"
@@ -790,6 +826,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/everywhere.py"
+        ```
+
+??? success "Expected Earnings"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/expectedearnings](https://open.kattis.com/problems/expectedearnings).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/expectedearnings.py"
         ```
 
 ??? success "Eye of Sauron"
@@ -1426,6 +1474,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/licensetolaunch.py"
+        ```
+
+??? success "Line Them Up"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/lineup](https://open.kattis.com/problems/lineup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/lineup.py"
         ```
 
 ??? success "Logic Functions"

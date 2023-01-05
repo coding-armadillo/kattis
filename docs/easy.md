@@ -486,6 +486,18 @@
         --8<-- "src/easy/convexpolygonarea.py"
         ```
 
+??? success "Cooking Water"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cookingwater](https://open.kattis.com/problems/cookingwater).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cookingwater.py"
+        ```
+
 ??? success "Count the Vowels"
 
     === "Problem"
@@ -1224,6 +1236,18 @@
         --8<-- "src/easy/hittingtargets.py"
         ```
 
+??? success "Hot Hike"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/hothike](https://open.kattis.com/problems/hothike).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hothike.py"
+        ```
+
 ??? success "The Amazing Human Cannonball"
 
     === "Problem"
@@ -1816,6 +1840,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/parking2.py"
+        ```
+
+??? success "Patuljci"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/patuljci](https://open.kattis.com/problems/patuljci).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/patuljci.py"
         ```
 
 ??? success "Paul Eigon"
@@ -2416,6 +2452,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sodaslurper.py"
+        ```
+
+??? success "Some Sum"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/somesum](https://open.kattis.com/problems/somesum).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/somesum.py"
         ```
 
 ??? success "Sort"

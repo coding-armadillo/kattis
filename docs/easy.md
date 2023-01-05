@@ -990,6 +990,18 @@
         --8<-- "src/easy/freefood.py"
         ```
 
+??? success "From A to B"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/fromatob](https://open.kattis.com/problems/fromatob).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fromatob.py"
+        ```
+
 ??? success "FYI"
 
     === "Problem"
@@ -1684,6 +1696,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/nodup.py"
+        ```
+
+??? success "No Thanks!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/nothanks](https://open.kattis.com/problems/nothanks).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/nothanks.py"
         ```
 
 ??? success "N-sum"
@@ -2500,6 +2524,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sorttwonumbers.py"
+        ```
+
+??? success "Soylent"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/soylent](https://open.kattis.com/problems/soylent).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/soylent.py"
         ```
 
 ??? success "Spavanac"

@@ -1680,6 +1680,12 @@
 
         See detail at [https://open.kattis.com/problems/nastyhacks](https://open.kattis.com/problems/nastyhacks).
 
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/nastyhacks.cpp"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -2741,6 +2747,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/timeloop](https://open.kattis.com/problems/timeloop).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/timeloop.cpp"
+        ```
 
     === "Python"
 

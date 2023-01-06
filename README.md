@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src="https://open.kattis.com/images/site-logo" alt="logo" height="128">
 </div>
@@ -28,6 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Lucaswu2008"><img src="https://avatars.githubusercontent.com/u/81584640?v=4?s=100" width="100px;" alt="Lucaswu2008"/><br /><sub><b>Lucaswu2008</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=Lucaswu2008" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/crigolo"><img src="https://avatars.githubusercontent.com/u/90223690?v=4?s=100" width="100px;" alt="crigolo"/><br /><sub><b>crigolo</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=crigolo" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

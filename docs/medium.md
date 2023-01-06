@@ -1,5 +1,17 @@
 # Difficulty - Medium
 
+??? success "404: Not Found"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/1dfrogger](https://open.kattis.com/problems/1dfrogger).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/medium/1dfrogger.cpp"
+        ```
+
 ??? success "3D Printed Statues"
 
     === "Problem"

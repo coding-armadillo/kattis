@@ -402,6 +402,18 @@
         --8<-- "src/easy/carrots.py"
         ```
 
+??? success "Cetiri"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/cetiri](https://open.kattis.com/problems/cetiri).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cetiri.py"
+        ```
+
 ??? success "Cetvrta"
 
     === "Problem"
@@ -802,6 +814,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/encodedmessage.py"
+        ```
+
+??? success "Espresso!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/espresso](https://open.kattis.com/problems/espresso).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/espresso.py"
         ```
 
 ??? success "Estimating the Area of a Circle"
@@ -2484,6 +2508,18 @@
         --8<-- "src/easy/sodaslurper.py"
         ```
 
+??? success "Sok"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sok](https://open.kattis.com/problems/sok).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sok.py"
+        ```
+
 ??? success "Some Sum"
 
     === "Problem"
@@ -2525,6 +2561,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers).
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/easy/sorttwonumbers.cpp"
+        ```
 
     === "Python"
 
@@ -2992,6 +3034,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/zanzibar.py"
+        ```
+
+??? success "Un-bear-able Zoo"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/zoo](https://open.kattis.com/problems/zoo).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/zoo.py"
         ```
 
 ??? success "Zoom"

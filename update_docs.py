@@ -30,7 +30,20 @@ for folder in folders:
     uri = f"src/{folder}"
     if not Path(uri).exists():
         Path(uri).mkdir(exist_ok=True)
-    subprocess.call(["black", uri])
+    subprocess.call(
+        [
+            "black",
+            uri,
+        ]
+    )
+    subprocess.call(
+        [
+            "clang-format",
+            "-i",
+            f"{Path('src')/folder/'*.cpp'}",
+            "-style=Microsoft",
+        ]
+    )
     files = list(Path(uri).glob("*"))
     solutions = {}
 

@@ -1,15 +1,21 @@
 # Difficulty - Medium
 
-??? success "404: Not Found"
+??? success "1-D Frogger (Easy)"
 
     === "Problem"
 
-        See detail at [https://open.kattis.com/problems/1dfrogger](https://open.kattis.com/problems/1dfrogger).
+        See detail at [https://open.kattis.com/problems/1dfroggereasy](https://open.kattis.com/problems/1dfroggereasy).
 
     === "C++"
 
         ```cpp linenums="1"
-        --8<-- "src/medium/1dfrogger.cpp"
+        --8<-- "src/medium/1dfroggereasy.cpp"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/1dfroggereasy.py"
         ```
 
 ??? success "3D Printed Statues"
@@ -22,6 +28,18 @@
 
         ```py linenums="1"
         --8<-- "src/medium/3dprinter.py"
+        ```
+
+??? success "4 thought"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/4thought](https://open.kattis.com/problems/4thought).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/4thought.py"
         ```
 
 ??? success "Arithmetic"

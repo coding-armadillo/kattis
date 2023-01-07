@@ -1602,6 +1602,18 @@
         --8<-- "src/easy/lostlineup.py"
         ```
 
+??? success "Luhn's Checksum Algorithm"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/luhnchecksum](https://open.kattis.com/problems/luhnchecksum).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/luhnchecksum.py"
+        ```
+
 ??? success "Magic Trick"
 
     === "Problem"
@@ -2976,6 +2988,18 @@
         --8<-- "src/easy/upprodun.py"
         ```
 
+??? success "Veci"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/veci](https://open.kattis.com/problems/veci).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/veci.py"
+        ```
+
 ??? success "Weak Vertices"
 
     === "Problem"
@@ -3004,6 +3028,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/whichisgreater.py"
+        ```
+
+??? success "Yoda"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/yoda](https://open.kattis.com/problems/yoda).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/yoda.py"
         ```
 
 ??? success "Zamka"

@@ -1,4 +1,4 @@
-# Difficulty - Hard
+# Difficulty - Hard (as of 2023-01-07)
 
 ??? failure "10 Kinds of People"
 

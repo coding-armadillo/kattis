@@ -1,4 +1,4 @@
-# Difficulty - Medium
+# Difficulty - Medium (as of 2023-01-07)
 
 ??? success "1-D Frogger (Easy)"
 

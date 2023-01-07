@@ -1,4 +1,4 @@
-# Difficulty - Easy
+# Difficulty - Easy (as of 2023-01-07)
 
 ??? success "99 Problems"
 
@@ -570,6 +570,18 @@
         --8<-- "src/easy/cutinline.py"
         ```
 
+??? success "Damaged Equation"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/damagedequation](https://open.kattis.com/problems/damagedequation).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/damagedequation.py"
+        ```
+
 ??? success "Datum"
 
     === "Problem"
@@ -1062,6 +1074,18 @@
         --8<-- "src/easy/gcvwr.py"
         ```
 
+??? success "Gerrymandering"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/gerrymandering](https://open.kattis.com/problems/gerrymandering).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/gerrymandering.py"
+        ```
+
 ??? success "Grading"
 
     === "Problem"
@@ -1432,6 +1456,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/kemija08.py"
+        ```
+
+??? success "Keywords"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/keywords](https://open.kattis.com/problems/keywords).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/keywords.py"
         ```
 
 ??? success "Knight Packing"
@@ -2692,6 +2728,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/sumkindofproblem.py"
+        ```
+
+??? success "Sum of the Others"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sumoftheothers](https://open.kattis.com/problems/sumoftheothers).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sumoftheothers.py"
         ```
 
 ??? success "Sum Squared Digits Function"

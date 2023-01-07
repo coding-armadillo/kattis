@@ -1,7 +1,13 @@
 # Kattis
 
-- [Easy ^233^](easy.md)
+## Summary by Difficulty of Problems Solved
+
+- [Easy ^237^](easy.md)
 
 - [Medium ^8^](medium.md)
 
 - [Hard ^1^](hard.md)
+
+## Summary by First Character of Problems Solved
+
+![summary-by-first-char](summary-by-first-char.png)

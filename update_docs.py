@@ -1,8 +1,10 @@
-import subprocess
-from pathlib import Path
 import pickle
+import subprocess
+from datetime import date
+from pathlib import Path
 
 import requests
+import seaborn as sns
 import urllib3
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -60,8 +62,8 @@ for folder in folders:
     print()
 
     summary[folder] = total
-
-    text = f"# Difficulty - {folder.capitalize()}\n"
+    now = date.today()
+    text = f"# Difficulty - {folder.capitalize()} (as of {now})\n"
     for solution, languages in tqdm(sorted(solutions.items())):
         url = f"https://open.kattis.com/problems/{solution}"
         if solution in cache:
@@ -93,13 +95,27 @@ for folder in folders:
         f.write(text)
 
 with open("docs/index.md", "w") as f:
-    text = "# Kattis\n"
+    text = """# Kattis
+
+## Summary by Difficulty of Problems Solved
+"""
 
     for folder, total in summary.items():
         text += f"""
 - [{folder.capitalize()} ^{total}^]({folder}.md)
 """
+    text += f"""
+## Summary by First Character of Problems Solved
+
+![summary-by-first-char](summary-by-first-char.png)
+"""
     f.write(text)
 
 with open("docs/.cache", "wb") as f:
     pickle.dump(cache, f)
+
+from collections import Counter
+
+s = Counter([k[0] for k in cache.values()])
+ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
+ax.get_figure().savefig("docs/summary-by-first-char.png", bbox_inches="tight")

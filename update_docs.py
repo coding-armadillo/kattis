@@ -32,20 +32,26 @@ for folder in folders:
     uri = f"src/{folder}"
     if not Path(uri).exists():
         Path(uri).mkdir(exist_ok=True)
-    subprocess.call(
-        [
-            "black",
-            uri,
-        ]
-    )
-    subprocess.call(
-        [
-            "clang-format",
-            "-i",
-            f"{Path('src')/folder/'*.cpp'}",
-            "-style=Microsoft",
-        ]
-    )
+    try:
+        subprocess.call(
+            [
+                "black",
+                uri,
+            ]
+        )
+    except:
+        pass
+    try:
+        subprocess.call(
+            [
+                "clang-format",
+                "-i",
+                f"{Path('src')/folder/'*.cpp'}",
+                "-style=Microsoft",
+            ]
+        )
+    except:
+        pass
     files = list(Path(uri).glob("*"))
     solutions = {}
 
@@ -80,7 +86,7 @@ for folder in folders:
 
         See detail at [{url}]({url}).
 """
-        for language in languages:
+        for language in sorted(languages):
             ext = language.split(".")[-1]
             card += f"""
     === "{language_map[ext]}"

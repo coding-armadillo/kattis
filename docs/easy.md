@@ -330,6 +330,18 @@
         --8<-- "src/easy/bijele.py"
         ```
 
+??? success "Black Friday"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/blackfriday](https://open.kattis.com/problems/blackfriday).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/blackfriday.py"
+        ```
+
 ??? success "Boat Parts"
 
     === "Problem"
@@ -2196,6 +2208,18 @@
         --8<-- "src/easy/quickestimate.py"
         ```
 
+??? success "Quite a Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/quiteaproblem](https://open.kattis.com/problems/quiteaproblem).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/quiteaproblem.py"
+        ```
+
 ??? success "R2"
 
     === "Problem"
@@ -2410,6 +2434,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/shatteredcake.py"
+        ```
+
+??? success "Shopaholic"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/shopaholic](https://open.kattis.com/problems/shopaholic).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/shopaholic.py"
         ```
 
 ??? success "Shopping List (Easy)"
@@ -3058,6 +3094,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/weakvertices.py"
+        ```
+
+??? success "What does the fox say?"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/whatdoesthefoxsay](https://open.kattis.com/problems/whatdoesthefoxsay).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/whatdoesthefoxsay.py"
         ```
 
 ??? success "Which is Greater?"

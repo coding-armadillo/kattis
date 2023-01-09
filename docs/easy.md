@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-07)
+# Difficulty - Easy (as of 2023-01-08)
 
 ??? success "99 Problems"
 
@@ -484,6 +484,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/cold.py"
+        ```
+
+??? success "Compound Words"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/compoundwords](https://open.kattis.com/problems/compoundwords).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/compoundwords.py"
         ```
 
 ??? success "Cryptographer's Conundrum"
@@ -1744,6 +1756,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/modulo.py"
+        ```
+
+??? success "Moscow Dream"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/moscowdream](https://open.kattis.com/problems/moscowdream).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/moscowdream.py"
         ```
 
 ??? success "Mult!"

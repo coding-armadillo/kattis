@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-08)
+# Difficulty - Easy (as of 2023-01-09)
 
 ??? success "99 Problems"
 
@@ -246,6 +246,18 @@
         --8<-- "src/easy/backspace.py"
         ```
 
+??? success "Bacon, Eggs, and Spam"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/baconeggsandspam](https://open.kattis.com/problems/baconeggsandspam).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/baconeggsandspam.py"
+        ```
+
 ??? success "Basketball One-on-One"
 
     === "Problem"
@@ -460,6 +472,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/cocktail.py"
+        ```
+
+??? success "Code to Save Lives"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/codetosavelives](https://open.kattis.com/problems/codetosavelives).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/codetosavelives.py"
         ```
 
 ??? success "Coffee Cup Combo"
@@ -1746,6 +1770,18 @@
         --8<-- "src/easy/mixedfractions.py"
         ```
 
+??? success "Moderate Pace"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/moderatepace](https://open.kattis.com/problems/moderatepace).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/moderatepace.py"
+        ```
+
 ??? success "Modulo"
 
     === "Problem"
@@ -1966,6 +2002,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/owlandfox.py"
+        ```
+
+??? success "Parking"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/parking](https://open.kattis.com/problems/parking).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/parking.py"
         ```
 
 ??? success "Parking"
@@ -2886,6 +2934,18 @@
         --8<-- "src/easy/testdrive.py"
         ```
 
+??? success "Tetration"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/tetration](https://open.kattis.com/problems/tetration).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tetration.py"
+        ```
+
 ??? success "The Last Problem"
 
     === "Problem"
@@ -2920,6 +2980,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/timeloop.py"
+        ```
+
+??? success "Töflur"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/toflur](https://open.kattis.com/problems/toflur).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/toflur.py"
         ```
 
 ??? success "Transit Woes"
@@ -3108,6 +3180,18 @@
         --8<-- "src/easy/veci.py"
         ```
 
+??? success "Warehouse"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/warehouse](https://open.kattis.com/problems/warehouse).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/warehouse.py"
+        ```
+
 ??? success "Weak Vertices"
 
     === "Problem"
@@ -3148,6 +3232,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/whichisgreater.py"
+        ```
+
+??? success "Wizard of Odds"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/wizardofodds](https://open.kattis.com/problems/wizardofodds).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/wizardofodds.py"
         ```
 
 ??? success "Yoda"

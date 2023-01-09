@@ -378,6 +378,18 @@
         --8<-- "src/easy/bookingaroom.py"
         ```
 
+??? success "Buka"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/buka](https://open.kattis.com/problems/buka).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/buka.py"
+        ```
+
 ??? success "Bus"
 
     === "Problem"
@@ -688,18 +700,6 @@
 
         ```py linenums="1"
         --8<-- "src/easy/dicegame.py"
-        ```
-
-??? success "A Different Problem"
-
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/different.py"
         ```
 
 ??? success "Different Distances"
@@ -2082,6 +2082,18 @@
         --8<-- "src/easy/pauleigon.py"
         ```
 
+??? success "Pervasive Heart Monitor"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pervasiveheartmonitor](https://open.kattis.com/problems/pervasiveheartmonitor).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pervasiveheartmonitor.py"
+        ```
+
 ??? success "Pet"
 
     === "Problem"
@@ -2826,6 +2838,18 @@
         --8<-- "src/easy/speedlimit.py"
         ```
 
+??? success "Spelling Bee"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/spellingbee](https://open.kattis.com/problems/spellingbee).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/spellingbee.py"
+        ```
+
 ??? success "Square Peg"
 
     === "Problem"
@@ -3214,6 +3238,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/veci.py"
+        ```
+
+??? success "Popular Vote"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/vote](https://open.kattis.com/problems/vote).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vote.py"
         ```
 
 ??? success "Warehouse"

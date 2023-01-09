@@ -1,4 +1,4 @@
-# Difficulty - Medium (as of 2023-01-07)
+# Difficulty - Medium (as of 2023-01-09)
 
 ??? success "1-D Frogger (Easy)"
 
@@ -64,6 +64,18 @@
 
         ```py linenums="1"
         --8<-- "src/medium/busnumbers.py"
+        ```
+
+??? success "A Different Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/different.py"
         ```
 
 ??? success "Guess the Number"

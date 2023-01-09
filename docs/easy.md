@@ -780,6 +780,18 @@
         --8<-- "src/easy/drmmessages.py"
         ```
 
+??? success "Drunk Vigenère"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/drunkvigenere](https://open.kattis.com/problems/drunkvigenere).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/drunkvigenere.py"
+        ```
+
 ??? success "Early Winter"
 
     === "Problem"
@@ -1504,6 +1516,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/kemija08.py"
+        ```
+
+??? success "The Key to Cryptography"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/keytocrypto](https://open.kattis.com/problems/keytocrypto).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/keytocrypto.py"
         ```
 
 ??? success "Keywords"
@@ -2404,6 +2428,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/reversebinary.py"
+        ```
+
+??? success "Reverse Rot"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/reverserot](https://open.kattis.com/problems/reverserot).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/reverserot.py"
         ```
 
 ??? success "Riječi"

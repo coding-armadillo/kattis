@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-09)
+# Difficulty - Easy (as of 2023-01-10)
 
 ??? success "99 Problems"
 
@@ -210,6 +210,18 @@
         --8<-- "src/easy/autori.py"
         ```
 
+??? success "Average Character"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/averagecharacter](https://open.kattis.com/problems/averagecharacter).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/averagecharacter.py"
+        ```
+
 ??? success "Avion"
 
     === "Problem"
@@ -232,6 +244,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/babelfish.py"
+        ```
+
+??? success "Baby Bites"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/babybites](https://open.kattis.com/problems/babybites).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/babybites.py"
         ```
 
 ??? success "Backspace"
@@ -286,6 +310,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/batterup.py"
+        ```
+
+??? success "Beat the Spread!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/beatspread](https://open.kattis.com/problems/beatspread).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/beatspread.py"
         ```
 
 ??? success "Beavergnaw"
@@ -888,6 +924,18 @@
         --8<-- "src/easy/encodedmessage.py"
         ```
 
+??? success "Erase Securely"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/erase](https://open.kattis.com/problems/erase).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/erase.py"
+        ```
+
 ??? success "Espresso!"
 
     === "Problem"
@@ -970,6 +1018,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/faktor.py"
+        ```
+
+??? success "Falling Apart"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/fallingapart](https://open.kattis.com/problems/fallingapart).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fallingapart.py"
         ```
 
 ??? success "Fifty Shades of Pink"
@@ -3004,6 +3064,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/tetration.py"
+        ```
+
+??? success "The Grand Adventure"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/thegrandadventure](https://open.kattis.com/problems/thegrandadventure).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/thegrandadventure.py"
         ```
 
 ??? success "The Last Problem"

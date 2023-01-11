@@ -11,3 +11,7 @@
 ## Summary by First Character of Problems Solved
 
 ![summary-by-first-char](summary-by-first-char.png)
+
+## Summary by Language Used of Problems Solved
+
+![summary-by-language](summary-by-language.png)

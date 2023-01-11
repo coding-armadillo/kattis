@@ -1,8 +1,10 @@
 import pickle
 import subprocess
+from collections import Counter
 from datetime import date
 from pathlib import Path
 
+import matplotlib.pyplot as plt
 import requests
 import seaborn as sns
 import urllib3
@@ -21,6 +23,7 @@ language_map = {
     "js": "JavaScript",
 }
 summary = {}
+all_files = []
 
 try:
     with open("docs/.cache", "rb") as f:
@@ -60,6 +63,7 @@ for folder in folders:
             solutions[file.stem] = [file.name]
         else:
             solutions[file.stem].append(file.name)
+        all_files.append(file.name)
 
     total = len(solutions)
     s = "s" if total > 1 else ""
@@ -114,14 +118,22 @@ with open("docs/index.md", "w") as f:
 ## Summary by First Character of Problems Solved
 
 ![summary-by-first-char](summary-by-first-char.png)
+
+## Summary by Language Used of Problems Solved
+
+![summary-by-language](summary-by-language.png)
 """
     f.write(text)
 
 with open("docs/.cache", "wb") as f:
     pickle.dump(cache, f)
 
-from collections import Counter
-
 s = Counter([k[0] for k in cache.values()])
 ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
 ax.get_figure().savefig("docs/summary-by-first-char.png", bbox_inches="tight")
+
+plt.clf()
+
+s = Counter([language_map[f.split(".")[-1]] for f in all_files])
+ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
+ax.get_figure().savefig("docs/summary-by-language.png", bbox_inches="tight")

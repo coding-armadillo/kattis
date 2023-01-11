@@ -414,6 +414,36 @@
         --8<-- "src/easy/bookingaroom.py"
         ```
 
+??? success "Breaking Branches"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/breakingbranches](https://open.kattis.com/problems/breakingbranches).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/breakingbranches.go"
+        ```
+
+    === "Haskell"
+
+        ```hs linenums="1"
+        --8<-- "src/easy/breakingbranches.hs"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/breakingbranches.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/breakingbranches.py"
+        ```
+
 ??? success "Buka"
 
     === "Problem"
@@ -755,6 +785,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/digitswap](https://open.kattis.com/problems/digitswap).
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/digitswap.java"
+        ```
 
     === "Python"
 
@@ -1458,6 +1494,12 @@
 
         See detail at [https://open.kattis.com/problems/isithalloween](https://open.kattis.com/problems/isithalloween).
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/isithalloween.go"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1744,6 +1786,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/lineup.py"
+        ```
+
+??? success "A List Game"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/listgame](https://open.kattis.com/problems/listgame).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/listgame.py"
         ```
 
 ??? success "Logic Functions"
@@ -2140,6 +2194,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/pauleigon.py"
+        ```
+
+??? success "Pea Soup and Pancakes"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/peasoup](https://open.kattis.com/problems/peasoup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/peasoup.py"
         ```
 
 ??? success "Pervasive Heart Monitor"

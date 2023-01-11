@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-10)
+# Difficulty - Easy (as of 2023-01-11)
 
 ??? success "99 Problems"
 
@@ -1350,6 +1350,18 @@
         --8<-- "src/easy/heirsdilemma.py"
         ```
 
+??? success "Heliocentric"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/heliocentric](https://open.kattis.com/problems/heliocentric).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/heliocentric.py"
+        ```
+
 ??? success "Hello World!"
 
     === "Problem"
@@ -1504,6 +1516,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/isithalloween.py"
+        ```
+
+??? success "Jabuke"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jabuke.py"
         ```
 
 ??? success "Jack-O'-Lantern Juxtaposition"
@@ -1906,6 +1930,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/mixedfractions.py"
+        ```
+
+??? success "Mjehuric"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/mjehuric](https://open.kattis.com/problems/mjehuric).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mjehuric.py"
         ```
 
 ??? success "Moderate Pace"
@@ -2608,6 +2644,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/romans.py"
+        ```
+
+??? success "Run-Length Encoding, Run!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/runlengthencodingrun](https://open.kattis.com/problems/runlengthencodingrun).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/runlengthencodingrun.py"
         ```
 
 ??? success "Scaling Recipe"

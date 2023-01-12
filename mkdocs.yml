@@ -37,6 +37,7 @@ plugins:
   - git-revision-date-localized:
       type: date
 markdown_extensions:
+  - admonition
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.snippets

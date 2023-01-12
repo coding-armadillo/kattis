@@ -1,3 +1,4 @@
+import json
 import pickle
 import subprocess
 from collections import Counter
@@ -104,6 +105,10 @@ for folder in folders:
     with open(f"docs/{folder}.md", "w", encoding="utf-8") as f:
         f.write(text)
 
+with open(".all-contributorsrc") as f:
+    data = json.load(f)
+    num_contributors = len(data["contributors"])
+
 with open("docs/index.md", "w") as f:
     text = """# Kattis
 
@@ -122,6 +127,10 @@ with open("docs/index.md", "w") as f:
 ## Summary by Language Used of Problems Solved
 
 ![summary-by-language](summary-by-language.png)
+
+!!! note ""
+
+    Thanks to all {num_contributors} [contributors](https://github.com/coding-armadillo/kattis#contributors-).
 """
     f.write(text)
 

@@ -15,3 +15,7 @@
 ## Summary by Language Used of Problems Solved
 
 ![summary-by-language](summary-by-language.png)
+
+!!! note ""
+
+    Thanks to all 3 [contributors](https://github.com/coding-armadillo/kattis#contributors-).

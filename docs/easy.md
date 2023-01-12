@@ -78,6 +78,12 @@
         --8<-- "src/easy/addtwonumbers.go"
         ```
 
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/addtwonumbers.java"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -132,6 +138,18 @@
         --8<-- "src/easy/anewalphabet.py"
         ```
 
+??? success "Another Brick in the Wall"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/anotherbrick](https://open.kattis.com/problems/anotherbrick).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/anotherbrick.py"
+        ```
+
 ??? success "Apaxiaaaaaaaaaaaans!"
 
     === "Problem"
@@ -184,6 +202,30 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/arithmeticfunctions.cpp"
+        ```
+
+??? success "Army Strength (Easy)"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/armystrengtheasy](https://open.kattis.com/problems/armystrengtheasy).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/armystrengtheasy.py"
+        ```
+
+??? success "Army Strength (Hard)"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/armystrengthhard](https://open.kattis.com/problems/armystrengthhard).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/armystrengthhard.py"
         ```
 
 ??? success "Astrological Sign"
@@ -1992,6 +2034,18 @@
         --8<-- "src/easy/mult.py"
         ```
 
+??? success "Musical Scales"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/musicalscales](https://open.kattis.com/problems/musicalscales).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/musicalscales.py"
+        ```
+
 ??? success "Nasty Hacks"
 
     === "Problem"
@@ -2502,6 +2556,12 @@
         --8<-- "src/easy/r2.cpp"
         ```
 
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/r2.go"
+        ```
+
     === "Java"
 
         ```java linenums="1"
@@ -2548,6 +2608,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/railroad2.py"
+        ```
+
+??? success "A Rank Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/rankproblem](https://open.kattis.com/problems/rankproblem).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/rankproblem.py"
         ```
 
 ??? success "Rating Problems"

@@ -1,4 +1,4 @@
-# Difficulty - Medium (as of 2023-01-10)
+# Difficulty - Medium (as of 2023-01-11)
 
 ??? success "1-D Frogger (Easy)"
 
@@ -23,6 +23,18 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/3dprinter](https://open.kattis.com/problems/3dprinter).
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/medium/3dprinter.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/medium/3dprinter.java"
+        ```
 
     === "Python"
 

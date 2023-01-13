@@ -22,6 +22,7 @@ language_map = {
     "go": "Go",
     "hs": "Haskell",
     "js": "JavaScript",
+    "kt": "Kotlin",
 }
 summary = {}
 all_files = []

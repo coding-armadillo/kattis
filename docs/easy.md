@@ -432,6 +432,18 @@
         --8<-- "src/easy/blackfriday.py"
         ```
 
+??? success "Bluetooth"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/bluetooth](https://open.kattis.com/problems/bluetooth).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bluetooth.py"
+        ```
+
 ??? success "Boat Parts"
 
     === "Problem"
@@ -1270,6 +1282,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/gcvwr.py"
+        ```
+
+??? success "Gene Block"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/geneblock](https://open.kattis.com/problems/geneblock).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/geneblock.py"
         ```
 
 ??? success "Gerrymandering"
@@ -3676,6 +3700,18 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/whichisgreater.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/whichisgreater.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/whichisgreater.java"
         ```
 
     === "Python"

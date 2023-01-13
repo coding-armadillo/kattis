@@ -84,6 +84,12 @@
         --8<-- "src/easy/addtwonumbers.java"
         ```
 
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/addtwonumbers.js"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1566,6 +1572,12 @@
         --8<-- "src/easy/hissingmicrophone.cpp"
         ```
 
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/hissingmicrophone.js"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1769,6 +1781,12 @@
     === "Problem"
 
         See detail at [https://open.kattis.com/problems/kemija08](https://open.kattis.com/problems/kemija08).
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/kemija08.js"
+        ```
 
     === "Python"
 
@@ -3444,6 +3462,18 @@
         --8<-- "src/easy/thelastproblem.py"
         ```
 
+??? success "This Ain't Your Grandpa's Checkerboard"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/thisaintyourgrandpascheckerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/thisaintyourgrandpascheckerboard.py"
+        ```
+
 ??? success "Stuck In A Time Loop"
 
     === "Problem"
@@ -3754,6 +3784,12 @@
 
         ```java linenums="1"
         --8<-- "src/easy/whichisgreater.java"
+        ```
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/whichisgreater.js"
         ```
 
     === "Python"

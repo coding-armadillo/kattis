@@ -146,4 +146,5 @@ plt.clf()
 
 s = Counter([language_map[f.split(".")[-1]] for f in all_files])
 ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
+ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
 ax.get_figure().savefig("docs/summary-by-language.png", bbox_inches="tight")

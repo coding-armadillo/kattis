@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-11)
+# Difficulty - Easy (as of 2023-01-12)
 
 ??? success "99 Problems"
 
@@ -1320,6 +1320,18 @@
         --8<-- "src/easy/greetings2.py"
         ```
 
+??? success "Hailstone Sequences"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/hailstone2](https://open.kattis.com/problems/hailstone2).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hailstone2.py"
+        ```
+
 ??? success "Hangman"
 
     === "Problem"
@@ -1440,6 +1452,12 @@
         --8<-- "src/easy/hello.js"
         ```
 
+    === "Kotlin"
+
+        ```kt linenums="1"
+        --8<-- "src/easy/hello.kt"
+        ```
+
     === "Python"
 
         ```py linenums="1"
@@ -1540,6 +1558,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/icpcawards.py"
+        ```
+
+??? success "Illuminati Spotti"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/illuminatispotti](https://open.kattis.com/problems/illuminatispotti).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/illuminatispotti.py"
         ```
 
 ??? success "IsItHalloween.com"
@@ -1866,6 +1896,18 @@
         --8<-- "src/easy/listgame.py"
         ```
 
+??? success "Locust Locus"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/locustlocus](https://open.kattis.com/problems/locustlocus).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/locustlocus.py"
+        ```
+
 ??? success "Logic Functions"
 
     === "Problem"
@@ -1936,6 +1978,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/marko.py"
+        ```
+
+??? success "Methodic Multiplication"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/methodicmultiplication.py"
         ```
 
 ??? success "Mia"
@@ -2020,6 +2074,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/moscowdream.py"
+        ```
+
+??? success "MrCodeFormatGrader"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/mrcodeformatgrader](https://open.kattis.com/problems/mrcodeformatgrader).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mrcodeformatgrader.py"
         ```
 
 ??? success "Mult!"
@@ -2502,6 +2568,12 @@
         --8<-- "src/easy/quadrant.py"
         ```
 
+    === "Rust"
+
+        ```rs linenums="1"
+        --8<-- "src/easy/quadrant.rs"
+        ```
+
 ??? success "Quick Brown Fox"
 
     === "Problem"
@@ -2730,6 +2802,18 @@
         --8<-- "src/easy/runlengthencodingrun.py"
         ```
 
+??? success "Saving For Retirement"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/savingforretirement](https://open.kattis.com/problems/savingforretirement).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/savingforretirement.py"
+        ```
+
 ??? success "Scaling Recipe"
 
     === "Problem"
@@ -2874,6 +2958,18 @@
         --8<-- "src/easy/simpleaddition.py"
         ```
 
+??? success "Sjecista"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/sjecista](https://open.kattis.com/problems/sjecista).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sjecista.py"
+        ```
+
 ??? success "Skener"
 
     === "Problem"
@@ -3016,6 +3112,12 @@
 
         ```cpp linenums="1"
         --8<-- "src/easy/sorttwonumbers.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/sorttwonumbers.go"
         ```
 
     === "Python"
@@ -3312,6 +3414,18 @@
         --8<-- "src/easy/toflur.py"
         ```
 
+??? success "ToLower"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/tolower](https://open.kattis.com/problems/tolower).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tolower.py"
+        ```
+
 ??? success "Transit Woes"
 
     === "Problem"
@@ -3412,6 +3526,12 @@
 
         ```java linenums="1"
         --8<-- "src/easy/twostones.java"
+        ```
+
+    === "Kotlin"
+
+        ```kt linenums="1"
+        --8<-- "src/easy/twostones.kt"
         ```
 
     === "Python"

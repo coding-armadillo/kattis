@@ -2,7 +2,7 @@
 
 ## Summary by Difficulty of Problems Solved
 
-- [Easy ^285^](easy.md)
+- [Easy ^288^](easy.md)
 
 - [Medium ^10^](medium.md)
 

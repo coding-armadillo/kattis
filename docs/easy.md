@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-12)
+# Difficulty - Easy (as of 2023-01-13)
 
 ??? success "99 Problems"
 
@@ -186,10 +186,28 @@
         --8<-- "src/easy/areal.go"
         ```
 
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/areal.js"
+        ```
+
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/easy/areal.py"
+        ```
+
+??? success "Are You Listening?"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/areyoulistening](https://open.kattis.com/problems/areyoulistening).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/areyoulistening.py"
         ```
 
 ??? success "Arithmetic Functions"
@@ -490,6 +508,12 @@
 
         ```java linenums="1"
         --8<-- "src/easy/breakingbranches.java"
+        ```
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/breakingbranches.js"
         ```
 
     === "Python"
@@ -1342,6 +1366,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/greetings2.py"
+        ```
+
+??? success "Watch Out For Those Hailstones!"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/hailstone](https://open.kattis.com/problems/hailstone).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hailstone.py"
         ```
 
 ??? success "Hailstone Sequences"
@@ -3552,6 +3588,12 @@
         --8<-- "src/easy/twostones.java"
         ```
 
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/easy/twostones.js"
+        ```
+
     === "Kotlin"
 
         ```kt linenums="1"
@@ -3730,6 +3772,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/wizardofodds.py"
+        ```
+
+??? success "Words for Numbers"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/wordsfornumbers](https://open.kattis.com/problems/wordsfornumbers).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/wordsfornumbers.py"
         ```
 
 ??? success "Yoda"

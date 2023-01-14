@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-13)
+# Difficulty - Easy (as of 2023-01-14)
 
 ??? success "99 Problems"
 
@@ -1818,6 +1818,18 @@
         --8<-- "src/easy/keywords.py"
         ```
 
+??? success "Kleptography"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/kleptography](https://open.kattis.com/problems/kleptography).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/kleptography.py"
+        ```
+
 ??? success "Knight Packing"
 
     === "Problem"
@@ -2374,6 +2386,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/owlandfox.py"
+        ```
+
+??? success "Pachyderm Peanut Packing"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/pachydermpeanutpacking](https://open.kattis.com/problems/pachydermpeanutpacking).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pachydermpeanutpacking.py"
         ```
 
 ??? success "Parking"

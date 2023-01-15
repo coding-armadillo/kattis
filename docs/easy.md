@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-14)
+# Difficulty - Easy (as of 2023-01-15)
 
 ??? success "99 Problems"
 
@@ -852,6 +852,18 @@
         --8<-- "src/easy/dicegame.py"
         ```
 
+??? success "A Different Problem"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/different.py"
+        ```
+
 ??? success "Different Distances"
 
     === "Problem"
@@ -1434,6 +1446,18 @@
         --8<-- "src/easy/haughtycuisine.py"
         ```
 
+??? success "Head Guard"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/headguard](https://open.kattis.com/problems/headguard).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/headguard.py"
+        ```
+
 ??? success "Heart Rate"
 
     === "Problem"
@@ -1972,18 +1996,6 @@
 
         ```py linenums="1"
         --8<-- "src/easy/lineup.py"
-        ```
-
-??? success "A List Game"
-
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/listgame](https://open.kattis.com/problems/listgame).
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/listgame.py"
         ```
 
 ??? success "Locust Locus"
@@ -3526,6 +3538,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/toflur.py"
+        ```
+
+??? success "Toilet Seat"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/toilet](https://open.kattis.com/problems/toilet).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/toilet.py"
         ```
 
 ??? success "ToLower"

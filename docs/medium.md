@@ -1,4 +1,4 @@
-# Difficulty - Medium (as of 2023-01-11)
+# Difficulty - Medium (as of 2023-01-15)
 
 ??? success "1-D Frogger (Easy)"
 
@@ -90,18 +90,6 @@
         --8<-- "src/medium/cd.py"
         ```
 
-??? success "A Different Problem"
-
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/medium/different.py"
-        ```
-
 ??? success "Guess the Number"
 
     === "Problem"
@@ -112,6 +100,18 @@
 
         ```py linenums="1"
         --8<-- "src/medium/guess.py"
+        ```
+
+??? success "A List Game"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/listgame](https://open.kattis.com/problems/listgame).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/listgame.py"
         ```
 
 ??? success "Simon Says"

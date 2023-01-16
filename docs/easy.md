@@ -1,4 +1,4 @@
-# Difficulty - Easy (as of 2023-01-15)
+# Difficulty - Easy (as of 2023-01-16)
 
 ??? success "99 Problems"
 
@@ -720,6 +720,18 @@
         --8<-- "src/easy/cookingwater.py"
         ```
 
+??? success "Counting Clauses"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/countingclauses](https://open.kattis.com/problems/countingclauses).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/countingclauses.py"
+        ```
+
 ??? success "Count the Vowels"
 
     === "Problem"
@@ -1162,6 +1174,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/fallingapart.py"
+        ```
+
+??? success "False Sense of Security"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/falsesecurity](https://open.kattis.com/problems/falsesecurity).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/falsesecurity.py"
         ```
 
 ??? success "Fifty Shades of Pink"
@@ -3760,6 +3784,18 @@
 
         ```py linenums="1"
         --8<-- "src/easy/veci.py"
+        ```
+
+??? success "Video Speedup"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/videospeedup](https://open.kattis.com/problems/videospeedup).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/videospeedup.py"
         ```
 
 ??? success "Popular Vote"

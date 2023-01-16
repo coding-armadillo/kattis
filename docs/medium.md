@@ -1,4 +1,4 @@
-# Difficulty - Medium (as of 2023-01-15)
+# Difficulty - Medium (as of 2023-01-16)
 
 ??? success "1-D Frogger (Easy)"
 
@@ -136,4 +136,16 @@
 
         ```py linenums="1"
         --8<-- "src/medium/vaccineefficacy.py"
+        ```
+
+??? success "WERTYU"
+
+    === "Problem"
+
+        See detail at [https://open.kattis.com/problems/wertyu](https://open.kattis.com/problems/wertyu).
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/wertyu.py"
         ```

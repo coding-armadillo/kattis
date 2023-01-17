@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-16)
+# Difficulty - Easy (as of 2023-01-17)
 
 ## [99 Problems](https://open.kattis.com/problems/99problems)
 
@@ -961,6 +961,16 @@ hide:
         --8<-- "src/easy/everywhere.py"
         ```
 
+## [Exam](https://open.kattis.com/problems/exam)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/exam.py"
+        ```
+
 ## [Expected Earnings](https://open.kattis.com/problems/expectedearnings)
 
 ??? success "Solution in Python"
@@ -1803,6 +1813,16 @@ hide:
         --8<-- "src/easy/marko.py"
         ```
 
+## [Math Homework](https://open.kattis.com/problems/mathhomework)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mathhomework.py"
+        ```
+
 ## [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication)
 
 ??? success "Solution in Python"
@@ -2215,6 +2235,16 @@ hide:
         --8<-- "src/easy/pokerhand.py"
         ```
 
+## [Popularity Contest](https://open.kattis.com/problems/popularitycontest)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/popularitycontest.py"
+        ```
+
 ## [Pot](https://open.kattis.com/problems/pot)
 
 ??? success "Solution in Python"
@@ -2539,6 +2569,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/schoolspirit.py"
+        ```
+
+## [Secret Message](https://open.kattis.com/problems/secretmessage)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/secretmessage.py"
         ```
 
 ## [Secure Doors](https://open.kattis.com/problems/securedoors)

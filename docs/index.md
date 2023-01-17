@@ -2,12 +2,6 @@
 
 ## Summary by Difficulty of Problems Solved
 
-- [Easy ^297^](easy.md)
-
-- [Medium ^12^](medium.md)
-
-- [Hard ^1^](hard.md)
-
 ## Summary by First Character of Problems Solved
 
 ![summary-by-first-char](summary-by-first-char.png)

@@ -1,10 +1,13 @@
-# Difficulty - Hard (as of 2023-01-07)
+---
+hide:
+  - toc
+---
 
-??? failure "10 Kinds of People"
+# Difficulty - Hard (as of 2023-01-16)
 
-    === "Problem"
+## [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)
 
-        See detail at [https://open.kattis.com/problems/10kindsofpeople](https://open.kattis.com/problems/10kindsofpeople).
+??? failure "Solution in Python"
 
     === "Python"
 

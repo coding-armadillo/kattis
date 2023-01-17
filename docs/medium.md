@@ -1,10 +1,13 @@
+---
+hide:
+  - toc
+---
+
 # Difficulty - Medium (as of 2023-01-16)
 
-??? success "1-D Frogger (Easy)"
+## [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/1dfroggereasy](https://open.kattis.com/problems/1dfroggereasy).
+??? success "Solutions in 2 languages"
 
     === "C++"
 
@@ -18,11 +21,9 @@
         --8<-- "src/medium/1dfroggereasy.py"
         ```
 
-??? success "3D Printed Statues"
+## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/3dprinter](https://open.kattis.com/problems/3dprinter).
+??? success "Solutions in 3 languages"
 
     === "Go"
 
@@ -42,11 +43,9 @@
         --8<-- "src/medium/3dprinter.py"
         ```
 
-??? success "4 thought"
+## [4 thought](https://open.kattis.com/problems/4thought)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/4thought](https://open.kattis.com/problems/4thought).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -54,11 +53,9 @@
         --8<-- "src/medium/4thought.py"
         ```
 
-??? success "Arithmetic"
+## [Arithmetic](https://open.kattis.com/problems/arithmetic)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/arithmetic](https://open.kattis.com/problems/arithmetic).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -66,11 +63,9 @@
         --8<-- "src/medium/arithmetic.py"
         ```
 
-??? success "Bus Numbers"
+## [Bus Numbers](https://open.kattis.com/problems/busnumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/busnumbers](https://open.kattis.com/problems/busnumbers).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -78,11 +73,9 @@
         --8<-- "src/medium/busnumbers.py"
         ```
 
-??? success "CD"
+## [CD](https://open.kattis.com/problems/cd)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cd](https://open.kattis.com/problems/cd).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -90,11 +83,9 @@
         --8<-- "src/medium/cd.py"
         ```
 
-??? success "Guess the Number"
+## [Guess the Number](https://open.kattis.com/problems/guess)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/guess](https://open.kattis.com/problems/guess).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -102,11 +93,9 @@
         --8<-- "src/medium/guess.py"
         ```
 
-??? success "A List Game"
+## [A List Game](https://open.kattis.com/problems/listgame)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/listgame](https://open.kattis.com/problems/listgame).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -114,11 +103,9 @@
         --8<-- "src/medium/listgame.py"
         ```
 
-??? success "Simon Says"
+## [Simon Says](https://open.kattis.com/problems/simon)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/simon](https://open.kattis.com/problems/simon).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -126,11 +113,9 @@
         --8<-- "src/medium/simon.py"
         ```
 
-??? success "Vaccine Efficacy"
+## [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/vaccineefficacy](https://open.kattis.com/problems/vaccineefficacy).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -138,11 +123,9 @@
         --8<-- "src/medium/vaccineefficacy.py"
         ```
 
-??? success "WERTYU"
+## [WERTYU](https://open.kattis.com/problems/wertyu)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/wertyu](https://open.kattis.com/problems/wertyu).
+??? success "Solution in Python"
 
     === "Python"
 

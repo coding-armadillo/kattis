@@ -1,10 +1,13 @@
+---
+hide:
+  - toc
+---
+
 # Difficulty - Easy (as of 2023-01-16)
 
-??? success "99 Problems"
+## [99 Problems](https://open.kattis.com/problems/99problems)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/99problems](https://open.kattis.com/problems/99problems).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -12,11 +15,9 @@
         --8<-- "src/easy/99problems.py"
         ```
 
-??? success "Aaah!"
+## [Aaah!](https://open.kattis.com/problems/aaah)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/aaah](https://open.kattis.com/problems/aaah).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -30,11 +31,9 @@
         --8<-- "src/easy/aaah.py"
         ```
 
-??? success "ABC"
+## [ABC](https://open.kattis.com/problems/abc)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/abc](https://open.kattis.com/problems/abc).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -42,11 +41,9 @@
         --8<-- "src/easy/abc.py"
         ```
 
-??? success "Above Average"
+## [Above Average](https://open.kattis.com/problems/aboveaverage)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/aboveaverage](https://open.kattis.com/problems/aboveaverage).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -54,11 +51,9 @@
         --8<-- "src/easy/aboveaverage.py"
         ```
 
-??? success "ACM Contest Scoring"
+## [ACM Contest Scoring](https://open.kattis.com/problems/acm)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/acm](https://open.kattis.com/problems/acm).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -66,11 +61,9 @@
         --8<-- "src/easy/acm.py"
         ```
 
-??? success "Add Two Numbers"
+## [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/addtwonumbers](https://open.kattis.com/problems/addtwonumbers).
+??? success "Solutions in 4 languages"
 
     === "Go"
 
@@ -96,11 +89,9 @@
         --8<-- "src/easy/addtwonumbers.py"
         ```
 
-??? success "Akcija"
+## [Akcija](https://open.kattis.com/problems/akcija)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/akcija](https://open.kattis.com/problems/akcija).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -108,11 +99,9 @@
         --8<-- "src/easy/akcija.py"
         ```
 
-??? success "Alphabet Spam"
+## [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/alphabetspam](https://open.kattis.com/problems/alphabetspam).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -120,11 +109,9 @@
         --8<-- "src/easy/alphabetspam.py"
         ```
 
-??? success "Amsterdam Distance"
+## [Amsterdam Distance](https://open.kattis.com/problems/amsterdamdistance)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/amsterdamdistance](https://open.kattis.com/problems/amsterdamdistance).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -132,11 +119,9 @@
         --8<-- "src/easy/amsterdamdistance.py"
         ```
 
-??? success "A New Alphabet"
+## [A New Alphabet](https://open.kattis.com/problems/anewalphabet)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/anewalphabet](https://open.kattis.com/problems/anewalphabet).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -144,11 +129,9 @@
         --8<-- "src/easy/anewalphabet.py"
         ```
 
-??? success "Another Brick in the Wall"
+## [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/anotherbrick](https://open.kattis.com/problems/anotherbrick).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -156,11 +139,9 @@
         --8<-- "src/easy/anotherbrick.py"
         ```
 
-??? success "Apaxiaaaaaaaaaaaans!"
+## [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/apaxiaaans](https://open.kattis.com/problems/apaxiaaans).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -168,11 +149,9 @@
         --8<-- "src/easy/apaxiaaans.py"
         ```
 
-??? success "Honour Thy (Apaxian) Parent"
+## [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/apaxianparent](https://open.kattis.com/problems/apaxianparent).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -180,11 +159,9 @@
         --8<-- "src/easy/apaxianparent.py"
         ```
 
-??? success "A Real Challenge"
+## [A Real Challenge](https://open.kattis.com/problems/areal)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/areal](https://open.kattis.com/problems/areal).
+??? success "Solutions in 3 languages"
 
     === "Go"
 
@@ -204,11 +181,9 @@
         --8<-- "src/easy/areal.py"
         ```
 
-??? success "Are You Listening?"
+## [Are You Listening?](https://open.kattis.com/problems/areyoulistening)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/areyoulistening](https://open.kattis.com/problems/areyoulistening).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -216,11 +191,9 @@
         --8<-- "src/easy/areyoulistening.py"
         ```
 
-??? success "Arithmetic Functions"
+## [Arithmetic Functions](https://open.kattis.com/problems/arithmeticfunctions)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/arithmeticfunctions](https://open.kattis.com/problems/arithmeticfunctions).
+??? success "Solution in C++"
 
     === "C++"
 
@@ -228,11 +201,9 @@
         --8<-- "src/easy/arithmeticfunctions.cpp"
         ```
 
-??? success "Army Strength (Easy)"
+## [Army Strength (Easy)](https://open.kattis.com/problems/armystrengtheasy)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/armystrengtheasy](https://open.kattis.com/problems/armystrengtheasy).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -240,11 +211,9 @@
         --8<-- "src/easy/armystrengtheasy.py"
         ```
 
-??? success "Army Strength (Hard)"
+## [Army Strength (Hard)](https://open.kattis.com/problems/armystrengthhard)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/armystrengthhard](https://open.kattis.com/problems/armystrengthhard).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -252,11 +221,9 @@
         --8<-- "src/easy/armystrengthhard.py"
         ```
 
-??? success "Astrological Sign"
+## [Astrological Sign](https://open.kattis.com/problems/astrologicalsign)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/astrologicalsign](https://open.kattis.com/problems/astrologicalsign).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -264,11 +231,9 @@
         --8<-- "src/easy/astrologicalsign.py"
         ```
 
-??? success "Autori"
+## [Autori](https://open.kattis.com/problems/autori)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/autori](https://open.kattis.com/problems/autori).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -276,11 +241,9 @@
         --8<-- "src/easy/autori.py"
         ```
 
-??? success "Average Character"
+## [Average Character](https://open.kattis.com/problems/averagecharacter)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/averagecharacter](https://open.kattis.com/problems/averagecharacter).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -288,11 +251,9 @@
         --8<-- "src/easy/averagecharacter.py"
         ```
 
-??? success "Avion"
+## [Avion](https://open.kattis.com/problems/avion)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/avion](https://open.kattis.com/problems/avion).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -300,11 +261,9 @@
         --8<-- "src/easy/avion.py"
         ```
 
-??? success "Babelfish"
+## [Babelfish](https://open.kattis.com/problems/babelfish)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/babelfish](https://open.kattis.com/problems/babelfish).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -312,11 +271,9 @@
         --8<-- "src/easy/babelfish.py"
         ```
 
-??? success "Baby Bites"
+## [Baby Bites](https://open.kattis.com/problems/babybites)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/babybites](https://open.kattis.com/problems/babybites).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -324,11 +281,9 @@
         --8<-- "src/easy/babybites.py"
         ```
 
-??? success "Backspace"
+## [Backspace](https://open.kattis.com/problems/backspace)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/backspace](https://open.kattis.com/problems/backspace).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -336,11 +291,9 @@
         --8<-- "src/easy/backspace.py"
         ```
 
-??? success "Bacon, Eggs, and Spam"
+## [Bacon, Eggs, and Spam](https://open.kattis.com/problems/baconeggsandspam)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/baconeggsandspam](https://open.kattis.com/problems/baconeggsandspam).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -348,11 +301,9 @@
         --8<-- "src/easy/baconeggsandspam.py"
         ```
 
-??? success "Basketball One-on-One"
+## [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/basketballoneonone](https://open.kattis.com/problems/basketballoneonone).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -366,11 +317,9 @@
         --8<-- "src/easy/basketballoneonone.py"
         ```
 
-??? success "Batter Up"
+## [Batter Up](https://open.kattis.com/problems/batterup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/batterup](https://open.kattis.com/problems/batterup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -378,11 +327,9 @@
         --8<-- "src/easy/batterup.py"
         ```
 
-??? success "Beat the Spread!"
+## [Beat the Spread!](https://open.kattis.com/problems/beatspread)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/beatspread](https://open.kattis.com/problems/beatspread).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -390,11 +337,9 @@
         --8<-- "src/easy/beatspread.py"
         ```
 
-??? success "Beavergnaw"
+## [Beavergnaw](https://open.kattis.com/problems/beavergnaw)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/beavergnaw](https://open.kattis.com/problems/beavergnaw).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -402,11 +347,9 @@
         --8<-- "src/easy/beavergnaw.py"
         ```
 
-??? success "Bela"
+## [Bela](https://open.kattis.com/problems/bela)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/bela](https://open.kattis.com/problems/bela).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -414,11 +357,9 @@
         --8<-- "src/easy/bela.py"
         ```
 
-??? success "Betting"
+## [Betting](https://open.kattis.com/problems/betting)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/betting](https://open.kattis.com/problems/betting).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -432,11 +373,9 @@
         --8<-- "src/easy/betting.py"
         ```
 
-??? success "Bijele"
+## [Bijele](https://open.kattis.com/problems/bijele)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/bijele](https://open.kattis.com/problems/bijele).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -444,11 +383,9 @@
         --8<-- "src/easy/bijele.py"
         ```
 
-??? success "Black Friday"
+## [Black Friday](https://open.kattis.com/problems/blackfriday)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/blackfriday](https://open.kattis.com/problems/blackfriday).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -456,11 +393,9 @@
         --8<-- "src/easy/blackfriday.py"
         ```
 
-??? success "Bluetooth"
+## [Bluetooth](https://open.kattis.com/problems/bluetooth)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/bluetooth](https://open.kattis.com/problems/bluetooth).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -468,11 +403,9 @@
         --8<-- "src/easy/bluetooth.py"
         ```
 
-??? success "Boat Parts"
+## [Boat Parts](https://open.kattis.com/problems/boatparts)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/boatparts](https://open.kattis.com/problems/boatparts).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -480,11 +413,9 @@
         --8<-- "src/easy/boatparts.py"
         ```
 
-??? success "Booking a Room"
+## [Booking a Room](https://open.kattis.com/problems/bookingaroom)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/bookingaroom](https://open.kattis.com/problems/bookingaroom).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -492,11 +423,9 @@
         --8<-- "src/easy/bookingaroom.py"
         ```
 
-??? success "Breaking Branches"
+## [Breaking Branches](https://open.kattis.com/problems/breakingbranches)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/breakingbranches](https://open.kattis.com/problems/breakingbranches).
+??? success "Solutions in 5 languages"
 
     === "Go"
 
@@ -528,11 +457,9 @@
         --8<-- "src/easy/breakingbranches.py"
         ```
 
-??? success "Buka"
+## [Buka](https://open.kattis.com/problems/buka)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/buka](https://open.kattis.com/problems/buka).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -540,11 +467,9 @@
         --8<-- "src/easy/buka.py"
         ```
 
-??? success "Bus"
+## [Bus](https://open.kattis.com/problems/bus)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/bus](https://open.kattis.com/problems/bus).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -552,11 +477,9 @@
         --8<-- "src/easy/bus.py"
         ```
 
-??? success "Canadians, eh?"
+## [Canadians, eh?](https://open.kattis.com/problems/canadianseh)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/canadianseh](https://open.kattis.com/problems/canadianseh).
+??? success "Solutions in 3 languages"
 
     === "Go"
 
@@ -576,11 +499,9 @@
         --8<-- "src/easy/canadianseh.py"
         ```
 
-??? success "Solving for Carrots"
+## [Solving for Carrots](https://open.kattis.com/problems/carrots)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/carrots](https://open.kattis.com/problems/carrots).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -588,11 +509,9 @@
         --8<-- "src/easy/carrots.py"
         ```
 
-??? success "Cetiri"
+## [Cetiri](https://open.kattis.com/problems/cetiri)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cetiri](https://open.kattis.com/problems/cetiri).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -600,11 +519,9 @@
         --8<-- "src/easy/cetiri.py"
         ```
 
-??? success "Cetvrta"
+## [Cetvrta](https://open.kattis.com/problems/cetvrta)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cetvrta](https://open.kattis.com/problems/cetvrta).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -612,11 +529,9 @@
         --8<-- "src/easy/cetvrta.py"
         ```
 
-??? success "Chanukah Challenge"
+## [Chanukah Challenge](https://open.kattis.com/problems/chanukah)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/chanukah](https://open.kattis.com/problems/chanukah).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -624,11 +539,9 @@
         --8<-- "src/easy/chanukah.py"
         ```
 
-??? success "A Furious Cocktail"
+## [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cocktail](https://open.kattis.com/problems/cocktail).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -636,11 +549,9 @@
         --8<-- "src/easy/cocktail.py"
         ```
 
-??? success "Code to Save Lives"
+## [Code to Save Lives](https://open.kattis.com/problems/codetosavelives)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/codetosavelives](https://open.kattis.com/problems/codetosavelives).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -648,11 +559,9 @@
         --8<-- "src/easy/codetosavelives.py"
         ```
 
-??? success "Coffee Cup Combo"
+## [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -660,11 +569,9 @@
         --8<-- "src/easy/coffeecupcombo.py"
         ```
 
-??? success "Cold-puter Science"
+## [Cold-puter Science](https://open.kattis.com/problems/cold)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cold](https://open.kattis.com/problems/cold).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -672,11 +579,9 @@
         --8<-- "src/easy/cold.py"
         ```
 
-??? success "Compound Words"
+## [Compound Words](https://open.kattis.com/problems/compoundwords)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/compoundwords](https://open.kattis.com/problems/compoundwords).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -684,11 +589,9 @@
         --8<-- "src/easy/compoundwords.py"
         ```
 
-??? success "Cryptographer's Conundrum"
+## [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/conundrum](https://open.kattis.com/problems/conundrum).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -696,11 +599,9 @@
         --8<-- "src/easy/conundrum.py"
         ```
 
-??? success "Convex Polygon Area"
+## [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -708,11 +609,9 @@
         --8<-- "src/easy/convexpolygonarea.py"
         ```
 
-??? success "Cooking Water"
+## [Cooking Water](https://open.kattis.com/problems/cookingwater)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cookingwater](https://open.kattis.com/problems/cookingwater).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -720,11 +619,9 @@
         --8<-- "src/easy/cookingwater.py"
         ```
 
-??? success "Counting Clauses"
+## [Counting Clauses](https://open.kattis.com/problems/countingclauses)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/countingclauses](https://open.kattis.com/problems/countingclauses).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -732,11 +629,9 @@
         --8<-- "src/easy/countingclauses.py"
         ```
 
-??? success "Count the Vowels"
+## [Count the Vowels](https://open.kattis.com/problems/countthevowels)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/countthevowels](https://open.kattis.com/problems/countthevowels).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -744,11 +639,9 @@
         --8<-- "src/easy/countthevowels.py"
         ```
 
-??? success "CPR Number"
+## [CPR Number](https://open.kattis.com/problems/cprnummer)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cprnummer](https://open.kattis.com/problems/cprnummer).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -756,11 +649,9 @@
         --8<-- "src/easy/cprnummer.py"
         ```
 
-??? success "Cudoviste"
+## [Cudoviste](https://open.kattis.com/problems/cudoviste)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cudoviste](https://open.kattis.com/problems/cudoviste).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -768,11 +659,9 @@
         --8<-- "src/easy/cudoviste.py"
         ```
 
-??? success "Stacking Cups"
+## [Stacking Cups](https://open.kattis.com/problems/cups)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cups](https://open.kattis.com/problems/cups).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -780,11 +669,9 @@
         --8<-- "src/easy/cups.py"
         ```
 
-??? success "Cut in Line"
+## [Cut in Line](https://open.kattis.com/problems/cutinline)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/cutinline](https://open.kattis.com/problems/cutinline).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -792,11 +679,9 @@
         --8<-- "src/easy/cutinline.py"
         ```
 
-??? success "Damaged Equation"
+## [Damaged Equation](https://open.kattis.com/problems/damagedequation)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/damagedequation](https://open.kattis.com/problems/damagedequation).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -804,11 +689,9 @@
         --8<-- "src/easy/damagedequation.py"
         ```
 
-??? success "Datum"
+## [Datum](https://open.kattis.com/problems/datum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/datum](https://open.kattis.com/problems/datum).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -816,11 +699,9 @@
         --8<-- "src/easy/datum.py"
         ```
 
-??? success "Death Knight Hero"
+## [Death Knight Hero](https://open.kattis.com/problems/deathknight)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/deathknight](https://open.kattis.com/problems/deathknight).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -828,11 +709,9 @@
         --8<-- "src/easy/deathknight.py"
         ```
 
-??? success "Detailed Differences"
+## [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/detaileddifferences](https://open.kattis.com/problems/detaileddifferences).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -840,11 +719,9 @@
         --8<-- "src/easy/detaileddifferences.py"
         ```
 
-??? success "Dice Cup"
+## [Dice Cup](https://open.kattis.com/problems/dicecup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/dicecup](https://open.kattis.com/problems/dicecup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -852,11 +729,9 @@
         --8<-- "src/easy/dicecup.py"
         ```
 
-??? success "Dice Game"
+## [Dice Game](https://open.kattis.com/problems/dicegame)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/dicegame](https://open.kattis.com/problems/dicegame).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -864,11 +739,9 @@
         --8<-- "src/easy/dicegame.py"
         ```
 
-??? success "A Different Problem"
+## [A Different Problem](https://open.kattis.com/problems/different)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/different](https://open.kattis.com/problems/different).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -876,11 +749,9 @@
         --8<-- "src/easy/different.py"
         ```
 
-??? success "Different Distances"
+## [Different Distances](https://open.kattis.com/problems/differentdistances)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/differentdistances](https://open.kattis.com/problems/differentdistances).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -888,11 +759,9 @@
         --8<-- "src/easy/differentdistances.py"
         ```
 
-??? success "Digit Swap"
+## [Digit Swap](https://open.kattis.com/problems/digitswap)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/digitswap](https://open.kattis.com/problems/digitswap).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -906,11 +775,9 @@
         --8<-- "src/easy/digitswap.py"
         ```
 
-??? success "Divvying Up"
+## [Divvying Up](https://open.kattis.com/problems/divvyingup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/divvyingup](https://open.kattis.com/problems/divvyingup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -918,11 +785,9 @@
         --8<-- "src/easy/divvyingup.py"
         ```
 
-??? success "Double Password"
+## [Double Password](https://open.kattis.com/problems/doublepassword)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/doublepassword](https://open.kattis.com/problems/doublepassword).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -936,11 +801,9 @@
         --8<-- "src/easy/doublepassword.py"
         ```
 
-??? success "Drinking Song"
+## [Drinking Song](https://open.kattis.com/problems/drinkingsong)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/drinkingsong](https://open.kattis.com/problems/drinkingsong).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -948,11 +811,9 @@
         --8<-- "src/easy/drinkingsong.py"
         ```
 
-??? success "DRM Messages"
+## [DRM Messages](https://open.kattis.com/problems/drmmessages)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/drmmessages](https://open.kattis.com/problems/drmmessages).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -960,11 +821,9 @@
         --8<-- "src/easy/drmmessages.py"
         ```
 
-??? success "Drunk Vigenère"
+## [Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/drunkvigenere](https://open.kattis.com/problems/drunkvigenere).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -972,11 +831,9 @@
         --8<-- "src/easy/drunkvigenere.py"
         ```
 
-??? success "Early Winter"
+## [Early Winter](https://open.kattis.com/problems/earlywinter)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/earlywinter](https://open.kattis.com/problems/earlywinter).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -984,11 +841,9 @@
         --8<-- "src/easy/earlywinter.py"
         ```
 
-??? success "The Easiest Problem Is This One"
+## [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/easiest](https://open.kattis.com/problems/easiest).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -996,11 +851,9 @@
         --8<-- "src/easy/easiest.py"
         ```
 
-??? success "Echo Echo Echo"
+## [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/echoechoecho](https://open.kattis.com/problems/echoechoecho).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1008,11 +861,9 @@
         --8<-- "src/easy/echoechoecho.py"
         ```
 
-??? success "Egypt"
+## [Egypt](https://open.kattis.com/problems/egypt)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/egypt](https://open.kattis.com/problems/egypt).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1020,11 +871,9 @@
         --8<-- "src/easy/egypt.py"
         ```
 
-??? success "Election Paradox"
+## [Election Paradox](https://open.kattis.com/problems/electionparadox)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/electionparadox](https://open.kattis.com/problems/electionparadox).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1032,11 +881,9 @@
         --8<-- "src/easy/electionparadox.py"
         ```
 
-??? success "Electrical Outlets"
+## [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/electricaloutlets](https://open.kattis.com/problems/electricaloutlets).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1044,11 +891,9 @@
         --8<-- "src/easy/electricaloutlets.py"
         ```
 
-??? success "Eligibility"
+## [Eligibility](https://open.kattis.com/problems/eligibility)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/eligibility](https://open.kattis.com/problems/eligibility).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1056,11 +901,9 @@
         --8<-- "src/easy/eligibility.py"
         ```
 
-??? success "Encoded Message"
+## [Encoded Message](https://open.kattis.com/problems/encodedmessage)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/encodedmessage](https://open.kattis.com/problems/encodedmessage).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1068,11 +911,9 @@
         --8<-- "src/easy/encodedmessage.py"
         ```
 
-??? success "Erase Securely"
+## [Erase Securely](https://open.kattis.com/problems/erase)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/erase](https://open.kattis.com/problems/erase).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1080,11 +921,9 @@
         --8<-- "src/easy/erase.py"
         ```
 
-??? success "Espresso!"
+## [Espresso!](https://open.kattis.com/problems/espresso)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/espresso](https://open.kattis.com/problems/espresso).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1092,11 +931,9 @@
         --8<-- "src/easy/espresso.py"
         ```
 
-??? success "Estimating the Area of a Circle"
+## [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1104,11 +941,9 @@
         --8<-- "src/easy/estimatingtheareaofacircle.py"
         ```
 
-??? success "Event Planning"
+## [Event Planning](https://open.kattis.com/problems/eventplanning)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/eventplanning](https://open.kattis.com/problems/eventplanning).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1116,11 +951,9 @@
         --8<-- "src/easy/eventplanning.py"
         ```
 
-??? success "I've Been Everywhere, Man"
+## [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/everywhere](https://open.kattis.com/problems/everywhere).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1128,11 +961,9 @@
         --8<-- "src/easy/everywhere.py"
         ```
 
-??? success "Expected Earnings"
+## [Expected Earnings](https://open.kattis.com/problems/expectedearnings)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/expectedearnings](https://open.kattis.com/problems/expectedearnings).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1140,11 +971,9 @@
         --8<-- "src/easy/expectedearnings.py"
         ```
 
-??? success "Eye of Sauron"
+## [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/eyeofsauron](https://open.kattis.com/problems/eyeofsauron).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1152,11 +981,9 @@
         --8<-- "src/easy/eyeofsauron.py"
         ```
 
-??? success "Faktor"
+## [Faktor](https://open.kattis.com/problems/faktor)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/faktor](https://open.kattis.com/problems/faktor).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1164,11 +991,9 @@
         --8<-- "src/easy/faktor.py"
         ```
 
-??? success "Falling Apart"
+## [Falling Apart](https://open.kattis.com/problems/fallingapart)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fallingapart](https://open.kattis.com/problems/fallingapart).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1176,11 +1001,9 @@
         --8<-- "src/easy/fallingapart.py"
         ```
 
-??? success "False Sense of Security"
+## [False Sense of Security](https://open.kattis.com/problems/falsesecurity)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/falsesecurity](https://open.kattis.com/problems/falsesecurity).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1188,11 +1011,9 @@
         --8<-- "src/easy/falsesecurity.py"
         ```
 
-??? success "Fifty Shades of Pink"
+## [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fiftyshades](https://open.kattis.com/problems/fiftyshades).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1200,11 +1021,9 @@
         --8<-- "src/easy/fiftyshades.py"
         ```
 
-??? success "Filip"
+## [Filip](https://open.kattis.com/problems/filip)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/filip](https://open.kattis.com/problems/filip).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1212,11 +1031,9 @@
         --8<-- "src/easy/filip.py"
         ```
 
-??? success "Final Exam"
+## [Final Exam](https://open.kattis.com/problems/finalexam2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/finalexam2](https://open.kattis.com/problems/finalexam2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1224,11 +1041,9 @@
         --8<-- "src/easy/finalexam2.py"
         ```
 
-??? success "Finding An A"
+## [Finding An A](https://open.kattis.com/problems/findingana)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/findingana](https://open.kattis.com/problems/findingana).
+??? success "Solutions in 2 languages"
 
     === "C++"
 
@@ -1242,11 +1057,9 @@
         --8<-- "src/easy/findingana.py"
         ```
 
-??? success "FizzBuzz"
+## [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fizzbuzz](https://open.kattis.com/problems/fizzbuzz).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1254,11 +1067,9 @@
         --8<-- "src/easy/fizzbuzz.py"
         ```
 
-??? success "Flexible Spaces"
+## [Flexible Spaces](https://open.kattis.com/problems/flexible)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/flexible](https://open.kattis.com/problems/flexible).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1266,11 +1077,9 @@
         --8<-- "src/easy/flexible.py"
         ```
 
-??? success "Birthday Memorization"
+## [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fodelsedagsmemorisering](https://open.kattis.com/problems/fodelsedagsmemorisering).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1278,11 +1087,9 @@
         --8<-- "src/easy/fodelsedagsmemorisering.py"
         ```
 
-??? success "Forced Choice"
+## [Forced Choice](https://open.kattis.com/problems/forcedchoice)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/forcedchoice](https://open.kattis.com/problems/forcedchoice).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1290,11 +1097,9 @@
         --8<-- "src/easy/forcedchoice.py"
         ```
 
-??? success "Free Food"
+## [Free Food](https://open.kattis.com/problems/freefood)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/freefood](https://open.kattis.com/problems/freefood).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1302,11 +1107,9 @@
         --8<-- "src/easy/freefood.py"
         ```
 
-??? success "From A to B"
+## [From A to B](https://open.kattis.com/problems/fromatob)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fromatob](https://open.kattis.com/problems/fromatob).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1314,11 +1117,9 @@
         --8<-- "src/easy/fromatob.py"
         ```
 
-??? success "FYI"
+## [FYI](https://open.kattis.com/problems/fyi)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/fyi](https://open.kattis.com/problems/fyi).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1326,11 +1127,9 @@
         --8<-- "src/easy/fyi.py"
         ```
 
-??? success "GCD"
+## [GCD](https://open.kattis.com/problems/gcd)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/gcd](https://open.kattis.com/problems/gcd).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1338,11 +1137,9 @@
         --8<-- "src/easy/gcd.py"
         ```
 
-??? success "GCVWR"
+## [GCVWR](https://open.kattis.com/problems/gcvwr)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/gcvwr](https://open.kattis.com/problems/gcvwr).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1350,11 +1147,9 @@
         --8<-- "src/easy/gcvwr.py"
         ```
 
-??? success "Gene Block"
+## [Gene Block](https://open.kattis.com/problems/geneblock)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/geneblock](https://open.kattis.com/problems/geneblock).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1362,11 +1157,9 @@
         --8<-- "src/easy/geneblock.py"
         ```
 
-??? success "Gerrymandering"
+## [Gerrymandering](https://open.kattis.com/problems/gerrymandering)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/gerrymandering](https://open.kattis.com/problems/gerrymandering).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1374,11 +1167,9 @@
         --8<-- "src/easy/gerrymandering.py"
         ```
 
-??? success "Grading"
+## [Grading](https://open.kattis.com/problems/grading)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/grading](https://open.kattis.com/problems/grading).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1386,11 +1177,9 @@
         --8<-- "src/easy/grading.py"
         ```
 
-??? success "Grass Seed Inc."
+## [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/grassseed](https://open.kattis.com/problems/grassseed).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1398,11 +1187,9 @@
         --8<-- "src/easy/grassseed.py"
         ```
 
-??? success "Greetings!"
+## [Greetings!](https://open.kattis.com/problems/greetings2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/greetings2](https://open.kattis.com/problems/greetings2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1410,11 +1197,9 @@
         --8<-- "src/easy/greetings2.py"
         ```
 
-??? success "Watch Out For Those Hailstones!"
+## [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hailstone](https://open.kattis.com/problems/hailstone).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1422,11 +1207,9 @@
         --8<-- "src/easy/hailstone.py"
         ```
 
-??? success "Hailstone Sequences"
+## [Hailstone Sequences](https://open.kattis.com/problems/hailstone2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hailstone2](https://open.kattis.com/problems/hailstone2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1434,11 +1217,9 @@
         --8<-- "src/easy/hailstone2.py"
         ```
 
-??? success "Hangman"
+## [Hangman](https://open.kattis.com/problems/hangman)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hangman](https://open.kattis.com/problems/hangman).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1446,11 +1227,9 @@
         --8<-- "src/easy/hangman.py"
         ```
 
-??? success "Harshad Numbers"
+## [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/harshadnumbers](https://open.kattis.com/problems/harshadnumbers).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1458,11 +1237,9 @@
         --8<-- "src/easy/harshadnumbers.py"
         ```
 
-??? success "Haughty Cuisine"
+## [Haughty Cuisine](https://open.kattis.com/problems/haughtycuisine)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/haughtycuisine](https://open.kattis.com/problems/haughtycuisine).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1470,11 +1247,9 @@
         --8<-- "src/easy/haughtycuisine.py"
         ```
 
-??? success "Head Guard"
+## [Head Guard](https://open.kattis.com/problems/headguard)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/headguard](https://open.kattis.com/problems/headguard).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1482,11 +1257,9 @@
         --8<-- "src/easy/headguard.py"
         ```
 
-??? success "Heart Rate"
+## [Heart Rate](https://open.kattis.com/problems/heartrate)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/heartrate](https://open.kattis.com/problems/heartrate).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1494,11 +1267,9 @@
         --8<-- "src/easy/heartrate.py"
         ```
 
-??? success "Homework"
+## [Homework](https://open.kattis.com/problems/heimavinna)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/heimavinna](https://open.kattis.com/problems/heimavinna).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1506,11 +1277,9 @@
         --8<-- "src/easy/heimavinna.py"
         ```
 
-??? success "Heir's Dilemma"
+## [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/heirsdilemma](https://open.kattis.com/problems/heirsdilemma).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1518,11 +1287,9 @@
         --8<-- "src/easy/heirsdilemma.py"
         ```
 
-??? success "Heliocentric"
+## [Heliocentric](https://open.kattis.com/problems/heliocentric)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/heliocentric](https://open.kattis.com/problems/heliocentric).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1530,11 +1297,9 @@
         --8<-- "src/easy/heliocentric.py"
         ```
 
-??? success "Hello World!"
+## [Hello World!](https://open.kattis.com/problems/hello)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hello](https://open.kattis.com/problems/hello).
+??? success "Solutions in 8 languages"
 
     === "C++"
 
@@ -1584,11 +1349,9 @@
         --8<-- "src/easy/hello.rs"
         ```
 
-??? success "Help a PhD candidate out!"
+## [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/helpaphd](https://open.kattis.com/problems/helpaphd).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1596,11 +1359,9 @@
         --8<-- "src/easy/helpaphd.py"
         ```
 
-??? success "Herman"
+## [Herman](https://open.kattis.com/problems/herman)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/herman](https://open.kattis.com/problems/herman).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1608,11 +1369,9 @@
         --8<-- "src/easy/herman.py"
         ```
 
-??? success "Hissing Microphone"
+## [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone).
+??? success "Solutions in 3 languages"
 
     === "C++"
 
@@ -1632,11 +1391,9 @@
         --8<-- "src/easy/hissingmicrophone.py"
         ```
 
-??? success "Hitting the Targets"
+## [Hitting the Targets](https://open.kattis.com/problems/hittingtargets)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hittingtargets](https://open.kattis.com/problems/hittingtargets).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1644,11 +1401,9 @@
         --8<-- "src/easy/hittingtargets.py"
         ```
 
-??? success "Hot Hike"
+## [Hot Hike](https://open.kattis.com/problems/hothike)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/hothike](https://open.kattis.com/problems/hothike).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1656,11 +1411,9 @@
         --8<-- "src/easy/hothike.py"
         ```
 
-??? success "The Amazing Human Cannonball"
+## [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/humancannonball2](https://open.kattis.com/problems/humancannonball2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1668,11 +1421,9 @@
         --8<-- "src/easy/humancannonball2.py"
         ```
 
-??? success "ICPC Awards"
+## [ICPC Awards](https://open.kattis.com/problems/icpcawards)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/icpcawards](https://open.kattis.com/problems/icpcawards).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1680,11 +1431,9 @@
         --8<-- "src/easy/icpcawards.py"
         ```
 
-??? success "Illuminati Spotti"
+## [Illuminati Spotti](https://open.kattis.com/problems/illuminatispotti)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/illuminatispotti](https://open.kattis.com/problems/illuminatispotti).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1692,11 +1441,9 @@
         --8<-- "src/easy/illuminatispotti.py"
         ```
 
-??? success "IsItHalloween.com"
+## [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/isithalloween](https://open.kattis.com/problems/isithalloween).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -1710,11 +1457,9 @@
         --8<-- "src/easy/isithalloween.py"
         ```
 
-??? success "Jabuke"
+## [Jabuke](https://open.kattis.com/problems/jabuke)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/jabuke](https://open.kattis.com/problems/jabuke).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1722,11 +1467,9 @@
         --8<-- "src/easy/jabuke.py"
         ```
 
-??? success "Jack-O'-Lantern Juxtaposition"
+## [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1734,11 +1477,9 @@
         --8<-- "src/easy/jackolanternjuxtaposition.py"
         ```
 
-??? success "Janitor Troubles"
+## [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/janitortroubles](https://open.kattis.com/problems/janitortroubles).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1746,11 +1487,9 @@
         --8<-- "src/easy/janitortroubles.py"
         ```
 
-??? success "Job Expenses"
+## [Job Expenses](https://open.kattis.com/problems/jobexpenses)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/jobexpenses](https://open.kattis.com/problems/jobexpenses).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1758,11 +1497,9 @@
         --8<-- "src/easy/jobexpenses.py"
         ```
 
-??? success "Joint Jog Jam"
+## [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/jointjogjam](https://open.kattis.com/problems/jointjogjam).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1770,11 +1507,9 @@
         --8<-- "src/easy/jointjogjam.py"
         ```
 
-??? success "Judging Moose"
+## [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/judgingmoose](https://open.kattis.com/problems/judgingmoose).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -1788,11 +1523,9 @@
         --8<-- "src/easy/judgingmoose.py"
         ```
 
-??? success "Jumbo Javelin"
+## [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/jumbojavelin](https://open.kattis.com/problems/jumbojavelin).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1800,11 +1533,9 @@
         --8<-- "src/easy/jumbojavelin.py"
         ```
 
-??? success "Running Race"
+## [Running Race](https://open.kattis.com/problems/kaploeb)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/kaploeb](https://open.kattis.com/problems/kaploeb).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1812,11 +1543,9 @@
         --8<-- "src/easy/kaploeb.py"
         ```
 
-??? success "Karte"
+## [Karte](https://open.kattis.com/problems/karte)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/karte](https://open.kattis.com/problems/karte).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1824,11 +1553,9 @@
         --8<-- "src/easy/karte.py"
         ```
 
-??? success "Kemija"
+## [Kemija](https://open.kattis.com/problems/kemija08)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/kemija08](https://open.kattis.com/problems/kemija08).
+??? success "Solutions in 2 languages"
 
     === "JavaScript"
 
@@ -1842,11 +1569,9 @@
         --8<-- "src/easy/kemija08.py"
         ```
 
-??? success "The Key to Cryptography"
+## [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/keytocrypto](https://open.kattis.com/problems/keytocrypto).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1854,11 +1579,9 @@
         --8<-- "src/easy/keytocrypto.py"
         ```
 
-??? success "Keywords"
+## [Keywords](https://open.kattis.com/problems/keywords)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/keywords](https://open.kattis.com/problems/keywords).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1866,11 +1589,9 @@
         --8<-- "src/easy/keywords.py"
         ```
 
-??? success "Kleptography"
+## [Kleptography](https://open.kattis.com/problems/kleptography)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/kleptography](https://open.kattis.com/problems/kleptography).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1878,11 +1599,9 @@
         --8<-- "src/easy/kleptography.py"
         ```
 
-??? success "Knight Packing"
+## [Knight Packing](https://open.kattis.com/problems/knightpacking)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/knightpacking](https://open.kattis.com/problems/knightpacking).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1890,11 +1609,9 @@
         --8<-- "src/easy/knightpacking.py"
         ```
 
-??? success "Knot Knowledge"
+## [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/knotknowledge](https://open.kattis.com/problems/knotknowledge).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1902,11 +1619,9 @@
         --8<-- "src/easy/knotknowledge.py"
         ```
 
-??? success "Kornislav"
+## [Kornislav](https://open.kattis.com/problems/kornislav)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/kornislav](https://open.kattis.com/problems/kornislav).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1914,11 +1629,9 @@
         --8<-- "src/easy/kornislav.py"
         ```
 
-??? success "Ladder"
+## [Ladder](https://open.kattis.com/problems/ladder)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ladder](https://open.kattis.com/problems/ladder).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1926,11 +1639,9 @@
         --8<-- "src/easy/ladder.py"
         ```
 
-??? success "Lamps"
+## [Lamps](https://open.kattis.com/problems/lamps)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/lamps](https://open.kattis.com/problems/lamps).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1938,11 +1649,9 @@
         --8<-- "src/easy/lamps.py"
         ```
 
-??? success "Laptop Sticker"
+## [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/laptopsticker](https://open.kattis.com/problems/laptopsticker).
+??? success "Solutions in 3 languages"
 
     === "C++"
 
@@ -1962,11 +1671,9 @@
         --8<-- "src/easy/laptopsticker.py"
         ```
 
-??? success "Last Factorial Digit"
+## [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -1974,11 +1681,9 @@
         --8<-- "src/easy/lastfactorialdigit.py"
         ```
 
-??? success "Left Beehind"
+## [Left Beehind](https://open.kattis.com/problems/leftbeehind)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/leftbeehind](https://open.kattis.com/problems/leftbeehind).
+??? success "Solutions in 3 languages"
 
     === "Go"
 
@@ -1998,11 +1703,9 @@
         --8<-- "src/easy/leftbeehind.py"
         ```
 
-??? success "License to Launch"
+## [License to Launch](https://open.kattis.com/problems/licensetolaunch)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/licensetolaunch](https://open.kattis.com/problems/licensetolaunch).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2010,11 +1713,9 @@
         --8<-- "src/easy/licensetolaunch.py"
         ```
 
-??? success "Line Them Up"
+## [Line Them Up](https://open.kattis.com/problems/lineup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/lineup](https://open.kattis.com/problems/lineup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2022,11 +1723,9 @@
         --8<-- "src/easy/lineup.py"
         ```
 
-??? success "Locust Locus"
+## [Locust Locus](https://open.kattis.com/problems/locustlocus)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/locustlocus](https://open.kattis.com/problems/locustlocus).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2034,11 +1733,9 @@
         --8<-- "src/easy/locustlocus.py"
         ```
 
-??? success "Logic Functions"
+## [Logic Functions](https://open.kattis.com/problems/logicfunctions)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/logicfunctions](https://open.kattis.com/problems/logicfunctions).
+??? success "Solution in C++"
 
     === "C++"
 
@@ -2046,11 +1743,9 @@
         --8<-- "src/easy/logicfunctions.cpp"
         ```
 
-??? success "Lost Lineup"
+## [Lost Lineup](https://open.kattis.com/problems/lostlineup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/lostlineup](https://open.kattis.com/problems/lostlineup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2058,11 +1753,9 @@
         --8<-- "src/easy/lostlineup.py"
         ```
 
-??? success "Luhn's Checksum Algorithm"
+## [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/luhnchecksum](https://open.kattis.com/problems/luhnchecksum).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2070,11 +1763,9 @@
         --8<-- "src/easy/luhnchecksum.py"
         ```
 
-??? success "Magic Trick"
+## [Magic Trick](https://open.kattis.com/problems/magictrick)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/magictrick](https://open.kattis.com/problems/magictrick).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2082,11 +1773,9 @@
         --8<-- "src/easy/magictrick.py"
         ```
 
-??? success "Making A Meowth"
+## [Making A Meowth](https://open.kattis.com/problems/makingameowth)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/makingameowth](https://open.kattis.com/problems/makingameowth).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2094,11 +1783,9 @@
         --8<-- "src/easy/makingameowth.py"
         ```
 
-??? success "Marko"
+## [Marko](https://open.kattis.com/problems/marko)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/marko](https://open.kattis.com/problems/marko).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2106,11 +1793,9 @@
         --8<-- "src/easy/marko.py"
         ```
 
-??? success "Methodic Multiplication"
+## [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2118,11 +1803,9 @@
         --8<-- "src/easy/methodicmultiplication.py"
         ```
 
-??? success "Mia"
+## [Mia](https://open.kattis.com/problems/mia)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/mia](https://open.kattis.com/problems/mia).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2130,11 +1813,9 @@
         --8<-- "src/easy/mia.py"
         ```
 
-??? success "Missing Numbers"
+## [Missing Numbers](https://open.kattis.com/problems/missingnumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/missingnumbers](https://open.kattis.com/problems/missingnumbers).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2142,11 +1823,9 @@
         --8<-- "src/easy/missingnumbers.py"
         ```
 
-??? success "Mixed Fractions"
+## [Mixed Fractions](https://open.kattis.com/problems/mixedfractions)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/mixedfractions](https://open.kattis.com/problems/mixedfractions).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2154,11 +1833,9 @@
         --8<-- "src/easy/mixedfractions.py"
         ```
 
-??? success "Mjehuric"
+## [Mjehuric](https://open.kattis.com/problems/mjehuric)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/mjehuric](https://open.kattis.com/problems/mjehuric).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2166,11 +1843,9 @@
         --8<-- "src/easy/mjehuric.py"
         ```
 
-??? success "Moderate Pace"
+## [Moderate Pace](https://open.kattis.com/problems/moderatepace)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/moderatepace](https://open.kattis.com/problems/moderatepace).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2178,11 +1853,9 @@
         --8<-- "src/easy/moderatepace.py"
         ```
 
-??? success "Modulo"
+## [Modulo](https://open.kattis.com/problems/modulo)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/modulo](https://open.kattis.com/problems/modulo).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2190,11 +1863,9 @@
         --8<-- "src/easy/modulo.py"
         ```
 
-??? success "Moscow Dream"
+## [Moscow Dream](https://open.kattis.com/problems/moscowdream)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/moscowdream](https://open.kattis.com/problems/moscowdream).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2202,11 +1873,9 @@
         --8<-- "src/easy/moscowdream.py"
         ```
 
-??? success "MrCodeFormatGrader"
+## [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/mrcodeformatgrader](https://open.kattis.com/problems/mrcodeformatgrader).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2214,11 +1883,9 @@
         --8<-- "src/easy/mrcodeformatgrader.py"
         ```
 
-??? success "Mult!"
+## [Mult!](https://open.kattis.com/problems/mult)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/mult](https://open.kattis.com/problems/mult).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2226,11 +1893,9 @@
         --8<-- "src/easy/mult.py"
         ```
 
-??? success "Musical Scales"
+## [Musical Scales](https://open.kattis.com/problems/musicalscales)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/musicalscales](https://open.kattis.com/problems/musicalscales).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2238,11 +1903,9 @@
         --8<-- "src/easy/musicalscales.py"
         ```
 
-??? success "Nasty Hacks"
+## [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/nastyhacks](https://open.kattis.com/problems/nastyhacks).
+??? success "Solutions in 2 languages"
 
     === "C++"
 
@@ -2256,11 +1919,9 @@
         --8<-- "src/easy/nastyhacks.py"
         ```
 
-??? success "No Duplicates"
+## [No Duplicates](https://open.kattis.com/problems/nodup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/nodup](https://open.kattis.com/problems/nodup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2268,11 +1929,9 @@
         --8<-- "src/easy/nodup.py"
         ```
 
-??? success "No Thanks!"
+## [No Thanks!](https://open.kattis.com/problems/nothanks)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/nothanks](https://open.kattis.com/problems/nothanks).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2280,11 +1939,9 @@
         --8<-- "src/easy/nothanks.py"
         ```
 
-??? success "N-sum"
+## [N-sum](https://open.kattis.com/problems/nsum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/nsum](https://open.kattis.com/problems/nsum).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2292,11 +1949,9 @@
         --8<-- "src/easy/nsum.py"
         ```
 
-??? success "Number Fun"
+## [Number Fun](https://open.kattis.com/problems/numberfun)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/numberfun](https://open.kattis.com/problems/numberfun).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2304,11 +1959,9 @@
         --8<-- "src/easy/numberfun.py"
         ```
 
-??? success "Odd Echo"
+## [Odd Echo](https://open.kattis.com/problems/oddecho)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/oddecho](https://open.kattis.com/problems/oddecho).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2316,11 +1969,9 @@
         --8<-- "src/easy/oddecho.py"
         ```
 
-??? success "Odd Gnome"
+## [Odd Gnome](https://open.kattis.com/problems/oddgnome)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/oddgnome](https://open.kattis.com/problems/oddgnome).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2328,11 +1979,9 @@
         --8<-- "src/easy/oddgnome.py"
         ```
 
-??? success "Oddities"
+## [Oddities](https://open.kattis.com/problems/oddities)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/oddities](https://open.kattis.com/problems/oddities).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2340,11 +1989,9 @@
         --8<-- "src/easy/oddities.py"
         ```
 
-??? success "Odd Man Out"
+## [Odd Man Out](https://open.kattis.com/problems/oddmanout)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/oddmanout](https://open.kattis.com/problems/oddmanout).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2352,11 +1999,9 @@
         --8<-- "src/easy/oddmanout.py"
         ```
 
-??? success "Reverse"
+## [Reverse](https://open.kattis.com/problems/ofugsnuid)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ofugsnuid](https://open.kattis.com/problems/ofugsnuid).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2364,11 +2009,9 @@
         --8<-- "src/easy/ofugsnuid.py"
         ```
 
-??? success "Oktalni"
+## [Oktalni](https://open.kattis.com/problems/oktalni)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/oktalni](https://open.kattis.com/problems/oktalni).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2376,11 +2019,9 @@
         --8<-- "src/easy/oktalni.py"
         ```
 
-??? success "One Chicken Per Person!"
+## [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/onechicken](https://open.kattis.com/problems/onechicken).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2388,11 +2029,9 @@
         --8<-- "src/easy/onechicken.py"
         ```
 
-??? success "Östgötska"
+## [Östgötska](https://open.kattis.com/problems/ostgotska)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ostgotska](https://open.kattis.com/problems/ostgotska).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2400,11 +2039,9 @@
         --8<-- "src/easy/ostgotska.py"
         ```
 
-??? success "Overdraft"
+## [Overdraft](https://open.kattis.com/problems/overdraft)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/overdraft](https://open.kattis.com/problems/overdraft).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2412,11 +2049,9 @@
         --8<-- "src/easy/overdraft.py"
         ```
 
-??? success "The Owl and the Fox"
+## [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/owlandfox](https://open.kattis.com/problems/owlandfox).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2424,11 +2059,9 @@
         --8<-- "src/easy/owlandfox.py"
         ```
 
-??? success "Pachyderm Peanut Packing"
+## [Pachyderm Peanut Packing](https://open.kattis.com/problems/pachydermpeanutpacking)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pachydermpeanutpacking](https://open.kattis.com/problems/pachydermpeanutpacking).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2436,11 +2069,9 @@
         --8<-- "src/easy/pachydermpeanutpacking.py"
         ```
 
-??? success "Parking"
+## [Parking](https://open.kattis.com/problems/parking)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/parking](https://open.kattis.com/problems/parking).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2448,11 +2079,9 @@
         --8<-- "src/easy/parking.py"
         ```
 
-??? success "Parking"
+## [Parking](https://open.kattis.com/problems/parking2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/parking2](https://open.kattis.com/problems/parking2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2460,11 +2089,9 @@
         --8<-- "src/easy/parking2.py"
         ```
 
-??? success "Patuljci"
+## [Patuljci](https://open.kattis.com/problems/patuljci)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/patuljci](https://open.kattis.com/problems/patuljci).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2472,11 +2099,9 @@
         --8<-- "src/easy/patuljci.py"
         ```
 
-??? success "Paul Eigon"
+## [Paul Eigon](https://open.kattis.com/problems/pauleigon)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pauleigon](https://open.kattis.com/problems/pauleigon).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -2490,11 +2115,9 @@
         --8<-- "src/easy/pauleigon.py"
         ```
 
-??? success "Pea Soup and Pancakes"
+## [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/peasoup](https://open.kattis.com/problems/peasoup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2502,11 +2125,9 @@
         --8<-- "src/easy/peasoup.py"
         ```
 
-??? success "Pervasive Heart Monitor"
+## [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pervasiveheartmonitor](https://open.kattis.com/problems/pervasiveheartmonitor).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2514,11 +2135,9 @@
         --8<-- "src/easy/pervasiveheartmonitor.py"
         ```
 
-??? success "Pet"
+## [Pet](https://open.kattis.com/problems/pet)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pet](https://open.kattis.com/problems/pet).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2526,11 +2145,9 @@
         --8<-- "src/easy/pet.py"
         ```
 
-??? success "Piece of Cake!"
+## [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pieceofcake2](https://open.kattis.com/problems/pieceofcake2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2538,11 +2155,9 @@
         --8<-- "src/easy/pieceofcake2.py"
         ```
 
-??? success "Pizza Crust"
+## [Pizza Crust](https://open.kattis.com/problems/pizza2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pizza2](https://open.kattis.com/problems/pizza2).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2550,11 +2165,9 @@
         --8<-- "src/easy/pizza2.py"
         ```
 
-??? success "Planina"
+## [Planina](https://open.kattis.com/problems/planina)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/planina](https://open.kattis.com/problems/planina).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2562,11 +2175,9 @@
         --8<-- "src/easy/planina.py"
         ```
 
-??? success "Planting Trees"
+## [Planting Trees](https://open.kattis.com/problems/plantingtrees)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/plantingtrees](https://open.kattis.com/problems/plantingtrees).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2574,11 +2185,9 @@
         --8<-- "src/easy/plantingtrees.py"
         ```
 
-??? success "Pokechat"
+## [Pokechat](https://open.kattis.com/problems/pokechat)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pokechat](https://open.kattis.com/problems/pokechat).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2586,11 +2195,9 @@
         --8<-- "src/easy/pokechat.py"
         ```
 
-??? success "Poker Hand"
+## [Poker Hand](https://open.kattis.com/problems/pokerhand)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pokerhand](https://open.kattis.com/problems/pokerhand).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2598,11 +2205,9 @@
         --8<-- "src/easy/pokerhand.py"
         ```
 
-??? success "Pot"
+## [Pot](https://open.kattis.com/problems/pot)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pot](https://open.kattis.com/problems/pot).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2610,11 +2215,9 @@
         --8<-- "src/easy/pot.py"
         ```
 
-??? success "Provinces and Gold"
+## [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/provincesandgold](https://open.kattis.com/problems/provincesandgold).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2622,11 +2225,9 @@
         --8<-- "src/easy/provincesandgold.py"
         ```
 
-??? success "Prsteni"
+## [Prsteni](https://open.kattis.com/problems/prsteni)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/prsteni](https://open.kattis.com/problems/prsteni).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2634,11 +2235,9 @@
         --8<-- "src/easy/prsteni.py"
         ```
 
-??? success "Prva"
+## [Prva](https://open.kattis.com/problems/prva)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/prva](https://open.kattis.com/problems/prva).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2646,11 +2245,9 @@
         --8<-- "src/easy/prva.py"
         ```
 
-??? success "Ptice"
+## [Ptice](https://open.kattis.com/problems/ptice)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ptice](https://open.kattis.com/problems/ptice).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2658,11 +2255,9 @@
         --8<-- "src/easy/ptice.py"
         ```
 
-??? success "Building Pyramids"
+## [Building Pyramids](https://open.kattis.com/problems/pyramids)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/pyramids](https://open.kattis.com/problems/pyramids).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2670,11 +2265,9 @@
         --8<-- "src/easy/pyramids.py"
         ```
 
-??? success "Quality-Adjusted Life-Year"
+## [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/qaly](https://open.kattis.com/problems/qaly).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2682,11 +2275,9 @@
         --8<-- "src/easy/qaly.py"
         ```
 
-??? success "Quadrant Selection"
+## [Quadrant Selection](https://open.kattis.com/problems/quadrant)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/quadrant](https://open.kattis.com/problems/quadrant).
+??? success "Solutions in 4 languages"
 
     === "Go"
 
@@ -2712,11 +2303,9 @@
         --8<-- "src/easy/quadrant.rs"
         ```
 
-??? success "Quick Brown Fox"
+## [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/quickbrownfox](https://open.kattis.com/problems/quickbrownfox).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2724,11 +2313,9 @@
         --8<-- "src/easy/quickbrownfox.py"
         ```
 
-??? success "Quick Estimates"
+## [Quick Estimates](https://open.kattis.com/problems/quickestimate)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/quickestimate](https://open.kattis.com/problems/quickestimate).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -2742,11 +2329,9 @@
         --8<-- "src/easy/quickestimate.py"
         ```
 
-??? success "Quite a Problem"
+## [Quite a Problem](https://open.kattis.com/problems/quiteaproblem)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/quiteaproblem](https://open.kattis.com/problems/quiteaproblem).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2754,11 +2339,9 @@
         --8<-- "src/easy/quiteaproblem.py"
         ```
 
-??? success "R2"
+## [R2](https://open.kattis.com/problems/r2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/r2](https://open.kattis.com/problems/r2).
+??? success "Solutions in 4 languages"
 
     === "C++"
 
@@ -2784,11 +2367,9 @@
         --8<-- "src/easy/r2.py"
         ```
 
-??? success "Racing Around the Alphabet"
+## [Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/racingalphabet](https://open.kattis.com/problems/racingalphabet).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2796,11 +2377,9 @@
         --8<-- "src/easy/racingalphabet.py"
         ```
 
-??? success "Railroad"
+## [Railroad](https://open.kattis.com/problems/railroad2)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/railroad2](https://open.kattis.com/problems/railroad2).
+??? success "Solutions in 3 languages"
 
     === "Go"
 
@@ -2820,11 +2399,9 @@
         --8<-- "src/easy/railroad2.py"
         ```
 
-??? success "A Rank Problem"
+## [A Rank Problem](https://open.kattis.com/problems/rankproblem)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/rankproblem](https://open.kattis.com/problems/rankproblem).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2832,11 +2409,9 @@
         --8<-- "src/easy/rankproblem.py"
         ```
 
-??? success "Rating Problems"
+## [Rating Problems](https://open.kattis.com/problems/ratingproblems)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ratingproblems](https://open.kattis.com/problems/ratingproblems).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -2850,11 +2425,9 @@
         --8<-- "src/easy/ratingproblems.py"
         ```
 
-??? success "Rectangle Area"
+## [Rectangle Area](https://open.kattis.com/problems/rectanglearea)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/rectanglearea](https://open.kattis.com/problems/rectanglearea).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2862,11 +2435,9 @@
         --8<-- "src/easy/rectanglearea.py"
         ```
 
-??? success "Relocation"
+## [Relocation](https://open.kattis.com/problems/relocation)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/relocation](https://open.kattis.com/problems/relocation).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2874,11 +2445,9 @@
         --8<-- "src/easy/relocation.py"
         ```
 
-??? success "Reversed Binary Numbers"
+## [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/reversebinary](https://open.kattis.com/problems/reversebinary).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2886,11 +2455,9 @@
         --8<-- "src/easy/reversebinary.py"
         ```
 
-??? success "Reverse Rot"
+## [Reverse Rot](https://open.kattis.com/problems/reverserot)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/reverserot](https://open.kattis.com/problems/reverserot).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2898,11 +2465,9 @@
         --8<-- "src/easy/reverserot.py"
         ```
 
-??? success "Riječi"
+## [Riječi](https://open.kattis.com/problems/rijeci)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/rijeci](https://open.kattis.com/problems/rijeci).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -2916,11 +2481,9 @@
         --8<-- "src/easy/rijeci.py"
         ```
 
-??? success "Roaming Romans"
+## [Roaming Romans](https://open.kattis.com/problems/romans)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/romans](https://open.kattis.com/problems/romans).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2928,11 +2491,9 @@
         --8<-- "src/easy/romans.py"
         ```
 
-??? success "Run-Length Encoding, Run!"
+## [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/runlengthencodingrun](https://open.kattis.com/problems/runlengthencodingrun).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2940,11 +2501,9 @@
         --8<-- "src/easy/runlengthencodingrun.py"
         ```
 
-??? success "Saving For Retirement"
+## [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/savingforretirement](https://open.kattis.com/problems/savingforretirement).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2952,11 +2511,9 @@
         --8<-- "src/easy/savingforretirement.py"
         ```
 
-??? success "Scaling Recipe"
+## [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/scalingrecipe](https://open.kattis.com/problems/scalingrecipe).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2964,11 +2521,9 @@
         --8<-- "src/easy/scalingrecipe.py"
         ```
 
-??? success "School Spirit"
+## [School Spirit](https://open.kattis.com/problems/schoolspirit)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/schoolspirit](https://open.kattis.com/problems/schoolspirit).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2976,11 +2531,9 @@
         --8<-- "src/easy/schoolspirit.py"
         ```
 
-??? success "Secure Doors"
+## [Secure Doors](https://open.kattis.com/problems/securedoors)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/securedoors](https://open.kattis.com/problems/securedoors).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -2988,11 +2541,9 @@
         --8<-- "src/easy/securedoors.py"
         ```
 
-??? success "Server"
+## [Server](https://open.kattis.com/problems/server)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/server](https://open.kattis.com/problems/server).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3000,11 +2551,9 @@
         --8<-- "src/easy/server.py"
         ```
 
-??? success "Seven Wonders"
+## [Seven Wonders](https://open.kattis.com/problems/sevenwonders)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sevenwonders](https://open.kattis.com/problems/sevenwonders).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3012,11 +2561,9 @@
         --8<-- "src/easy/sevenwonders.py"
         ```
 
-??? success "Shattered Cake"
+## [Shattered Cake](https://open.kattis.com/problems/shatteredcake)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/shatteredcake](https://open.kattis.com/problems/shatteredcake).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3024,11 +2571,9 @@
         --8<-- "src/easy/shatteredcake.py"
         ```
 
-??? success "Shopaholic"
+## [Shopaholic](https://open.kattis.com/problems/shopaholic)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/shopaholic](https://open.kattis.com/problems/shopaholic).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3036,11 +2581,9 @@
         --8<-- "src/easy/shopaholic.py"
         ```
 
-??? success "Shopping List (Easy)"
+## [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/shoppinglisteasy](https://open.kattis.com/problems/shoppinglisteasy).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3048,11 +2591,9 @@
         --8<-- "src/easy/shoppinglisteasy.py"
         ```
 
-??? success "Sibice"
+## [Sibice](https://open.kattis.com/problems/sibice)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sibice](https://open.kattis.com/problems/sibice).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3060,11 +2601,9 @@
         --8<-- "src/easy/sibice.py"
         ```
 
-??? success "Digit Product"
+## [Digit Product](https://open.kattis.com/problems/sifferprodukt)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sifferprodukt](https://open.kattis.com/problems/sifferprodukt).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3072,11 +2611,9 @@
         --8<-- "src/easy/sifferprodukt.py"
         ```
 
-??? success "Simon Says"
+## [Simon Says](https://open.kattis.com/problems/simonsays)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/simonsays](https://open.kattis.com/problems/simonsays).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3084,11 +2621,9 @@
         --8<-- "src/easy/simonsays.py"
         ```
 
-??? success "Simple Addition"
+## [Simple Addition](https://open.kattis.com/problems/simpleaddition)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/simpleaddition](https://open.kattis.com/problems/simpleaddition).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3096,11 +2631,9 @@
         --8<-- "src/easy/simpleaddition.py"
         ```
 
-??? success "Sjecista"
+## [Sjecista](https://open.kattis.com/problems/sjecista)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sjecista](https://open.kattis.com/problems/sjecista).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3108,11 +2641,9 @@
         --8<-- "src/easy/sjecista.py"
         ```
 
-??? success "Skener"
+## [Skener](https://open.kattis.com/problems/skener)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3120,11 +2651,9 @@
         --8<-- "src/easy/skener.py"
         ```
 
-??? success "Skocimis"
+## [Skocimis](https://open.kattis.com/problems/skocimis)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/skocimis](https://open.kattis.com/problems/skocimis).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -3138,11 +2667,9 @@
         --8<-- "src/easy/skocimis.py"
         ```
 
-??? success "Turn It Up!"
+## [Turn It Up!](https://open.kattis.com/problems/skruop)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/skruop](https://open.kattis.com/problems/skruop).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3150,11 +2677,9 @@
         --8<-- "src/easy/skruop.py"
         ```
 
-??? success "Slatkisi"
+## [Slatkisi](https://open.kattis.com/problems/slatkisi)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/slatkisi](https://open.kattis.com/problems/slatkisi).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3162,11 +2687,9 @@
         --8<-- "src/easy/slatkisi.py"
         ```
 
-??? success "SMIL"
+## [SMIL](https://open.kattis.com/problems/smil)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/smil](https://open.kattis.com/problems/smil).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -3180,11 +2703,9 @@
         --8<-- "src/easy/smil.py"
         ```
 
-??? success "Soda Slurper"
+## [Soda Slurper](https://open.kattis.com/problems/sodaslurper)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sodaslurper](https://open.kattis.com/problems/sodaslurper).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3192,11 +2713,9 @@
         --8<-- "src/easy/sodaslurper.py"
         ```
 
-??? success "Sok"
+## [Sok](https://open.kattis.com/problems/sok)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sok](https://open.kattis.com/problems/sok).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3204,11 +2723,9 @@
         --8<-- "src/easy/sok.py"
         ```
 
-??? success "Some Sum"
+## [Some Sum](https://open.kattis.com/problems/somesum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/somesum](https://open.kattis.com/problems/somesum).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3216,11 +2733,9 @@
         --8<-- "src/easy/somesum.py"
         ```
 
-??? success "Sort"
+## [Sort](https://open.kattis.com/problems/sort)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sort](https://open.kattis.com/problems/sort).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3228,11 +2743,9 @@
         --8<-- "src/easy/sort.py"
         ```
 
-??? success "Sort of Sorting"
+## [Sort of Sorting](https://open.kattis.com/problems/sortofsorting)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sortofsorting](https://open.kattis.com/problems/sortofsorting).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3240,11 +2753,9 @@
         --8<-- "src/easy/sortofsorting.py"
         ```
 
-??? success "Sort Two Numbers"
+## [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers).
+??? success "Solutions in 3 languages"
 
     === "C++"
 
@@ -3264,11 +2775,9 @@
         --8<-- "src/easy/sorttwonumbers.py"
         ```
 
-??? success "Soylent"
+## [Soylent](https://open.kattis.com/problems/soylent)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/soylent](https://open.kattis.com/problems/soylent).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3276,11 +2785,9 @@
         --8<-- "src/easy/soylent.py"
         ```
 
-??? success "Spavanac"
+## [Spavanac](https://open.kattis.com/problems/spavanac)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/spavanac](https://open.kattis.com/problems/spavanac).
+??? success "Solutions in 3 languages"
 
     === "C++"
 
@@ -3300,11 +2807,9 @@
         --8<-- "src/easy/spavanac.py"
         ```
 
-??? success "Speeding"
+## [Speeding](https://open.kattis.com/problems/speeding)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/speeding](https://open.kattis.com/problems/speeding).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3312,11 +2817,9 @@
         --8<-- "src/easy/speeding.py"
         ```
 
-??? success "Speed Limit"
+## [Speed Limit](https://open.kattis.com/problems/speedlimit)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/speedlimit](https://open.kattis.com/problems/speedlimit).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3324,11 +2827,9 @@
         --8<-- "src/easy/speedlimit.py"
         ```
 
-??? success "Spelling Bee"
+## [Spelling Bee](https://open.kattis.com/problems/spellingbee)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/spellingbee](https://open.kattis.com/problems/spellingbee).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3336,11 +2837,9 @@
         --8<-- "src/easy/spellingbee.py"
         ```
 
-??? success "Square Peg"
+## [Square Peg](https://open.kattis.com/problems/squarepeg)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/squarepeg](https://open.kattis.com/problems/squarepeg).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3348,11 +2847,9 @@
         --8<-- "src/easy/squarepeg.py"
         ```
 
-??? success "Statistics"
+## [Statistics](https://open.kattis.com/problems/statistics)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/statistics](https://open.kattis.com/problems/statistics).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3360,11 +2857,9 @@
         --8<-- "src/easy/statistics.py"
         ```
 
-??? success "Stopwatch"
+## [Stopwatch](https://open.kattis.com/problems/stopwatch)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/stopwatch](https://open.kattis.com/problems/stopwatch).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3372,11 +2867,9 @@
         --8<-- "src/easy/stopwatch.py"
         ```
 
-??? success "Sum Kind of Problem"
+## [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3384,11 +2877,9 @@
         --8<-- "src/easy/sumkindofproblem.py"
         ```
 
-??? success "Sum of the Others"
+## [Sum of the Others](https://open.kattis.com/problems/sumoftheothers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sumoftheothers](https://open.kattis.com/problems/sumoftheothers).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3396,11 +2887,9 @@
         --8<-- "src/easy/sumoftheothers.py"
         ```
 
-??? success "Sum Squared Digits Function"
+## [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3408,11 +2897,9 @@
         --8<-- "src/easy/sumsquareddigits.py"
         ```
 
-??? success "Symmetric Order"
+## [Symmetric Order](https://open.kattis.com/problems/symmetricorder)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/symmetricorder](https://open.kattis.com/problems/symmetricorder).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3420,11 +2907,9 @@
         --8<-- "src/easy/symmetricorder.py"
         ```
 
-??? success "Synchronizing Lists"
+## [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/synchronizinglists](https://open.kattis.com/problems/synchronizinglists).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3432,11 +2917,9 @@
         --8<-- "src/easy/synchronizinglists.py"
         ```
 
-??? success "T9 Spelling"
+## [T9 Spelling](https://open.kattis.com/problems/t9spelling)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/t9spelling](https://open.kattis.com/problems/t9spelling).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3444,11 +2927,9 @@
         --8<-- "src/easy/t9spelling.py"
         ```
 
-??? success "Tai's formula"
+## [Tai's formula](https://open.kattis.com/problems/taisformula)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/taisformula](https://open.kattis.com/problems/taisformula).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3456,11 +2937,9 @@
         --8<-- "src/easy/taisformula.py"
         ```
 
-??? success "Tarifa"
+## [Tarifa](https://open.kattis.com/problems/tarifa)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/tarifa](https://open.kattis.com/problems/tarifa).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3468,11 +2947,9 @@
         --8<-- "src/easy/tarifa.py"
         ```
 
-??? success "Test Drive"
+## [Test Drive](https://open.kattis.com/problems/testdrive)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/testdrive](https://open.kattis.com/problems/testdrive).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3480,11 +2957,9 @@
         --8<-- "src/easy/testdrive.py"
         ```
 
-??? success "Tetration"
+## [Tetration](https://open.kattis.com/problems/tetration)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/tetration](https://open.kattis.com/problems/tetration).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3492,11 +2967,9 @@
         --8<-- "src/easy/tetration.py"
         ```
 
-??? success "The Grand Adventure"
+## [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/thegrandadventure](https://open.kattis.com/problems/thegrandadventure).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3504,11 +2977,9 @@
         --8<-- "src/easy/thegrandadventure.py"
         ```
 
-??? success "The Last Problem"
+## [The Last Problem](https://open.kattis.com/problems/thelastproblem)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/thelastproblem](https://open.kattis.com/problems/thelastproblem).
+??? success "Solutions in 2 languages"
 
     === "Go"
 
@@ -3522,11 +2993,9 @@
         --8<-- "src/easy/thelastproblem.py"
         ```
 
-??? success "This Ain't Your Grandpa's Checkerboard"
+## [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/thisaintyourgrandpascheckerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3534,11 +3003,9 @@
         --8<-- "src/easy/thisaintyourgrandpascheckerboard.py"
         ```
 
-??? success "Stuck In A Time Loop"
+## [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/timeloop](https://open.kattis.com/problems/timeloop).
+??? success "Solutions in 2 languages"
 
     === "C++"
 
@@ -3552,11 +3019,9 @@
         --8<-- "src/easy/timeloop.py"
         ```
 
-??? success "Töflur"
+## [Töflur](https://open.kattis.com/problems/toflur)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/toflur](https://open.kattis.com/problems/toflur).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3564,11 +3029,9 @@
         --8<-- "src/easy/toflur.py"
         ```
 
-??? success "Toilet Seat"
+## [Toilet Seat](https://open.kattis.com/problems/toilet)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/toilet](https://open.kattis.com/problems/toilet).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3576,11 +3039,9 @@
         --8<-- "src/easy/toilet.py"
         ```
 
-??? success "ToLower"
+## [ToLower](https://open.kattis.com/problems/tolower)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/tolower](https://open.kattis.com/problems/tolower).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3588,11 +3049,9 @@
         --8<-- "src/easy/tolower.py"
         ```
 
-??? success "Transit Woes"
+## [Transit Woes](https://open.kattis.com/problems/transitwoes)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/transitwoes](https://open.kattis.com/problems/transitwoes).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3600,11 +3059,9 @@
         --8<-- "src/easy/transitwoes.py"
         ```
 
-??? success "Tri"
+## [Tri](https://open.kattis.com/problems/tri)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/tri](https://open.kattis.com/problems/tri).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3612,11 +3069,9 @@
         --8<-- "src/easy/tri.py"
         ```
 
-??? success "Triangle Area"
+## [Triangle Area](https://open.kattis.com/problems/triarea)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/triarea](https://open.kattis.com/problems/triarea).
+??? success "Solutions in 4 languages"
 
     === "C++"
 
@@ -3642,11 +3097,9 @@
         --8<-- "src/easy/triarea.py"
         ```
 
-??? success "Trik"
+## [Trik](https://open.kattis.com/problems/trik)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/trik](https://open.kattis.com/problems/trik).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3654,11 +3107,9 @@
         --8<-- "src/easy/trik.py"
         ```
 
-??? success "Triple Texting"
+## [Triple Texting](https://open.kattis.com/problems/tripletexting)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/tripletexting](https://open.kattis.com/problems/tripletexting).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3666,11 +3117,9 @@
         --8<-- "src/easy/tripletexting.py"
         ```
 
-??? success "Take Two Stones"
+## [Take Two Stones](https://open.kattis.com/problems/twostones)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/twostones](https://open.kattis.com/problems/twostones).
+??? success "Solutions in 6 languages"
 
     === "Go"
 
@@ -3708,11 +3157,9 @@
         --8<-- "src/easy/twostones.py"
         ```
 
-??? success "Two-sum"
+## [Two-sum](https://open.kattis.com/problems/twosum)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/twosum](https://open.kattis.com/problems/twosum).
+??? success "Solutions in 4 languages"
 
     === "C++"
 
@@ -3738,11 +3185,9 @@
         --8<-- "src/easy/twosum.py"
         ```
 
-??? success "Ultimate Binary Watch"
+## [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/ultimatebinarywatch](https://open.kattis.com/problems/ultimatebinarywatch).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3750,11 +3195,9 @@
         --8<-- "src/easy/ultimatebinarywatch.py"
         ```
 
-??? success "Unlock Pattern"
+## [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/unlockpattern](https://open.kattis.com/problems/unlockpattern).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3762,11 +3205,9 @@
         --8<-- "src/easy/unlockpattern.py"
         ```
 
-??? success "Arrangement"
+## [Arrangement](https://open.kattis.com/problems/upprodun)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/upprodun](https://open.kattis.com/problems/upprodun).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3774,11 +3215,9 @@
         --8<-- "src/easy/upprodun.py"
         ```
 
-??? success "Veci"
+## [Veci](https://open.kattis.com/problems/veci)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/veci](https://open.kattis.com/problems/veci).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3786,11 +3225,9 @@
         --8<-- "src/easy/veci.py"
         ```
 
-??? success "Video Speedup"
+## [Video Speedup](https://open.kattis.com/problems/videospeedup)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/videospeedup](https://open.kattis.com/problems/videospeedup).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3798,11 +3235,9 @@
         --8<-- "src/easy/videospeedup.py"
         ```
 
-??? success "Popular Vote"
+## [Popular Vote](https://open.kattis.com/problems/vote)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/vote](https://open.kattis.com/problems/vote).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3810,11 +3245,9 @@
         --8<-- "src/easy/vote.py"
         ```
 
-??? success "Warehouse"
+## [Warehouse](https://open.kattis.com/problems/warehouse)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/warehouse](https://open.kattis.com/problems/warehouse).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3822,11 +3255,9 @@
         --8<-- "src/easy/warehouse.py"
         ```
 
-??? success "Weak Vertices"
+## [Weak Vertices](https://open.kattis.com/problems/weakvertices)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/weakvertices](https://open.kattis.com/problems/weakvertices).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3834,11 +3265,9 @@
         --8<-- "src/easy/weakvertices.py"
         ```
 
-??? success "What does the fox say?"
+## [What does the fox say?](https://open.kattis.com/problems/whatdoesthefoxsay)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/whatdoesthefoxsay](https://open.kattis.com/problems/whatdoesthefoxsay).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3846,11 +3275,9 @@
         --8<-- "src/easy/whatdoesthefoxsay.py"
         ```
 
-??? success "Which is Greater?"
+## [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/whichisgreater](https://open.kattis.com/problems/whichisgreater).
+??? success "Solutions in 5 languages"
 
     === "C++"
 
@@ -3882,11 +3309,9 @@
         --8<-- "src/easy/whichisgreater.py"
         ```
 
-??? success "Wizard of Odds"
+## [Wizard of Odds](https://open.kattis.com/problems/wizardofodds)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/wizardofodds](https://open.kattis.com/problems/wizardofodds).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3894,11 +3319,9 @@
         --8<-- "src/easy/wizardofodds.py"
         ```
 
-??? success "Words for Numbers"
+## [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/wordsfornumbers](https://open.kattis.com/problems/wordsfornumbers).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3906,11 +3329,9 @@
         --8<-- "src/easy/wordsfornumbers.py"
         ```
 
-??? success "Yoda"
+## [Yoda](https://open.kattis.com/problems/yoda)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/yoda](https://open.kattis.com/problems/yoda).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3918,11 +3339,9 @@
         --8<-- "src/easy/yoda.py"
         ```
 
-??? success "Zamka"
+## [Zamka](https://open.kattis.com/problems/zamka)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/zamka](https://open.kattis.com/problems/zamka).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3930,11 +3349,9 @@
         --8<-- "src/easy/zamka.py"
         ```
 
-??? success "Stand on Zanzibar"
+## [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/zanzibar](https://open.kattis.com/problems/zanzibar).
+??? success "Solutions in 2 languages"
 
     === "Java"
 
@@ -3948,11 +3365,9 @@
         --8<-- "src/easy/zanzibar.py"
         ```
 
-??? success "Un-bear-able Zoo"
+## [Un-bear-able Zoo](https://open.kattis.com/problems/zoo)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/zoo](https://open.kattis.com/problems/zoo).
+??? success "Solution in Python"
 
     === "Python"
 
@@ -3960,11 +3375,9 @@
         --8<-- "src/easy/zoo.py"
         ```
 
-??? success "Zoom"
+## [Zoom](https://open.kattis.com/problems/zoom)
 
-    === "Problem"
-
-        See detail at [https://open.kattis.com/problems/zoom](https://open.kattis.com/problems/zoom).
+??? success "Solution in Python"
 
     === "Python"
 

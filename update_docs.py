@@ -57,6 +57,9 @@ for folder in folders:
             solutions[file.stem].append(file.name)
         all_files.append(file.name)
 
+    total = len(solutions)
+    summary[folder] = total
+
     if not force and set(solutions.keys()) < set(cache.keys()):
         print(f"⛔ Skipped {uri}: no update needed")
         print()
@@ -83,13 +86,11 @@ for folder in folders:
     except:
         pass
 
-    total = len(solutions)
     s = "s" if total > 1 else ""
     print()
     print(f"🔍 Found {total} solution{s} from {uri}")
     print()
 
-    summary[folder] = total
     now = date.today()
     text = """---
 hide:

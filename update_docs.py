@@ -1,6 +1,7 @@
 import json
 import pickle
 import subprocess
+from argparse import ArgumentParser
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -11,6 +12,14 @@ import seaborn as sns
 import urllib3
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+
+parser = ArgumentParser(
+    prog="UpdateDocs",
+    description="A helper script to update docs",
+)
+parser.add_argument("-f", "--force", action="store_true")
+args, _ = parser.parse_known_args()
+force = args.force
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 folders = ["easy", "medium", "hard"]
@@ -66,6 +75,9 @@ for folder in folders:
         else:
             solutions[file.stem].append(file.name)
         all_files.append(file.name)
+
+    if not force and set(solutions.keys()) < set(cache.keys()):
+        continue
 
     total = len(solutions)
     s = "s" if total > 1 else ""

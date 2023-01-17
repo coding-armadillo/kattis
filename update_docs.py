@@ -75,7 +75,14 @@ for folder in folders:
 
     summary[folder] = total
     now = date.today()
-    text = f"# Difficulty - {folder.capitalize()} (as of {now})\n"
+    text = """---
+hide:
+  - toc
+---
+"""
+    text += f"""
+# Difficulty - {folder.capitalize()} (as of {now})
+"""
     for solution, languages in tqdm(sorted(solutions.items())):
         url = f"https://open.kattis.com/problems/{solution}"
         if solution in cache:
@@ -85,12 +92,15 @@ for folder in folders:
             soup = BeautifulSoup(html.content, "html.parser")
             name = soup.find("h1").text
             cache[solution] = name
+        if len(languages) > 1:
+            suffix = f"s in {len(languages)} languages"
+        else:
+            ext = languages[0].split(".")[-1]
+            suffix = f" in {language_map[ext]}"
         card = f"""
-??? success "{name}"
+## [{name}]({url})
 
-    === "Problem"
-
-        See detail at [{url}]({url}).
+??? success "Solution{suffix}"
 """
         for language in sorted(languages):
             ext = language.split(".")[-1]

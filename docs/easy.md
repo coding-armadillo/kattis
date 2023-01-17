@@ -549,6 +549,16 @@ hide:
         --8<-- "src/easy/cocktail.py"
         ```
 
+## [Code Cleanups](https://open.kattis.com/problems/codecleanups)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/codecleanups.py"
+        ```
+
 ## [Code to Save Lives](https://open.kattis.com/problems/codetosavelives)
 
 ??? success "Solution in Python"
@@ -617,6 +627,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/cookingwater.py"
+        ```
+
+## [Costume Contest](https://open.kattis.com/problems/costumecontest)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/costumecontest.py"
         ```
 
 ## [Counting Clauses](https://open.kattis.com/problems/countingclauses)
@@ -1823,6 +1843,16 @@ hide:
         --8<-- "src/easy/mathhomework.py"
         ```
 
+## [Imperial Measurement](https://open.kattis.com/problems/measurement)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/measurement.py"
+        ```
+
 ## [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication)
 
 ??? success "Solution in Python"
@@ -2153,6 +2183,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/peasoup.py"
+        ```
+
+## [Perket](https://open.kattis.com/problems/perket)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/perket.py"
         ```
 
 ## [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor)

@@ -46,6 +46,22 @@ for folder in folders:
     uri = f"src/{folder}"
     if not Path(uri).exists():
         Path(uri).mkdir(exist_ok=True)
+
+    files = list(Path(uri).glob("*"))
+    solutions = {}
+
+    for file in files:
+        if file.stem not in solutions:
+            solutions[file.stem] = [file.name]
+        else:
+            solutions[file.stem].append(file.name)
+        all_files.append(file.name)
+
+    if not force and set(solutions.keys()) < set(cache.keys()):
+        print(f"⛔ Skipped {uri}: no update needed")
+        print()
+        continue
+
     try:
         subprocess.call(
             [
@@ -66,23 +82,11 @@ for folder in folders:
         )
     except:
         pass
-    files = list(Path(uri).glob("*"))
-    solutions = {}
-
-    for file in files:
-        if file.stem not in solutions:
-            solutions[file.stem] = [file.name]
-        else:
-            solutions[file.stem].append(file.name)
-        all_files.append(file.name)
-
-    if not force and set(solutions.keys()) < set(cache.keys()):
-        continue
 
     total = len(solutions)
     s = "s" if total > 1 else ""
     print()
-    print(f"Found {total} solution{s} from {uri}")
+    print(f"🔍 Found {total} solution{s} from {uri}")
     print()
 
     summary[folder] = total
@@ -95,7 +99,8 @@ hide:
     text += f"""
 # Difficulty - {folder.capitalize()} (as of {now})
 """
-    for solution, languages in tqdm(sorted(solutions.items())):
+    prompt = "📖 Refreshing Docs"
+    for solution, languages in tqdm(sorted(solutions.items()), desc=prompt):
         url = f"https://open.kattis.com/problems/{solution}"
         if solution in cache:
             name = cache[solution]
@@ -124,6 +129,8 @@ hide:
         ```
 """
         text += card
+
+    print()
 
     with open(f"docs/{folder}.md", "w", encoding="utf-8") as f:
         f.write(text)

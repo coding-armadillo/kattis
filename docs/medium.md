@@ -123,6 +123,16 @@ hide:
         --8<-- "src/medium/vaccineefficacy.py"
         ```
 
+## [Vector Functions](https://open.kattis.com/problems/vectorfunctions)
+
+??? success "Solution in C++"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/medium/vectorfunctions.cpp"
+        ```
+
 ## [WERTYU](https://open.kattis.com/problems/wertyu)
 
 ??? success "Solution in Python"

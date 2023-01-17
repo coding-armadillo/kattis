@@ -1127,6 +1127,16 @@ hide:
         --8<-- "src/easy/fyi.py"
         ```
 
+## [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/gandalfsspell.py"
+        ```
+
 ## [GCD](https://open.kattis.com/problems/gcd)
 
 ??? success "Solution in Python"

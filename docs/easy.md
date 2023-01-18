@@ -669,6 +669,16 @@ hide:
         --8<-- "src/easy/cprnummer.py"
         ```
 
+## [Crne](https://open.kattis.com/problems/crne)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/crne.py"
+        ```
+
 ## [Cudoviste](https://open.kattis.com/problems/cudoviste)
 
 ??? success "Solution in Python"
@@ -931,6 +941,16 @@ hide:
         --8<-- "src/easy/encodedmessage.py"
         ```
 
+## [Engineering English](https://open.kattis.com/problems/engineeringenglish)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/engineeringenglish.py"
+        ```
+
 ## [Erase Securely](https://open.kattis.com/problems/erase)
 
 ??? success "Solution in Python"
@@ -1039,6 +1059,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/falsesecurity.py"
+        ```
+
+## [Fast Food Prizes](https://open.kattis.com/problems/fastfood)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fastfood.py"
         ```
 
 ## [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)
@@ -2985,6 +3015,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/stopwatch.py"
+        ```
+
+## [Successful Zoom](https://open.kattis.com/problems/successfulzoom)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/successfulzoom.py"
         ```
 
 ## [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)

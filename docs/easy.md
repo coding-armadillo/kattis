@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-17)
+# Difficulty - Easy (as of 2023-01-18)
 
 ## [99 Problems](https://open.kattis.com/problems/99problems)
 
@@ -1853,6 +1853,16 @@ hide:
         --8<-- "src/easy/measurement.py"
         ```
 
+## [Metaprogramming](https://open.kattis.com/problems/metaprogramming)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/metaprogramming.py"
+        ```
+
 ## [Methodic Multiplication](https://open.kattis.com/problems/methodicmultiplication)
 
 ??? success "Solution in Python"
@@ -2295,6 +2305,16 @@ hide:
         --8<-- "src/easy/pot.py"
         ```
 
+## [Printing Costs](https://open.kattis.com/problems/printingcosts)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/printingcosts.py"
+        ```
+
 ## [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
 
 ??? success "Solution in Python"
@@ -2503,6 +2523,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/ratingproblems.py"
+        ```
+
+## [Scaling Recipes](https://open.kattis.com/problems/recipes)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/recipes.py"
         ```
 
 ## [Rectangle Area](https://open.kattis.com/problems/rectanglearea)
@@ -3303,6 +3333,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/upprodun.py"
+        ```
+
+## [Right-of-Way](https://open.kattis.com/problems/vajningsplikt)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vajningsplikt.py"
         ```
 
 ## [Veci](https://open.kattis.com/problems/veci)

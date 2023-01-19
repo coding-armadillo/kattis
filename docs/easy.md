@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-18)
+# Difficulty - Easy (as of 2023-01-19)
 
 ## [99 Problems](https://open.kattis.com/problems/99problems)
 
@@ -671,7 +671,13 @@ hide:
 
 ## [Crne](https://open.kattis.com/problems/crne)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/crne.go"
+        ```
 
     === "Python"
 
@@ -1179,7 +1185,13 @@ hide:
 
 ## [FYI](https://open.kattis.com/problems/fyi)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/fyi.go"
+        ```
 
     === "Python"
 
@@ -1255,6 +1267,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/grassseed.py"
+        ```
+
+## [Greedy Polygons](https://open.kattis.com/problems/greedypolygons)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/greedypolygons.py"
         ```
 
 ## [Greetings!](https://open.kattis.com/problems/greetings2)
@@ -1851,6 +1873,22 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/makingameowth.py"
+        ```
+
+## [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)
+
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/maptiles2.go"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/maptiles2.py"
         ```
 
 ## [Marko](https://open.kattis.com/problems/marko)

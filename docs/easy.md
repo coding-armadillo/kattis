@@ -2603,6 +2603,16 @@ hide:
         --8<-- "src/easy/recipes.py"
         ```
 
+## [Recount](https://open.kattis.com/problems/recount)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/recount.py"
+        ```
+
 ## [Rectangle Area](https://open.kattis.com/problems/rectanglearea)
 
 ??? success "Solution in Python"

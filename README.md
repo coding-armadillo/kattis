@@ -4,6 +4,7 @@
 
 # kattis
 
+[![pages-build-deployment](https://github.com/coding-armadillo/kattis/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/coding-armadillo/kattis/actions/workflows/pages/pages-build-deployment)
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![all-contributors](https://img.shields.io/github/all-contributors/coding-armadillo/kattis)
 

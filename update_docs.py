@@ -143,7 +143,7 @@ with open(".all-contributorsrc") as f:
 with open("docs/index.md", "w") as f:
     text = """# Kattis
 
-## Summary by Difficulty of Problems Solved
+## Summary by Difficulty
 """
 
     for folder, total in summary.items():
@@ -151,11 +151,11 @@ with open("docs/index.md", "w") as f:
 - [{folder.capitalize()} ^{total}^]({folder}.md)
 """
     text += f"""
-## Summary by First Character of Problems Solved
+## Summary by First Character
 
 ![summary-by-first-char](summary-by-first-char.png)
 
-## Summary by Language Used of Problems Solved
+## Summary by Language Used
 
 ![summary-by-language](summary-by-language.png)
 

@@ -665,6 +665,16 @@ hide:
         --8<-- "src/easy/countthevowels.py"
         ```
 
+## [Course Scheduling](https://open.kattis.com/problems/coursescheduling)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/coursescheduling.py"
+        ```
+
 ## [CPR Number](https://open.kattis.com/problems/cprnummer)
 
 ??? success "Solution in Python"
@@ -1295,6 +1305,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/grassseed.py"
+        ```
+
+## [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/greedilyincreasing.py"
         ```
 
 ## [Greedy Polygons](https://open.kattis.com/problems/greedypolygons)
@@ -2073,6 +2093,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/musicalscales.py"
+        ```
+
+## [Music Your Way](https://open.kattis.com/problems/musicyourway)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/musicyourway.py"
         ```
 
 ## [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
@@ -3199,6 +3229,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/taisformula.py"
+        ```
+
+## [Tajna](https://open.kattis.com/problems/tajna)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tajna.py"
         ```
 
 ## [Tarifa](https://open.kattis.com/problems/tarifa)

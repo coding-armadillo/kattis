@@ -10,5 +10,4 @@ func main() {
 	fmt.Scan(&s)
 	index := strings.Index(s, "a")
 	fmt.Println(s[index:])
-
 }

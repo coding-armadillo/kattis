@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-19)
+# Difficulty - Easy (as of 2023-01-20)
 
 ## [99 Problems](https://open.kattis.com/problems/99problems)
 
@@ -1035,7 +1035,13 @@ hide:
 
 ## [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/eyeofsauron.go"
+        ```
 
     === "Python"
 
@@ -1259,6 +1265,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/gerrymandering.py"
+        ```
+
+## [Goat Rope](https://open.kattis.com/problems/goatrope)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/goatrope.py"
         ```
 
 ## [Grading](https://open.kattis.com/problems/grading)
@@ -2699,7 +2715,13 @@ hide:
 
 ## [Roaming Romans](https://open.kattis.com/problems/romans)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/romans.go"
+        ```
 
     === "Python"
 
@@ -2931,7 +2953,13 @@ hide:
 
 ## [Soda Slurper](https://open.kattis.com/problems/sodaslurper)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/sodaslurper.go"
+        ```
 
     === "Python"
 

@@ -511,7 +511,13 @@ hide:
 
 ## [Cetiri](https://open.kattis.com/problems/cetiri)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/cetiri.go"
+        ```
 
     === "Python"
 
@@ -1109,12 +1115,18 @@ hide:
 
 ## [Finding An A](https://open.kattis.com/problems/findingana)
 
-??? success "Solutions in 2 languages"
+??? success "Solutions in 3 languages"
 
     === "C++"
 
         ```cpp linenums="1"
         --8<-- "src/easy/findingana.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/findingana.go"
         ```
 
     === "Python"
@@ -1291,7 +1303,13 @@ hide:
 
 ## [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/hailstone.go"
+        ```
 
     === "Python"
 
@@ -2591,6 +2609,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/ratingproblems.py"
+        ```
+
+## [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/rationalsequence2.py"
         ```
 
 ## [Scaling Recipes](https://open.kattis.com/problems/recipes)

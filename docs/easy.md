@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-20)
+# Difficulty - Easy (as of 2023-01-21)
 
 ## [99 Problems](https://open.kattis.com/problems/99problems)
 
@@ -593,6 +593,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/cold.py"
+        ```
+
+## [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/competitivearcadebasketball.py"
         ```
 
 ## [Compound Words](https://open.kattis.com/problems/compoundwords)
@@ -1775,6 +1785,16 @@ hide:
         --8<-- "src/easy/kornislav.py"
         ```
 
+## [Križaljka](https://open.kattis.com/problems/krizaljka)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/krizaljka.py"
+        ```
+
 ## [Ladder](https://open.kattis.com/problems/ladder)
 
 ??? success "Solution in Python"
@@ -2417,6 +2437,16 @@ hide:
         --8<-- "src/easy/pokerhand.py"
         ```
 
+## [Polynomial Multiplication 1](https://open.kattis.com/problems/polymul1)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/polymul1.py"
+        ```
+
 ## [Popularity Contest](https://open.kattis.com/problems/popularitycontest)
 
 ??? success "Solution in Python"
@@ -2695,6 +2725,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/rectanglearea.py"
+        ```
+
+## [Reduced ID Numbers](https://open.kattis.com/problems/reducedidnumbers)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/reducedidnumbers.py"
         ```
 
 ## [Relocation](https://open.kattis.com/problems/relocation)

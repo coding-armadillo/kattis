@@ -2,17 +2,17 @@
 
 ## Summary by Difficulty
 
-- [Easy ^322^](easy.md)
+- [Easy ^326^](easy.md)
 
 - [Medium ^12^](medium.md)
 
 - [Hard ^1^](hard.md)
 
-## Summary by First Character
+## Summary by Initial
 
 ![summary-by-first-char](summary-by-first-char.png)
 
-## Summary by Language Used
+## Summary by Language
 
 ![summary-by-language](summary-by-language.png)
 

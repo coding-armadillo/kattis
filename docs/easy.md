@@ -3,17 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-21)
-
-## [99 Problems](https://open.kattis.com/problems/99problems)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/99problems.py"
-        ```
+# Difficulty - Easy (as of 2023-01-22)
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -823,7 +813,13 @@ hide:
 
 ## [Digit Swap](https://open.kattis.com/problems/digitswap)
 
-??? success "Solutions in 2 languages"
+??? success "Solutions in 3 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/digitswap.go"
+        ```
 
     === "Java"
 
@@ -1745,6 +1741,16 @@ hide:
         --8<-- "src/easy/keywords.py"
         ```
 
+## [Kitten on a Tree](https://open.kattis.com/problems/kitten)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/kitten.py"
+        ```
+
 ## [Kleptography](https://open.kattis.com/problems/kleptography)
 
 ??? success "Solution in Python"
@@ -1803,16 +1809,6 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/ladder.py"
-        ```
-
-## [Lamps](https://open.kattis.com/problems/lamps)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/lamps.py"
         ```
 
 ## [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)
@@ -3559,6 +3555,16 @@ hide:
         --8<-- "src/easy/upprodun.py"
         ```
 
+## [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vaccineefficacy.py"
+        ```
+
 ## [Right-of-Way](https://open.kattis.com/problems/vajningsplikt)
 
 ??? success "Solution in Python"
@@ -3671,16 +3677,6 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/wizardofodds.py"
-        ```
-
-## [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/wordsfornumbers.py"
         ```
 
 ## [Yoda](https://open.kattis.com/problems/yoda)

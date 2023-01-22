@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Medium (as of 2023-01-16)
+# Difficulty - Medium (as of 2023-01-22)
 
 ## [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)
 
@@ -53,6 +53,16 @@ hide:
         --8<-- "src/medium/4thought.py"
         ```
 
+## [99 Problems](https://open.kattis.com/problems/99problems)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/99problems.py"
+        ```
+
 ## [Arithmetic](https://open.kattis.com/problems/arithmetic)
 
 ??? success "Solution in Python"
@@ -93,6 +103,16 @@ hide:
         --8<-- "src/medium/guess.py"
         ```
 
+## [Lamps](https://open.kattis.com/problems/lamps)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/lamps.py"
+        ```
+
 ## [A List Game](https://open.kattis.com/problems/listgame)
 
 ??? success "Solution in Python"
@@ -113,16 +133,6 @@ hide:
         --8<-- "src/medium/simon.py"
         ```
 
-## [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/medium/vaccineefficacy.py"
-        ```
-
 ## [Vector Functions](https://open.kattis.com/problems/vectorfunctions)
 
 ??? success "Solution in C++"
@@ -141,4 +151,14 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/medium/wertyu.py"
+        ```
+
+## [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/wordsfornumbers.py"
         ```

@@ -168,13 +168,13 @@ with open("docs/index.md", "w") as f:
 with open("docs/.cache", "wb") as f:
     pickle.dump(cache, f)
 
-s = Counter([k[0] for k in cache.values()])
+s = dict(Counter([k[0] for k in cache.values()]).most_common())
 ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
 ax.get_figure().savefig("docs/summary-by-first-char.png", bbox_inches="tight")
 
 plt.clf()
 
-s = Counter([language_map[f.split(".")[-1]] for f in all_files])
+s = dict(Counter([language_map[f.split(".")[-1]] for f in all_files]).most_common())
 ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
 ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
 ax.get_figure().savefig("docs/summary-by-language.png", bbox_inches="tight")

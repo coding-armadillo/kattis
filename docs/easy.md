@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-22)
+# Difficulty - Easy (as of 2023-01-23)
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -269,6 +269,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/babybites.py"
+        ```
+
+## [Baby Panda](https://open.kattis.com/problems/babypanda)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/babypanda.py"
         ```
 
 ## [Backspace](https://open.kattis.com/problems/backspace)
@@ -1639,6 +1649,16 @@ hide:
         --8<-- "src/easy/janitortroubles.py"
         ```
 
+## [Jewelry Box](https://open.kattis.com/problems/jewelrybox)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/jewelrybox.py"
+        ```
+
 ## [Job Expenses](https://open.kattis.com/problems/jobexpenses)
 
 ??? success "Solution in Python"
@@ -2287,6 +2307,16 @@ hide:
         --8<-- "src/easy/pachydermpeanutpacking.py"
         ```
 
+## [Parket](https://open.kattis.com/problems/parket)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/parket.py"
+        ```
+
 ## [Parking](https://open.kattis.com/problems/parking)
 
 ??? success "Solution in Python"
@@ -2391,6 +2421,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/pizza2.py"
+        ```
+
+## [Planetaris](https://open.kattis.com/problems/planetaris)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/planetaris.py"
         ```
 
 ## [Planina](https://open.kattis.com/problems/planina)

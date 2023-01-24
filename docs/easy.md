@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-23)
+# Difficulty - Easy (as of 2023-01-24)
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -739,6 +739,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/cutinline.py"
+        ```
+
+## [Cyanide Rivers](https://open.kattis.com/problems/cyaniderivers)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cyaniderivers.py"
         ```
 
 ## [Damaged Equation](https://open.kattis.com/problems/damagedequation)
@@ -2373,6 +2383,16 @@ hide:
         --8<-- "src/easy/peasoup.py"
         ```
 
+## [Peragrams](https://open.kattis.com/problems/peragrams)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/peragrams.py"
+        ```
+
 ## [Perket](https://open.kattis.com/problems/perket)
 
 ??? success "Solution in Python"
@@ -2673,6 +2693,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/racingalphabet.py"
+        ```
+
+## [Ragged Right](https://open.kattis.com/problems/raggedright)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/raggedright.py"
         ```
 
 ## [Railroad](https://open.kattis.com/problems/railroad2)
@@ -3347,6 +3377,16 @@ hide:
         --8<-- "src/easy/tetration.py"
         ```
 
+## [Thanos](https://open.kattis.com/problems/thanos)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/thanos.py"
+        ```
+
 ## [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)
 
 ??? success "Solution in Python"
@@ -3427,6 +3467,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/tolower.py"
+        ```
+
+## [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/touchscreenkeyboard.py"
         ```
 
 ## [Transit Woes](https://open.kattis.com/problems/transitwoes)

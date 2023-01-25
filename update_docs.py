@@ -153,7 +153,7 @@ with open("docs/index.md", "w") as f:
     text += f"""
 ## Summary by Initial
 
-![summary-by-first-char](summary-by-first-char.png)
+![summary-by-initial](summary-by-initial.png)
 
 ## Summary by Language
 
@@ -170,7 +170,7 @@ with open("docs/.cache", "wb") as f:
 
 s = dict(Counter([k[0] for k in cache.values()]).most_common())
 ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
-ax.get_figure().savefig("docs/summary-by-first-char.png", bbox_inches="tight")
+ax.get_figure().savefig("docs/summary-by-initial.png", bbox_inches="tight")
 
 plt.clf()
 

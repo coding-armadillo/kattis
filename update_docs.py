@@ -159,6 +159,8 @@ with open("docs/index.md", "w") as f:
 
 ![summary-by-language](summary-by-language.png)
 
+---
+
 !!! note ""
 
     Thanks to all {num_contributors} [contributors](https://github.com/coding-armadillo/kattis#contributors-).

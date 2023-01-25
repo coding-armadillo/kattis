@@ -2,7 +2,7 @@
 
 ## Summary by Difficulty
 
-- [Easy ^334^](easy.md)
+- [Easy ^336^](easy.md)
 
 - [Medium ^14^](medium.md)
 
@@ -10,7 +10,7 @@
 
 ## Summary by Initial
 
-![summary-by-first-char](summary-by-first-char.png)
+![summary-by-initial](summary-by-initial.png)
 
 ## Summary by Language
 

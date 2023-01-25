@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-24)
+# Difficulty - Easy (as of 2023-01-25)
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -477,6 +477,16 @@ hide:
         --8<-- "src/easy/bus.py"
         ```
 
+## [Calories From Fat](https://open.kattis.com/problems/calories)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/calories.py"
+        ```
+
 ## [Canadians, eh?](https://open.kattis.com/problems/canadianseh)
 
 ??? success "Solutions in 3 languages"
@@ -543,6 +553,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/chanukah.py"
+        ```
+
+## [Character Development](https://open.kattis.com/problems/character)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/character.py"
         ```
 
 ## [A Furious Cocktail](https://open.kattis.com/problems/cocktail)

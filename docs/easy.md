@@ -2423,6 +2423,16 @@ hide:
         --8<-- "src/easy/perket.py"
         ```
 
+## [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/permutedarithmeticsequence.py"
+        ```
+
 ## [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor)
 
 ??? success "Solution in Python"
@@ -3375,6 +3385,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/tarifa.py"
+        ```
+
+## [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/temperatureconfusion.py"
         ```
 
 ## [Test Drive](https://open.kattis.com/problems/testdrive)

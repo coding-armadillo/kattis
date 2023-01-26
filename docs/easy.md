@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-25)
+# Difficulty - Easy (as of 2023-01-26)
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -455,6 +455,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/breakingbranches.py"
+        ```
+
+## [Broken Calculator](https://open.kattis.com/problems/brokencalculator)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/brokencalculator.py"
         ```
 
 ## [Buka](https://open.kattis.com/problems/buka)
@@ -3703,6 +3713,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/vajningsplikt.py"
+        ```
+
+## [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/variablearithmetic.py"
         ```
 
 ## [Veci](https://open.kattis.com/problems/veci)

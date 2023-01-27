@@ -919,6 +919,16 @@ hide:
         --8<-- "src/easy/drinkingsong.py"
         ```
 
+## [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/driversdilemma.py"
+        ```
+
 ## [DRM Messages](https://open.kattis.com/problems/drmmessages)
 
 ??? success "Solution in Python"
@@ -1153,6 +1163,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/fastfood.py"
+        ```
+
+## [FBI Universal Control Numbers](https://open.kattis.com/problems/fbiuniversal)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fbiuniversal.py"
         ```
 
 ## [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)

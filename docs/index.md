@@ -2,7 +2,7 @@
 
 ## Summary by Difficulty
 
-- [Easy ^340^](easy.md)
+- [Easy ^342^](easy.md)
 
 - [Medium ^14^](medium.md)
 

@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Medium (as of 2023-01-22)
+# Difficulty - Medium (as of 2023-01-27)
 
 ## [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)
 
@@ -21,28 +21,6 @@ hide:
         --8<-- "src/medium/1dfroggereasy.py"
         ```
 
-## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
-
-??? success "Solutions in 3 languages"
-
-    === "Go"
-
-        ```go linenums="1"
-        --8<-- "src/medium/3dprinter.go"
-        ```
-
-    === "Java"
-
-        ```java linenums="1"
-        --8<-- "src/medium/3dprinter.java"
-        ```
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/medium/3dprinter.py"
-        ```
-
 ## [4 thought](https://open.kattis.com/problems/4thought)
 
 ??? success "Solution in Python"
@@ -51,16 +29,6 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/medium/4thought.py"
-        ```
-
-## [99 Problems](https://open.kattis.com/problems/99problems)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/medium/99problems.py"
         ```
 
 ## [Arithmetic](https://open.kattis.com/problems/arithmetic)
@@ -73,14 +41,14 @@ hide:
         --8<-- "src/medium/arithmetic.py"
         ```
 
-## [Bus Numbers](https://open.kattis.com/problems/busnumbers)
+## [Catalan Numbers](https://open.kattis.com/problems/catalan)
 
 ??? success "Solution in Python"
 
     === "Python"
 
         ```py linenums="1"
-        --8<-- "src/medium/busnumbers.py"
+        --8<-- "src/medium/catalan.py"
         ```
 
 ## [CD](https://open.kattis.com/problems/cd)

@@ -3,7 +3,39 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-26)
+# Difficulty - Easy (as of 2023-01-27)
+
+## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
+
+??? success "Solutions in 3 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/3dprinter.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/3dprinter.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/3dprinter.py"
+        ```
+
+## [99 Problems](https://open.kattis.com/problems/99problems)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/99problems.py"
+        ```
 
 ## [Aaah!](https://open.kattis.com/problems/aaah)
 
@@ -487,6 +519,16 @@ hide:
         --8<-- "src/easy/bus.py"
         ```
 
+## [Bus Numbers](https://open.kattis.com/problems/busnumbers)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/busnumbers.py"
+        ```
+
 ## [Calories From Fat](https://open.kattis.com/problems/calories)
 
 ??? success "Solution in Python"
@@ -573,6 +615,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/character.py"
+        ```
+
+## [Preludes](https://open.kattis.com/problems/chopin)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/chopin.py"
         ```
 
 ## [A Furious Cocktail](https://open.kattis.com/problems/cocktail)

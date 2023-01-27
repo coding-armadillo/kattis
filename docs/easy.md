@@ -697,6 +697,16 @@ hide:
         --8<-- "src/easy/compoundwords.py"
         ```
 
+## [Conformity](https://open.kattis.com/problems/conformity)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/conformity.py"
+        ```
+
 ## [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)
 
 ??? success "Solution in Python"
@@ -933,6 +943,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/digitswap.py"
+        ```
+
+## [Disc District](https://open.kattis.com/problems/discdistrict)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/discdistrict.py"
         ```
 
 ## [Divvying Up](https://open.kattis.com/problems/divvyingup)
@@ -2101,6 +2121,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/marko.py"
+        ```
+
+## [Mars Window](https://open.kattis.com/problems/marswindow)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/marswindow.py"
         ```
 
 ## [Math Homework](https://open.kattis.com/problems/mathhomework)
@@ -3899,6 +3929,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/wizardofodds.py"
+        ```
+
+## [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/yinyangstones.py"
         ```
 
 ## [Yoda](https://open.kattis.com/problems/yoda)

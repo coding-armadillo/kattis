@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Medium (as of 2023-01-27)
+# Difficulty - Medium (as of 2023-01-29)
 
 ## [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)
 
@@ -29,6 +29,26 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/medium/4thought.py"
+        ```
+
+## [Adding Words](https://open.kattis.com/problems/addingwords)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/addingwords.py"
+        ```
+
+## [Alex and Barb](https://open.kattis.com/problems/alexandbarb)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/alexandbarb.py"
         ```
 
 ## [Arithmetic](https://open.kattis.com/problems/arithmetic)

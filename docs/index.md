@@ -2,9 +2,9 @@
 
 ## Summary by Difficulty
 
-- [Easy ^350^](easy.md)
+- [Easy ^351^](easy.md)
 
-- [Medium ^12^](medium.md)
+- [Medium ^14^](medium.md)
 
 - [Hard ^1^](hard.md)
 

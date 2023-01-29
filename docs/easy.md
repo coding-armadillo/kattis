@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-27)
+# Difficulty - Easy (as of 2023-01-29)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -143,7 +143,13 @@ hide:
 
 ## [A New Alphabet](https://open.kattis.com/problems/anewalphabet)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/anewalphabet.go"
+        ```
 
     === "Python"
 
@@ -453,6 +459,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/bookingaroom.py"
+        ```
+
+## [Bounding Robots](https://open.kattis.com/problems/boundingrobots)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/boundingrobots.py"
         ```
 
 ## [Breaking Branches](https://open.kattis.com/problems/breakingbranches)

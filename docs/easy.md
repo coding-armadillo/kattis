@@ -515,6 +515,16 @@ hide:
         --8<-- "src/easy/brokencalculator.py"
         ```
 
+## [Broken Swords](https://open.kattis.com/problems/brokenswords)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/brokenswords.py"
+        ```
+
 ## [Buka](https://open.kattis.com/problems/buka)
 
 ??? success "Solution in Python"
@@ -3031,6 +3041,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/runlengthencodingrun.py"
+        ```
+
+## [Saving Daylight](https://open.kattis.com/problems/savingdaylight)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/savingdaylight.py"
         ```
 
 ## [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)

@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-29)
+# Difficulty - Easy (as of 2023-01-31)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -2269,6 +2269,16 @@ hide:
         --8<-- "src/easy/moscowdream.py"
         ```
 
+## [Mosquito Multiplication](https://open.kattis.com/problems/mosquito)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mosquito.py"
+        ```
+
 ## [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)
 
 ??? success "Solution in Python"
@@ -2599,6 +2609,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/pieceofcake2.py"
+        ```
+
+## [A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pikemaneasy.py"
         ```
 
 ## [Pizza Crust](https://open.kattis.com/problems/pizza2)

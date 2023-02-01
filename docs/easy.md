@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-01-29)
+# Difficulty - Easy (as of 2023-02-01)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -459,6 +459,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/bookingaroom.py"
+        ```
+
+## [Boss Battle](https://open.kattis.com/problems/bossbattle)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bossbattle.py"
         ```
 
 ## [Bounding Robots](https://open.kattis.com/problems/boundingrobots)
@@ -927,16 +937,6 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/dicegame.py"
-        ```
-
-## [A Different Problem](https://open.kattis.com/problems/different)
-
-??? success "Solution in Python"
-
-    === "Python"
-
-        ```py linenums="1"
-        --8<-- "src/easy/different.py"
         ```
 
 ## [Different Distances](https://open.kattis.com/problems/differentdistances)
@@ -2267,6 +2267,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/moscowdream.py"
+        ```
+
+## [Mosquito Multiplication](https://open.kattis.com/problems/mosquito)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mosquito.py"
         ```
 
 ## [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)

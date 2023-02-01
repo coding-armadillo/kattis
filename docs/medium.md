@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Medium (as of 2023-01-29)
+# Difficulty - Medium (as of 2023-02-01)
 
 ## [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy)
 
@@ -51,6 +51,16 @@ hide:
         --8<-- "src/medium/alexandbarb.py"
         ```
 
+## [Another Candies](https://open.kattis.com/problems/anothercandies)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/anothercandies.py"
+        ```
+
 ## [Arithmetic](https://open.kattis.com/problems/arithmetic)
 
 ??? success "Solution in Python"
@@ -81,6 +91,16 @@ hide:
         --8<-- "src/medium/cd.py"
         ```
 
+## [A Different Problem](https://open.kattis.com/problems/different)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/different.py"
+        ```
+
 ## [Guess the Number](https://open.kattis.com/problems/guess)
 
 ??? success "Solution in Python"
@@ -109,6 +129,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/medium/listgame.py"
+        ```
+
+## [A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/medium/pikemaneasy.py"
         ```
 
 ## [Simon Says](https://open.kattis.com/problems/simon)

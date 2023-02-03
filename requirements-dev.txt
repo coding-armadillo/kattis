@@ -2,7 +2,7 @@
 beautifulsoup4==4.11.2
 black==23.1.0
 pip-check-updates==0.18.1
-pylint==2.16.0
+pylint==2.16.1
 requests==2.28.2
 seaborn==0.12.2
 tqdm==4.64.1

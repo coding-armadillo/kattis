@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-02-01)
+# Difficulty - Easy (as of 2023-02-03)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -597,6 +597,16 @@ hide:
         --8<-- "src/easy/canadianseh.py"
         ```
 
+## [Careful Ascent](https://open.kattis.com/problems/carefulascent)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/carefulascent.py"
+        ```
+
 ## [Solving for Carrots](https://open.kattis.com/problems/carrots)
 
 ??? success "Solution in Python"
@@ -1185,6 +1195,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/everywhere.py"
+        ```
+
+## [Exactly Electrical](https://open.kattis.com/problems/exactlyelectrical)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/exactlyelectrical.py"
         ```
 
 ## [Exam](https://open.kattis.com/problems/exam)

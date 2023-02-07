@@ -141,7 +141,12 @@ with open(".all-contributorsrc") as f:
     num_contributors = len(data["contributors"])
 
 with open("docs/index.md", "w") as f:
-    text = """# Kattis
+    text = """
+<figure markdown>
+![Logo](https://open.kattis.com/images/site-logo){ width="100" }
+</figure>
+
+# Kattis
 
 ## Summary by Difficulty
 """
@@ -165,7 +170,7 @@ with open("docs/index.md", "w") as f:
 
     Thanks to all {num_contributors} [contributors](https://github.com/coding-armadillo/kattis#contributors-).
 """
-    f.write(text)
+    f.write(text.lstrip())
 
 with open("docs/.cache", "wb") as f:
     pickle.dump(cache, f)

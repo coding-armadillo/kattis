@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-02-03)
+# Difficulty - Easy (as of 2023-02-07)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -671,6 +671,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/chopin.py"
+        ```
+
+## [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/classfieldtrip.py"
         ```
 
 ## [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
@@ -2217,6 +2227,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/methodicmultiplication.py"
+        ```
+
+## [Metronome](https://open.kattis.com/problems/metronome)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/metronome.py"
         ```
 
 ## [Mia](https://open.kattis.com/problems/mia)

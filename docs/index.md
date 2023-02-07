@@ -1,8 +1,12 @@
+<figure markdown>
+![Logo](https://open.kattis.com/images/site-logo){ width="100" }
+</figure>
+
 # Kattis
 
 ## Summary by Difficulty
 
-- [Easy ^356^](easy.md)
+- [Easy ^358^](easy.md)
 
 - [Medium ^17^](medium.md)
 

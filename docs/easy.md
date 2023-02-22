@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-02-07)
+# Difficulty - Easy (as of 2023-02-22)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -927,6 +927,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/deathknight.py"
+        ```
+
+## [Delimiter Soup](https://open.kattis.com/problems/delimitersoup)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/delimitersoup.py"
         ```
 
 ## [Detailed Differences](https://open.kattis.com/problems/detaileddifferences)

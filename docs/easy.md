@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-02-22)
+# Difficulty - Easy (as of 2023-03-10)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -429,6 +429,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/blackfriday.py"
+        ```
+
+## [Blueberry Waffle](https://open.kattis.com/problems/blueberrywaffle)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/blueberrywaffle.py"
         ```
 
 ## [Bluetooth](https://open.kattis.com/problems/bluetooth)
@@ -1261,6 +1271,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/eyeofsauron.py"
+        ```
+
+## [Fading Wind](https://open.kattis.com/problems/fadingwind)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fadingwind.py"
         ```
 
 ## [Faktor](https://open.kattis.com/problems/faktor)

@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-03-10)
+# Difficulty - Easy (as of 2023-03-19)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -491,6 +491,16 @@ hide:
         --8<-- "src/easy/boundingrobots.py"
         ```
 
+## [Bracket Matching](https://open.kattis.com/problems/bracketmatching)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bracketmatching.py"
+        ```
+
 ## [Breaking Branches](https://open.kattis.com/problems/breakingbranches)
 
 ??? success "Solutions in 5 languages"
@@ -897,6 +907,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/cutinline.py"
+        ```
+
+## [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cutthenegativity.py"
         ```
 
 ## [Cyanide Rivers](https://open.kattis.com/problems/cyaniderivers)

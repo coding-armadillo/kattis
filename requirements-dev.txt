@@ -1,5 +1,5 @@
 -r requirements-docs.txt
-beautifulsoup4==4.12.0
+beautifulsoup4==4.12.2
 black==23.3.0
 pip-check-updates==0.21.0
 pylint==2.17.2

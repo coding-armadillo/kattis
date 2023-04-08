@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-03-19)
+# Difficulty - Easy (as of 2023-04-08)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -1839,6 +1839,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/illuminatispotti.py"
+        ```
+
+## [International Dates](https://open.kattis.com/problems/internationaldates)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/internationaldates.py"
         ```
 
 ## [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
@@ -3911,6 +3921,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/ultimatebinarywatch.py"
+        ```
+
+## [Undead or Alive](https://open.kattis.com/problems/undeadoralive)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/undeadoralive.py"
         ```
 
 ## [Unlock Pattern](https://open.kattis.com/problems/unlockpattern)

@@ -6,7 +6,7 @@
 
 ## Summary by Difficulty
 
-- [Easy ^365^](easy.md)
+- [Easy ^366^](easy.md)
 
 - [Medium ^17^](medium.md)
 
@@ -24,4 +24,4 @@
 
 !!! note ""
 
-    Thanks to all 3 [contributors](https://github.com/coding-armadillo/kattis#contributors-).
+    Thanks to all 4 [contributors](https://github.com/coding-armadillo/kattis#contributors-).

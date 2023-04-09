@@ -3535,6 +3535,16 @@ hide:
         --8<-- "src/easy/statistics.py"
         ```
 
+## [Sticky Keys](https://open.kattis.com/problems/stickykeys)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/stickykeys.py"
+        ```
+
 ## [Stopwatch](https://open.kattis.com/problems/stopwatch)
 
 ??? success "Solution in Python"

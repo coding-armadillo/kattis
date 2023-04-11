@@ -1,16 +1,16 @@
-a = input()
+s = input()
 
-Smile = ":)" in a
+smiley = ":)" in s
 
-Frown = ":(" in a
+frowny = ":(" in s
 
-if not Frown and Smile:
+if not frowny and smiley:
     print("alive")
 
-elif Frown and not Smile:
+elif frowny and not smiley:
     print("undead")
 
-elif Frown and Smile:
+elif frowny and smiley:
     print("double agent")
 
 else:

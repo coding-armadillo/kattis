@@ -17,7 +17,6 @@ while True:
     result = []
 
     for key in keys:
-
         has_triangle = False
         for a, b in combinations(graph[key], 2):
             if a in graph[b] and b in graph[a]:

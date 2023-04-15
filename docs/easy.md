@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-04-08)
+# Difficulty - Easy (as of 2023-04-15)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -691,6 +691,26 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/chopin.py"
+        ```
+
+## [Cinema Crowds](https://open.kattis.com/problems/cinema)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cinema.py"
+        ```
+
+## [Cinema Crowds 2](https://open.kattis.com/problems/cinema2)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cinema2.py"
         ```
 
 ## [Class Field Trip](https://open.kattis.com/problems/classfieldtrip)

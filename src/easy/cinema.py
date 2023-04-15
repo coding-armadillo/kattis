@@ -1,6 +1,6 @@
-n,m = [int(v) for v in input().split()]
-#n = total copacity of cinema
-#m is number of groups
+n, m = [int(v) for v in input().split()]
+# n = total copacity of cinema
+# m is number of groups
 
 size = [int(v) for v in input().split()]
 
@@ -12,4 +12,3 @@ for i in range(m):
         groups_admitted += 1
 
 print(m - groups_admitted)
-    

@@ -1,6 +1,4 @@
 n, m = [int(v) for v in input().split()]
-# n = total copacity of cinema
-# m is number of groups
 
 size = [int(v) for v in input().split()]
 

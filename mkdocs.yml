@@ -12,14 +12,14 @@ theme:
     text: Roboto
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      primary: orange
+      accent: orange
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: orange
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
@@ -35,7 +35,8 @@ plugins:
   - minify:
       minify_html: true
   - git-revision-date-localized:
-      type: date
+      type: timeago
+      enable_creation_date: true
 markdown_extensions:
   - attr_list
   - md_in_html

@@ -24,4 +24,4 @@
 
 !!! note ""
 
-    Thanks to all 4 [contributors](https://github.com/coding-armadillo/kattis#contributors-).
+    Thanks to all 5 [contributors](https://github.com/coding-armadillo/kattis#contributors-).

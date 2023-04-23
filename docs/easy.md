@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-04-15)
+# Difficulty - Easy (as of 2023-04-23)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -81,6 +81,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/acm.py"
+        ```
+
+## [Adding Trouble](https://open.kattis.com/problems/addingtrouble)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/addingtrouble.py"
         ```
 
 ## [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)
@@ -3613,6 +3623,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/sumsquareddigits.py"
+        ```
+
+## [Sun and Moon](https://open.kattis.com/problems/sunandmoon)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sunandmoon.py"
         ```
 
 ## [Symmetric Order](https://open.kattis.com/problems/symmetricorder)

@@ -1,5 +1,5 @@
-A, B, C = [int(v) for v in input().split()]
-if A + B == C:
+a, b, c = [int(v) for v in input().split()]
+if a + b == c:
     print("correct!")
 else:
     print("wrong!")

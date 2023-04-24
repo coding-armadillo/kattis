@@ -25,13 +25,14 @@ theme:
         name: Switch to light mode
   features:
     - header.autohide
+    - content.code.copy
 repo_name: coding-armadillo/kattis
 repo_url: https://github.com/coding-armadillo/kattis
 plugins:
   - search
   - tags
   - glightbox:
-      auto_caption: True
+      auto_caption: true
   - minify:
       minify_html: true
   - git-revision-date-localized:

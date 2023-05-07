@@ -6,7 +6,7 @@
 
 ## Summary by Difficulty
 
-- [Easy ^370^](easy.md)
+- [Easy ^372^](easy.md)
 
 - [Medium ^17^](medium.md)
 

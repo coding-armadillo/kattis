@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-04-23)
+# Difficulty - Easy (as of 2023-05-06)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -691,6 +691,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/character.py"
+        ```
+
+## [Chocolate Division](https://open.kattis.com/problems/chocolatedivision)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/chocolatedivision.py"
         ```
 
 ## [Preludes](https://open.kattis.com/problems/chopin)
@@ -1559,6 +1569,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/gerrymandering.py"
+        ```
+
+## [Glasses Foggy, Mom's Spaghetti](https://open.kattis.com/problems/glassesfoggymomsspaghetti)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/glassesfoggymomsspaghetti.py"
         ```
 
 ## [Goat Rope](https://open.kattis.com/problems/goatrope)

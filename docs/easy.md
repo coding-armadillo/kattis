@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-05-06)
+# Difficulty - Easy (as of 2023-05-15)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -2633,6 +2633,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/pachydermpeanutpacking.py"
+        ```
+
+## [Parent Gap](https://open.kattis.com/problems/parentgap)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/parentgap.py"
         ```
 
 ## [Parket](https://open.kattis.com/problems/parket)

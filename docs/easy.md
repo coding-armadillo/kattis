@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-04-15)
+# Difficulty - Easy (as of 2023-05-15)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -81,6 +81,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/acm.py"
+        ```
+
+## [Adding Trouble](https://open.kattis.com/problems/addingtrouble)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/addingtrouble.py"
         ```
 
 ## [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)
@@ -681,6 +691,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/character.py"
+        ```
+
+## [Chocolate Division](https://open.kattis.com/problems/chocolatedivision)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/chocolatedivision.py"
         ```
 
 ## [Preludes](https://open.kattis.com/problems/chopin)
@@ -1549,6 +1569,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/gerrymandering.py"
+        ```
+
+## [Glasses Foggy, Mom's Spaghetti](https://open.kattis.com/problems/glassesfoggymomsspaghetti)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/glassesfoggymomsspaghetti.py"
         ```
 
 ## [Goat Rope](https://open.kattis.com/problems/goatrope)
@@ -2605,6 +2635,16 @@ hide:
         --8<-- "src/easy/pachydermpeanutpacking.py"
         ```
 
+## [Parent Gap](https://open.kattis.com/problems/parentgap)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/parentgap.py"
+        ```
+
 ## [Parket](https://open.kattis.com/problems/parket)
 
 ??? success "Solution in Python"
@@ -3613,6 +3653,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/sumsquareddigits.py"
+        ```
+
+## [Sun and Moon](https://open.kattis.com/problems/sunandmoon)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sunandmoon.py"
         ```
 
 ## [Symmetric Order](https://open.kattis.com/problems/symmetricorder)

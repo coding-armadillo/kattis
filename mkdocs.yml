@@ -25,13 +25,15 @@ theme:
         name: Switch to light mode
   features:
     - header.autohide
-repo_name: coding-armadillo/kattis
+    - content.code.copy
+    - navigation.top
+repo_name: kattis
 repo_url: https://github.com/coding-armadillo/kattis
 plugins:
   - search
   - tags
   - glightbox:
-      auto_caption: True
+      auto_caption: true
   - minify:
       minify_html: true
   - git-revision-date-localized:
@@ -54,5 +56,9 @@ markdown_extensions:
   - pymdownx.tilde
 extra:
   social:
+    - icon: fontawesome/solid/house
+      link: https://coding-armadillo.github.io/
     - icon: fontawesome/brands/github
       link: https://github.com/coding-armadillo
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:hello.coding.armadillo@gmail.com

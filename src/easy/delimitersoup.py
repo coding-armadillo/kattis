@@ -1,29 +1,32 @@
 n = int(input())
-s = input()
+D_s = input()
+
 stack = []
-is_valid = True
+
+valid = True
+
 for i in range(n):
-    c = s[i]
-    if c == " ":
-        continue
-    elif c in ["(", "[", "{"]:
+    c = D_s[i]
+    if c in ["(", "[", "{"]:
         stack.append(c)
-    else:
+    if c in [")", "]", "}"]:
         if len(stack) == 0:
-            is_valid = False
+            valid = False
             break
-        last = stack.pop()
-        if c == ")" and last != "(":
-            is_valid = False
+        v = stack.pop()
+        if c == ")" and v != "(":
+            valid = False
             break
-        if c == "]" and last != "[":
-            is_valid = False
+            
+        elif c == "]" and  v != "[":
+            valid = False
             break
-        if c == "}" and last != "{":
-            is_valid = False
+            
+        elif c == "}" and  v != "{":
+            valid = False
             break
 
-if is_valid:
+if valid:
     print("ok so far")
 else:
     print(c, i)

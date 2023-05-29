@@ -2588,39 +2588,37 @@
 <span class=normal><a href=#__codelineno-107-28>28</a></span>
 <span class=normal><a href=#__codelineno-107-29>29</a></span>
 <span class=normal><a href=#__codelineno-107-30>30</a></span>
-<span class=normal><a href=#__codelineno-107-31>31</a></span>
-<span class=normal><a href=#__codelineno-107-32>32</a></span></pre></div></td><td class=code><div><pre><span></span><code><a id=__codelineno-107-1 name=__codelineno-107-1></a><span class=n>n</span> <span class=o>=</span> <span class=nb>int</span><span class=p>(</span><span class=nb>input</span><span class=p>())</span>
-<a id=__codelineno-107-2 name=__codelineno-107-2></a><span class=n>D_s</span> <span class=o>=</span> <span class=nb>input</span><span class=p>()</span>
+<span class=normal><a href=#__codelineno-107-31>31</a></span></pre></div></td><td class=code><div><pre><span></span><code><a id=__codelineno-107-1 name=__codelineno-107-1></a><span class=n>n</span> <span class=o>=</span> <span class=nb>int</span><span class=p>(</span><span class=nb>input</span><span class=p>())</span>
+<a id=__codelineno-107-2 name=__codelineno-107-2></a><span class=n>s</span> <span class=o>=</span> <span class=nb>input</span><span class=p>()</span>
 <a id=__codelineno-107-3 name=__codelineno-107-3></a>
 <a id=__codelineno-107-4 name=__codelineno-107-4></a><span class=n>stack</span> <span class=o>=</span> <span class=p>[]</span>
 <a id=__codelineno-107-5 name=__codelineno-107-5></a>
 <a id=__codelineno-107-6 name=__codelineno-107-6></a><span class=n>valid</span> <span class=o>=</span> <span class=kc>True</span>
 <a id=__codelineno-107-7 name=__codelineno-107-7></a>
 <a id=__codelineno-107-8 name=__codelineno-107-8></a><span class=k>for</span> <span class=n>i</span> <span class=ow>in</span> <span class=nb>range</span><span class=p>(</span><span class=n>n</span><span class=p>):</span>
-<a id=__codelineno-107-9 name=__codelineno-107-9></a>    <span class=n>c</span> <span class=o>=</span> <span class=n>D_s</span><span class=p>[</span><span class=n>i</span><span class=p>]</span>
+<a id=__codelineno-107-9 name=__codelineno-107-9></a>    <span class=n>c</span> <span class=o>=</span> <span class=n>s</span><span class=p>[</span><span class=n>i</span><span class=p>]</span>
 <a id=__codelineno-107-10 name=__codelineno-107-10></a>    <span class=k>if</span> <span class=n>c</span> <span class=ow>in</span> <span class=p>[</span><span class=s2>&quot;(&quot;</span><span class=p>,</span> <span class=s2>&quot;[&quot;</span><span class=p>,</span> <span class=s2>&quot;{&quot;</span><span class=p>]:</span>
 <a id=__codelineno-107-11 name=__codelineno-107-11></a>        <span class=n>stack</span><span class=o>.</span><span class=n>append</span><span class=p>(</span><span class=n>c</span><span class=p>)</span>
 <a id=__codelineno-107-12 name=__codelineno-107-12></a>    <span class=k>if</span> <span class=n>c</span> <span class=ow>in</span> <span class=p>[</span><span class=s2>&quot;)&quot;</span><span class=p>,</span> <span class=s2>&quot;]&quot;</span><span class=p>,</span> <span class=s2>&quot;}&quot;</span><span class=p>]:</span>
 <a id=__codelineno-107-13 name=__codelineno-107-13></a>        <span class=k>if</span> <span class=nb>len</span><span class=p>(</span><span class=n>stack</span><span class=p>)</span> <span class=o>==</span> <span class=mi>0</span><span class=p>:</span>
 <a id=__codelineno-107-14 name=__codelineno-107-14></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
 <a id=__codelineno-107-15 name=__codelineno-107-15></a>            <span class=k>break</span>
-<a id=__codelineno-107-16 name=__codelineno-107-16></a>        <span class=n>v</span> <span class=o>=</span> <span class=n>stack</span><span class=o>.</span><span class=n>pop</span><span class=p>()</span>
-<a id=__codelineno-107-17 name=__codelineno-107-17></a>        <span class=k>if</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;)&quot;</span> <span class=ow>and</span> <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;(&quot;</span><span class=p>:</span>
-<a id=__codelineno-107-18 name=__codelineno-107-18></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
-<a id=__codelineno-107-19 name=__codelineno-107-19></a>            <span class=k>break</span>
-<a id=__codelineno-107-20 name=__codelineno-107-20></a>
-<a id=__codelineno-107-21 name=__codelineno-107-21></a>        <span class=k>elif</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;]&quot;</span> <span class=ow>and</span>  <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;[&quot;</span><span class=p>:</span>
+<a id=__codelineno-107-16 name=__codelineno-107-16></a>
+<a id=__codelineno-107-17 name=__codelineno-107-17></a>        <span class=n>v</span> <span class=o>=</span> <span class=n>stack</span><span class=o>.</span><span class=n>pop</span><span class=p>()</span>
+<a id=__codelineno-107-18 name=__codelineno-107-18></a>        <span class=k>if</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;)&quot;</span> <span class=ow>and</span> <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;(&quot;</span><span class=p>:</span>
+<a id=__codelineno-107-19 name=__codelineno-107-19></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
+<a id=__codelineno-107-20 name=__codelineno-107-20></a>            <span class=k>break</span>
+<a id=__codelineno-107-21 name=__codelineno-107-21></a>        <span class=k>elif</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;]&quot;</span> <span class=ow>and</span> <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;[&quot;</span><span class=p>:</span>
 <a id=__codelineno-107-22 name=__codelineno-107-22></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
 <a id=__codelineno-107-23 name=__codelineno-107-23></a>            <span class=k>break</span>
-<a id=__codelineno-107-24 name=__codelineno-107-24></a>
-<a id=__codelineno-107-25 name=__codelineno-107-25></a>        <span class=k>elif</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;}&quot;</span> <span class=ow>and</span>  <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;{&quot;</span><span class=p>:</span>
-<a id=__codelineno-107-26 name=__codelineno-107-26></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
-<a id=__codelineno-107-27 name=__codelineno-107-27></a>            <span class=k>break</span>
-<a id=__codelineno-107-28 name=__codelineno-107-28></a>
-<a id=__codelineno-107-29 name=__codelineno-107-29></a><span class=k>if</span> <span class=n>valid</span><span class=p>:</span>
-<a id=__codelineno-107-30 name=__codelineno-107-30></a>    <span class=nb>print</span><span class=p>(</span><span class=s2>&quot;ok so far&quot;</span><span class=p>)</span>
-<a id=__codelineno-107-31 name=__codelineno-107-31></a><span class=k>else</span><span class=p>:</span>
-<a id=__codelineno-107-32 name=__codelineno-107-32></a>    <span class=nb>print</span><span class=p>(</span><span class=n>c</span><span class=p>,</span> <span class=n>i</span><span class=p>)</span>
+<a id=__codelineno-107-24 name=__codelineno-107-24></a>        <span class=k>elif</span> <span class=n>c</span> <span class=o>==</span> <span class=s2>&quot;}&quot;</span> <span class=ow>and</span> <span class=n>v</span> <span class=o>!=</span> <span class=s2>&quot;{&quot;</span><span class=p>:</span>
+<a id=__codelineno-107-25 name=__codelineno-107-25></a>            <span class=n>valid</span> <span class=o>=</span> <span class=kc>False</span>
+<a id=__codelineno-107-26 name=__codelineno-107-26></a>            <span class=k>break</span>
+<a id=__codelineno-107-27 name=__codelineno-107-27></a>
+<a id=__codelineno-107-28 name=__codelineno-107-28></a><span class=k>if</span> <span class=n>valid</span><span class=p>:</span>
+<a id=__codelineno-107-29 name=__codelineno-107-29></a>    <span class=nb>print</span><span class=p>(</span><span class=s2>&quot;ok so far&quot;</span><span class=p>)</span>
+<a id=__codelineno-107-30 name=__codelineno-107-30></a><span class=k>else</span><span class=p>:</span>
+<a id=__codelineno-107-31 name=__codelineno-107-31></a>    <span class=nb>print</span><span class=p>(</span><span class=n>c</span><span class=p>,</span> <span class=n>i</span><span class=p>)</span>
 </code></pre></div></td></tr></table></div> </div> </div> </div> </details> <h2 id=detailed-differences><a href=https://open.kattis.com/problems/detaileddifferences>Detailed Differences</a></h2> <details class=success> <summary>Solution in Python</summary> <div class="tabbed-set tabbed-alternate" data-tabs=90:1><input checked=checked id=__tabbed_90_1 name=__tabbed_90 type=radio><div class=tabbed-labels><label for=__tabbed_90_1>Python</label></div> <div class=tabbed-content> <div class=tabbed-block> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal><a href=#__codelineno-108-1>1</a></span>
 <span class=normal><a href=#__codelineno-108-2>2</a></span>
 <span class=normal><a href=#__codelineno-108-3>3</a></span>

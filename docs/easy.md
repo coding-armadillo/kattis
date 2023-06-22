@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-05-15)
+# Difficulty - Easy (as of 2023-06-22)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -393,6 +393,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/beavergnaw.py"
+        ```
+
+## [Beekeeper](https://open.kattis.com/problems/beekeeper)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/beekeeper.py"
         ```
 
 ## [Bela](https://open.kattis.com/problems/bela)
@@ -823,6 +833,16 @@ hide:
         --8<-- "src/easy/conformity.py"
         ```
 
+## [Contingency Planning](https://open.kattis.com/problems/contingencyplanning)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/contingencyplanning.py"
+        ```
+
 ## [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)
 
 ??? success "Solution in Python"
@@ -861,6 +881,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/costumecontest.py"
+        ```
+
+## [Count Doubles](https://open.kattis.com/problems/countdoubles)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/countdoubles.py"
         ```
 
 ## [Counting Clauses](https://open.kattis.com/problems/countingclauses)
@@ -1267,6 +1297,16 @@ hide:
         --8<-- "src/easy/estimatingtheareaofacircle.py"
         ```
 
+## [Evening Out 1](https://open.kattis.com/problems/eveningout1)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/eveningout1.py"
+        ```
+
 ## [Event Planning](https://open.kattis.com/problems/eventplanning)
 
 ??? success "Solution in Python"
@@ -1667,6 +1707,16 @@ hide:
         --8<-- "src/easy/hailstone2.py"
         ```
 
+## [Half a Cookie](https://open.kattis.com/problems/halfacookie)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/halfacookie.py"
+        ```
+
 ## [Hangman](https://open.kattis.com/problems/hangman)
 
 ??? success "Solution in Python"
@@ -1891,6 +1941,16 @@ hide:
         --8<-- "src/easy/illuminatispotti.py"
         ```
 
+## [Inheritance](https://open.kattis.com/problems/inheritance)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/inheritance.py"
+        ```
+
 ## [International Dates](https://open.kattis.com/problems/internationaldates)
 
 ??? success "Solution in Python"
@@ -2001,6 +2061,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/jumbojavelin.py"
+        ```
+
+## [Just a Minute](https://open.kattis.com/problems/justaminute)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/justaminute.py"
         ```
 
 ## [Running Race](https://open.kattis.com/problems/kaploeb)
@@ -2309,6 +2379,16 @@ hide:
         --8<-- "src/easy/mathhomework.py"
         ```
 
+## [Mean Words](https://open.kattis.com/problems/meanwords)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/meanwords.py"
+        ```
+
 ## [Imperial Measurement](https://open.kattis.com/problems/measurement)
 
 ??? success "Solution in Python"
@@ -2409,6 +2489,16 @@ hide:
         --8<-- "src/easy/modulo.py"
         ```
 
+## [Monopoly](https://open.kattis.com/problems/monopol)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/monopol.py"
+        ```
+
 ## [Moscow Dream](https://open.kattis.com/problems/moscowdream)
 
 ??? success "Solution in Python"
@@ -2447,6 +2537,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/mult.py"
+        ```
+
+## [Mumble Rap](https://open.kattis.com/problems/mumblerap)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mumblerap.py"
         ```
 
 ## [Musical Scales](https://open.kattis.com/problems/musicalscales)
@@ -2593,6 +2693,26 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/onechicken.py"
+        ```
+
+## [Ordinals](https://open.kattis.com/problems/ordinals)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ordinals.py"
+        ```
+
+## [Ornaments](https://open.kattis.com/problems/ornaments)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ornaments.py"
         ```
 
 ## [Östgötska](https://open.kattis.com/problems/ostgotska)
@@ -3151,6 +3271,16 @@ hide:
         --8<-- "src/easy/relocation.py"
         ```
 
+## [Restaurant Opening](https://open.kattis.com/problems/restaurantopening)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/restaurantopening.py"
+        ```
+
 ## [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)
 
 ??? success "Solution in Python"
@@ -3333,6 +3463,16 @@ hide:
         --8<-- "src/easy/sibice.py"
         ```
 
+## [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sidewayssorting.py"
+        ```
+
 ## [Digit Product](https://open.kattis.com/problems/sifferprodukt)
 
 ??? success "Solution in Python"
@@ -3341,6 +3481,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/sifferprodukt.py"
+        ```
+
+## [Simone](https://open.kattis.com/problems/simone)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/simone.py"
         ```
 
 ## [Simon Says](https://open.kattis.com/problems/simonsays)
@@ -3361,6 +3511,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/simpleaddition.py"
+        ```
+
+## [Simple Factoring](https://open.kattis.com/problems/simplefactoring)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/simplefactoring.py"
         ```
 
 ## [Sjecista](https://open.kattis.com/problems/sjecista)
@@ -3605,6 +3765,16 @@ hide:
         --8<-- "src/easy/stickykeys.py"
         ```
 
+## [Messy lists](https://open.kattis.com/problems/stokigalistor)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/stokigalistor.py"
+        ```
+
 ## [Stopwatch](https://open.kattis.com/problems/stopwatch)
 
 ??? success "Solution in Python"
@@ -3613,6 +3783,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/stopwatch.py"
+        ```
+
+## [Streets Ahead](https://open.kattis.com/problems/streetsahead)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/streetsahead.py"
         ```
 
 ## [Successful Zoom](https://open.kattis.com/problems/successfulzoom)
@@ -3817,6 +3997,16 @@ hide:
         --8<-- "src/easy/timeloop.py"
         ```
 
+## [Title Cost](https://open.kattis.com/problems/titlecost)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/titlecost.py"
+        ```
+
 ## [Töflur](https://open.kattis.com/problems/toflur)
 
 ??? success "Solution in Python"
@@ -3845,6 +4035,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/tolower.py"
+        ```
+
+## [Tower Construction](https://open.kattis.com/problems/tornbygge)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/tornbygge.py"
         ```
 
 ## [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard)
@@ -4031,6 +4231,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/upprodun.py"
+        ```
+
+## [UTF-8](https://open.kattis.com/problems/utf8)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/utf8.py"
         ```
 
 ## [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)

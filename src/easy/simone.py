@@ -5,8 +5,8 @@ n, k = [int(d) for d in input().split()]
 s = Counter(int(d) for d in input().split())
 
 least = min(s.values())
-if len(s.values())< k:
-    least=0
+if len(s.values()) < k:
+    least = 0
 ans = 0
 c = []
 for i in range(k):

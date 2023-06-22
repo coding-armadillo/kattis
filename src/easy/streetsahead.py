@@ -1,9 +1,9 @@
-n,q=[int(d) for d in input().split()]
+n, q = [int(d) for d in input().split()]
 
-s={}
+s = {}
 for i in range(n):
-    s[input()]=i
+    s[input()] = i
 
 for _ in range(q):
-    a,b = input().split()
-    print(abs(s[a] - s[b]) -1)
+    a, b = input().split()
+    print(abs(s[a] - s[b]) - 1)

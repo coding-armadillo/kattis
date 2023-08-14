@@ -5,4 +5,4 @@ pip-check-updates==0.22.0
 pylint==2.17.5
 requests==2.31.0
 seaborn==0.12.2
-tqdm==4.65.1
+tqdm==4.66.1

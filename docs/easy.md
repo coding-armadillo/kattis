@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-06-22)
+# Difficulty - Easy (as of 2023-08-15)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -2891,6 +2891,16 @@ hide:
         --8<-- "src/easy/pieceofcake2.py"
         ```
 
+## [Pig Latin](https://open.kattis.com/problems/piglatin)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/piglatin.py"
+        ```
+
 ## [Pizza Crust](https://open.kattis.com/problems/pizza2)
 
 ??? success "Solution in Python"
@@ -4281,6 +4291,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/veci.py"
+        ```
+
+## [Who wins?](https://open.kattis.com/problems/vemvinner)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vemvinner.py"
         ```
 
 ## [Video Speedup](https://open.kattis.com/problems/videospeedup)

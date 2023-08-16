@@ -2,6 +2,9 @@
   "recommendations": [
     "davidanson.vscode-markdownlint",
     "esbenp.prettier-vscode",
+    "ms-python.black-formatter",
+    "ms-python.pylint",
+    "ms-python.python",
     "ms-vscode.wordcount",
     "naumovs.theme-oceanicnext",
     "oderwat.indent-rainbow",

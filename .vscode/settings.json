@@ -7,15 +7,14 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  "python.formatting.blackPath": "black",
-  "python.formatting.provider": "black",
-  "python.linting.pylintEnabled": true,
-  "python.linting.pylintPath": "pylint",
   "workbench.colorTheme": "Oceanic Next (dimmed bg)",
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "vscode-icons",
   "workbench.productIconTheme": "material-product-icons",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
   }
 }

@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-08-15)
+# Difficulty - Easy (as of 2023-08-31)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -139,6 +139,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/alphabetspam.py"
+        ```
+
+## [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ameriskur.py"
         ```
 
 ## [Amsterdam Distance](https://open.kattis.com/problems/amsterdamdistance)
@@ -1215,6 +1225,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/egypt.py"
+        ```
+
+## [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ekkidaudi.py"
         ```
 
 ## [Election Paradox](https://open.kattis.com/problems/electionparadox)
@@ -3743,6 +3763,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/spellingbee.py"
+        ```
+
+## [Spritt](https://open.kattis.com/problems/spritt)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/spritt.py"
         ```
 
 ## [Square Peg](https://open.kattis.com/problems/squarepeg)

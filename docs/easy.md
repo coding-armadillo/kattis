@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-08-31)
+# Difficulty - Easy (as of 2023-09-11)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -1453,6 +1453,16 @@ hide:
         --8<-- "src/easy/fbiuniversal.py"
         ```
 
+## [Framtíðar FIFA](https://open.kattis.com/problems/fifa)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/fifa.py"
+        ```
+
 ## [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)
 
 ??? success "Solution in Python"
@@ -1649,6 +1659,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/goatrope.py"
+        ```
+
+## [Goomba Stacks](https://open.kattis.com/problems/goombastacks)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/goombastacks.py"
         ```
 
 ## [Grading](https://open.kattis.com/problems/grading)
@@ -2273,6 +2293,16 @@ hide:
         --8<-- "src/easy/leftbeehind.py"
         ```
 
+## [Leggja saman](https://open.kattis.com/problems/leggjasaman)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/leggjasaman.py"
+        ```
+
 ## [License to Launch](https://open.kattis.com/problems/licensetolaunch)
 
 ??? success "Solution in Python"
@@ -2753,6 +2783,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/overdraft.py"
+        ```
+
+## [Óvissa](https://open.kattis.com/problems/ovissa)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ovissa.py"
         ```
 
 ## [The Owl and the Fox](https://open.kattis.com/problems/owlandfox)
@@ -4233,6 +4273,16 @@ hide:
         --8<-- "src/easy/twosum.py"
         ```
 
+## [Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/ullendullendoff.py"
+        ```
+
 ## [Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)
 
 ??? success "Solution in Python"
@@ -4323,6 +4373,26 @@ hide:
         --8<-- "src/easy/veci.py"
         ```
 
+## [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vedurvindhradi.py"
+        ```
+
+## [Velkomin!](https://open.kattis.com/problems/velkomin)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/velkomin.py"
+        ```
+
 ## [Who wins?](https://open.kattis.com/problems/vemvinner)
 
 ??? success "Solution in Python"
@@ -4341,6 +4411,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/videospeedup.py"
+        ```
+
+## [Viðsnúningur](https://open.kattis.com/problems/vidsnuningur)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vidsnuningur.py"
         ```
 
 ## [Popular Vote](https://open.kattis.com/problems/vote)

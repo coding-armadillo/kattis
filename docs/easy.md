@@ -1951,6 +1951,16 @@ hide:
         --8<-- "src/easy/hothike.py"
         ```
 
+## [Hraðgreining](https://open.kattis.com/problems/hradgreining)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hradgreining.py"
+        ```
+
 ## [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)
 
 ??? success "Solution in Python"
@@ -3593,6 +3603,16 @@ hide:
         --8<-- "src/easy/simplefactoring.py"
         ```
 
+## [Sith](https://open.kattis.com/problems/sith)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sith.py"
+        ```
+
 ## [Sjecista](https://open.kattis.com/problems/sjecista)
 
 ??? success "Solution in Python"
@@ -4373,6 +4393,16 @@ hide:
         --8<-- "src/easy/veci.py"
         ```
 
+## [Veður - Lokaðar heiðar](https://open.kattis.com/problems/vedurheidar)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vedurheidar.py"
+        ```
+
 ## [Veður - Vindhraði](https://open.kattis.com/problems/vedurvindhradi)
 
 ??? success "Solution in Python"
@@ -4381,6 +4411,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/vedurvindhradi.py"
+        ```
+
+## [Vefþjónatjón](https://open.kattis.com/problems/vefthjonatjon)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/vefthjonatjon.py"
         ```
 
 ## [Velkomin!](https://open.kattis.com/problems/velkomin)

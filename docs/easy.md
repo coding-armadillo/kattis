@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-09-11)
+# Difficulty - Easy (as of 2023-09-12)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -1277,6 +1277,16 @@ hide:
         --8<-- "src/easy/encodedmessage.py"
         ```
 
+## [Endurvinnsla](https://open.kattis.com/problems/endurvinnsla)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/endurvinnsla.py"
+        ```
+
 ## [Engineering English](https://open.kattis.com/problems/engineeringenglish)
 
 ??? success "Solution in Python"
@@ -1953,7 +1963,13 @@ hide:
 
 ## [Hraðgreining](https://open.kattis.com/problems/hradgreining)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/easy/hradgreining.go"
+        ```
 
     === "Python"
 
@@ -3763,6 +3779,16 @@ hide:
         --8<-- "src/easy/sorttwonumbers.py"
         ```
 
+## [Sóttkví](https://open.kattis.com/problems/sottkvi)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/sottkvi.py"
+        ```
+
 ## [Soylent](https://open.kattis.com/problems/soylent)
 
 ??? success "Solution in Python"
@@ -3843,6 +3869,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/squarepeg.py"
+        ```
+
+## [Stafur](https://open.kattis.com/problems/stafur)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/stafur.py"
         ```
 
 ## [Statistics](https://open.kattis.com/problems/statistics)

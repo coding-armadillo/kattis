@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-09-12)
+# Difficulty - Easy (as of 2023-09-13)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -1009,6 +1009,16 @@ hide:
         --8<-- "src/easy/cyaniderivers.py"
         ```
 
+## [Cypher Decypher](https://open.kattis.com/problems/cypherdecypher)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/cypherdecypher.py"
+        ```
+
 ## [Damaged Equation](https://open.kattis.com/problems/damagedequation)
 
 ??? success "Solution in Python"
@@ -1129,6 +1139,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/divvyingup.py"
+        ```
+
+## [Don't Fall Down Stairs](https://open.kattis.com/problems/dontfalldownstairs)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/dontfalldownstairs.py"
         ```
 
 ## [Double Password](https://open.kattis.com/problems/doublepassword)

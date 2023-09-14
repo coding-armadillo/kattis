@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-09-13)
+# Difficulty - Easy (as of 2023-09-14)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -357,6 +357,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/baconeggsandspam.py"
+        ```
+
+## [Bannorð](https://open.kattis.com/problems/bannord)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/bannord.py"
         ```
 
 ## [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)
@@ -2665,6 +2675,16 @@ hide:
         --8<-- "src/easy/musicyourway.py"
         ```
 
+## [Mylla](https://open.kattis.com/problems/mylla2)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/mylla2.py"
+        ```
+
 ## [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
 
 ??? success "Solutions in 2 languages"
@@ -2927,6 +2947,16 @@ hide:
         --8<-- "src/easy/pauleigon.py"
         ```
 
+## [Peach Powder Polygon](https://open.kattis.com/problems/peachpowderpolygon)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/peachpowderpolygon.py"
+        ```
+
 ## [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)
 
 ??? success "Solution in Python"
@@ -3015,6 +3045,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/pizza2.py"
+        ```
+
+## [Pizzubestun](https://open.kattis.com/problems/pizzubestun)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/pizzubestun.py"
         ```
 
 ## [Planetaris](https://open.kattis.com/problems/planetaris)

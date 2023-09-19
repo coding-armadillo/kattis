@@ -2733,7 +2733,13 @@ hide:
 
 ## [N-sum](https://open.kattis.com/problems/nsum)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/nsum.java"
+        ```
 
     === "Python"
 
@@ -2789,6 +2795,22 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/oddmanout.py"
+        ```
+
+## [Off-World Records](https://open.kattis.com/problems/offworldrecords)
+
+??? success "Solutions in 2 languages"
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/offworldrecords.java"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/offworldrecords.py"
         ```
 
 ## [Reverse](https://open.kattis.com/problems/ofugsnuid)
@@ -3469,12 +3491,18 @@ hide:
 
 ## [Riječi](https://open.kattis.com/problems/rijeci)
 
-??? success "Solutions in 2 languages"
+??? success "Solutions in 3 languages"
 
     === "Go"
 
         ```go linenums="1"
         --8<-- "src/easy/rijeci.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/rijeci.java"
         ```
 
     === "Python"
@@ -3861,7 +3889,13 @@ hide:
 
 ## [Sóttkví](https://open.kattis.com/problems/sottkvi)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/easy/sottkvi.java"
+        ```
 
     === "Python"
 

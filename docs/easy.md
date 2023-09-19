@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-09-14)
+# Difficulty - Easy (as of 2023-09-19)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -2017,6 +2017,16 @@ hide:
         --8<-- "src/easy/humancannonball2.py"
         ```
 
+## [Hvert Skal Mæta?](https://open.kattis.com/problems/hvertskalmaeta)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/hvertskalmaeta.py"
+        ```
+
 ## [ICPC Awards](https://open.kattis.com/problems/icpcawards)
 
 ??? success "Solution in Python"
@@ -3497,6 +3507,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/runlengthencodingrun.py"
+        ```
+
+## [Same Digits (Easy)](https://open.kattis.com/problems/samedigitseasy)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/samedigitseasy.py"
         ```
 
 ## [Saving Daylight](https://open.kattis.com/problems/savingdaylight)

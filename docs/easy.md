@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Difficulty - Easy (as of 2023-09-19)
+# Difficulty - Easy (as of 2023-09-25)
 
 ## [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
@@ -831,6 +831,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/competitivearcadebasketball.py"
+        ```
+
+## [Completing the Square](https://open.kattis.com/problems/completingthesquare)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/completingthesquare.py"
         ```
 
 ## [Compound Words](https://open.kattis.com/problems/compoundwords)
@@ -3545,6 +3555,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/easy/samedigitseasy.py"
+        ```
+
+## [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/easy/samedigitshard.py"
         ```
 
 ## [Saving Daylight](https://open.kattis.com/problems/savingdaylight)

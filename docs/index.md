@@ -6,11 +6,11 @@
 
 ## Summary by Difficulty
 
-- [Easy ^425^](easy.md)
+- Easy ^416^
 
-- [Medium ^17^](medium.md)
+- Medium ^26^
 
-- [Hard ^1^](hard.md)
+- Hard ^1^
 
 ## Summary by Initial
 

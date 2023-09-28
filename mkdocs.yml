@@ -1,9 +1,7 @@
 site_name: kattis
 nav:
   - Home: index.md
-  - Easy: easy.md
-  - Medium: medium.md
-  - Hard: hard.md
+  - Solutions: solutions.md
 theme:
   name: material
   favicon: https://open.kattis.com/images/site-logo
@@ -48,7 +46,9 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.details
-  - pymdownx.emoji
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.caret

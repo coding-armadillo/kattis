@@ -997,6 +997,16 @@ hide:
         --8<-- "src/cookingwater.py"
         ```
 
+## :green_circle: [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/cosmicpathoptimization.py"
+        ```
+
 ## :green_circle: [Costume Contest](https://open.kattis.com/problems/costumecontest)
 
 ??? success "Solution in Python"
@@ -4085,6 +4095,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/soylent.py"
+        ```
+
+## :green_circle: [Space Race](https://open.kattis.com/problems/spacerace)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/spacerace.py"
         ```
 
 ## :green_circle: [Spavanac](https://open.kattis.com/problems/spavanac)

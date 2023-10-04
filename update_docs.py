@@ -1,10 +1,11 @@
 import json
 import pickle
 import subprocess
+import sys
 from argparse import ArgumentParser
 from collections import Counter
+from datetime import date
 from pathlib import Path
-import sys
 
 import matplotlib.pyplot as plt
 import requests
@@ -136,6 +137,11 @@ with open("docs/index.md", "w") as f:
 # Kattis
 
 ## Summary by Difficulty
+"""
+
+    if force:
+        text += f"""
+> as of {date.today()}
 """
 
     for level, total in summary.most_common():

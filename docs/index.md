@@ -6,7 +6,7 @@
 
 ## Summary by Difficulty
 
-- Easy ^418^
+- Easy ^420^
 
 - Medium ^26^
 

@@ -595,6 +595,16 @@ hide:
         --8<-- "src/bossbattle.py"
         ```
 
+## :green_circle: [Bottled-Up Feelings](https://open.kattis.com/problems/bottledup)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/bottledup.py"
+        ```
+
 ## :green_circle: [Bounding Robots](https://open.kattis.com/problems/boundingrobots)
 
 ??? success "Solution in Python"
@@ -3331,6 +3341,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/pot.py"
+        ```
+
+## :green_circle: [Saving Princess Peach](https://open.kattis.com/problems/princesspeach)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/princesspeach.py"
         ```
 
 ## :green_circle: [Printing Costs](https://open.kattis.com/problems/printingcosts)

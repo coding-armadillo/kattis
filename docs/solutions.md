@@ -29,7 +29,7 @@ hide:
         --8<-- "src/1dfroggereasy.py"
         ```
 
-## :yellow_circle: [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
+## :green_circle: [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
 ??? success "Solutions in 3 languages"
 
@@ -97,7 +97,7 @@ hide:
         --8<-- "src/abc.py"
         ```
 
-## :yellow_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
+## :green_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
 
 ??? success "Solution in Python"
 
@@ -1223,7 +1223,7 @@ hide:
         --8<-- "src/dicegame.py"
         ```
 
-## :yellow_circle: [A Different Problem](https://open.kattis.com/problems/different)
+## :green_circle: [A Different Problem](https://open.kattis.com/problems/different)
 
 ??? success "Solution in Python"
 
@@ -4717,7 +4717,7 @@ hide:
         --8<-- "src/utf8.py"
         ```
 
-## :green_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
+## :yellow_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
 
 ??? success "Solution in Python"
 

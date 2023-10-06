@@ -49,7 +49,7 @@ except:
 if force:
     cache = {}
 
-files = list(Path("src").glob("*"))
+files = [f for f in list(Path("src").glob("*")) if not f.name.startswith(".")]
 solutions = {}
 for file in files:
     if file.stem not in solutions:

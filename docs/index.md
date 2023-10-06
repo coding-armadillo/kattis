@@ -6,11 +6,11 @@
 
 ## Summary by Difficulty
 
-> as of 2023-10-04
+> as of 2023-10-06
 
-- Easy ^422^
+- Easy ^425^
 
-- Medium ^24^
+- Medium ^22^
 
 - Hard ^1^
 

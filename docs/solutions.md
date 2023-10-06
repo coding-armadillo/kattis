@@ -97,7 +97,7 @@ hide:
         --8<-- "src/abc.py"
         ```
 
-## :green_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
+## :yellow_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
 
 ??? success "Solution in Python"
 
@@ -877,7 +877,7 @@ hide:
         --8<-- "src/classfieldtrip.py"
         ```
 
-## :yellow_circle: [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
+## :green_circle: [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
 
 ??? success "Solution in Python"
 
@@ -1939,6 +1939,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/halfacookie.py"
+        ```
+
+## :green_circle: [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/hangingout.py"
         ```
 
 ## :green_circle: [Hangman](https://open.kattis.com/problems/hangman)
@@ -3731,7 +3741,7 @@ hide:
         --8<-- "src/samedigitseasy.py"
         ```
 
-## :yellow_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
+## :green_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
 
 ??? success "Solution in Python"
 
@@ -4717,7 +4727,7 @@ hide:
         --8<-- "src/utf8.py"
         ```
 
-## :yellow_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
+## :green_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
 
 ??? success "Solution in Python"
 

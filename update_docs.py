@@ -23,7 +23,6 @@ args, _ = parser.parse_known_args()
 force = args.force
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-folders = ["easy", "medium", "hard"]
 language_map = {
     "py": "Python",
     "cpp": "C++",

@@ -1,3 +1,4 @@
+mkdocs-charts-plugin==0.0.10
 mkdocs-git-revision-date-localized-plugin==1.2.0
 mkdocs-glightbox==0.3.4
 mkdocs-material==9.4.4

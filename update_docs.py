@@ -7,9 +7,7 @@ from collections import Counter
 from datetime import date
 from pathlib import Path
 
-import matplotlib.pyplot as plt
 import requests
-import seaborn as sns
 import urllib3
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -109,19 +107,6 @@ print()
 with open("docs/.cache", "wb") as f:
     pickle.dump(cache, f)
 
-s = dict(Counter([title[0] for title, _, _ in cache.values()]).most_common())
-ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
-ax.get_figure().savefig("docs/summary-by-initial.png", bbox_inches="tight")
-
-plt.clf()
-
-s = dict(Counter([language_map[f.name.split(".")[-1]] for f in files]).most_common())
-ax = sns.barplot(x=list(s.keys()), y=list(s.values()))
-ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
-ax.get_figure().savefig("docs/summary-by-language.png", bbox_inches="tight")
-
-plt.clf()
-
 summary = Counter(level for _, _, level in cache.values())
 
 with open(".all-contributorsrc") as f:
@@ -143,25 +128,91 @@ with open("docs/index.md", "w") as f:
 > as of {date.today()}
 """
 
-    for level, total in summary.most_common():
-        text += f"""
-- {level} ^{total}^
-"""
-    text += f"""
+    data = ",\n      ".join(
+        f'{{"Difficulty": "{level}", "Count": {total}}}'
+        for level, total in summary.most_common()
+    )
+    text += """
+```vegalite
+{
+  "data": {
+    "values": [
+      %%data%%
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Difficulty", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
+""".replace(
+        "%%data%%", data
+    )
+
+    data = ",\n      ".join(
+        f'{{"Initial": "{initial}", "Count": {count}}}'
+        for initial, count in Counter(
+            [title[0] for title, _, _ in cache.values()]
+        ).most_common()
+    )
+    text += """
 ## Summary by Initial
 
-![summary-by-initial](summary-by-initial.png)
+```vegalite
+{
+  "data": {
+    "values": [
+      %%data%%
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Initial", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
+""".replace(
+        "%%data%%", data
+    )
 
+    data = ",\n      ".join(
+        f'{{"Language": "{language}", "Count": {count}}}'
+        for language, count in Counter(
+            [language_map[f.name.split(".")[-1]] for f in files]
+        ).most_common()
+    )
+    text += """
 ## Summary by Language
 
-![summary-by-language](summary-by-language.png)
+```vegalite
+{
+  "data": {
+    "values": [
+      %%data%%
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Language", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
+""".replace(
+        "%%data%%", data
+    )
 
+    text += f"""
 ---
 
 !!! note ""
 
     Thanks to all {num_contributors} [contributors](https://github.com/coding-armadillo/kattis#contributors-).
 """
+
     f.write(text.lstrip())
 
 

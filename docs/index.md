@@ -8,19 +8,94 @@
 
 > as of 2023-10-06
 
-- Easy ^425^
-
-- Medium ^22^
-
-- Hard ^1^
+```vegalite
+{
+  "data": {
+    "values": [
+      {"Difficulty": "Easy", "Count": 425},
+      {"Difficulty": "Medium", "Count": 22},
+      {"Difficulty": "Hard", "Count": 1}
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Difficulty", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
 
 ## Summary by Initial
 
-![summary-by-initial](summary-by-initial.png)
+```vegalite
+{
+  "data": {
+    "values": [
+      {"Initial": "S", "Count": 59},
+      {"Initial": "C", "Count": 38},
+      {"Initial": "A", "Count": 33},
+      {"Initial": "P", "Count": 33},
+      {"Initial": "B", "Count": 31},
+      {"Initial": "T", "Count": 29},
+      {"Initial": "M", "Count": 25},
+      {"Initial": "H", "Count": 20},
+      {"Initial": "E", "Count": 19},
+      {"Initial": "R", "Count": 18},
+      {"Initial": "D", "Count": 18},
+      {"Initial": "F", "Count": 17},
+      {"Initial": "G", "Count": 14},
+      {"Initial": "L", "Count": 12},
+      {"Initial": "V", "Count": 10},
+      {"Initial": "O", "Count": 10},
+      {"Initial": "W", "Count": 9},
+      {"Initial": "K", "Count": 9},
+      {"Initial": "J", "Count": 9},
+      {"Initial": "I", "Count": 8},
+      {"Initial": "N", "Count": 5},
+      {"Initial": "Q", "Count": 5},
+      {"Initial": "U", "Count": 5},
+      {"Initial": "Y", "Count": 2},
+      {"Initial": "Z", "Count": 2},
+      {"Initial": "1", "Count": 2},
+      {"Initial": "Ó", "Count": 1},
+      {"Initial": "3", "Count": 1},
+      {"Initial": "9", "Count": 1},
+      {"Initial": "Ú", "Count": 1},
+      {"Initial": "Ö", "Count": 1},
+      {"Initial": "4", "Count": 1}
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Initial", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
 
 ## Summary by Language
 
-![summary-by-language](summary-by-language.png)
+```vegalite
+{
+  "data": {
+    "values": [
+      {"Language": "Python", "Count": 445},
+      {"Language": "Go", "Count": 36},
+      {"Language": "Java", "Count": 25},
+      {"Language": "C++", "Count": 16},
+      {"Language": "JavaScript", "Count": 8},
+      {"Language": "Haskell", "Count": 3},
+      {"Language": "Rust", "Count": 2},
+      {"Language": "Kotlin", "Count": 2}
+    ]
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "Language", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
+    "y": {"field": "Count", "type": "quantitative"}
+  }
+}
+```
 
 ---
 

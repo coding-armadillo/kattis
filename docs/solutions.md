@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-## :red_circle: [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)
+## :yellow_circle: [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)
 
 ??? success "Solution in Python"
 
@@ -29,7 +29,7 @@ hide:
         --8<-- "src/1dfroggereasy.py"
         ```
 
-## :green_circle: [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
+## :yellow_circle: [3D Printed Statues](https://open.kattis.com/problems/3dprinter)
 
 ??? success "Solutions in 3 languages"
 
@@ -97,7 +97,7 @@ hide:
         --8<-- "src/abc.py"
         ```
 
-## :yellow_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
+## :green_circle: [Above Average](https://open.kattis.com/problems/aboveaverage)
 
 ??? success "Solution in Python"
 
@@ -1077,7 +1077,7 @@ hide:
         --8<-- "src/cprnummer.py"
         ```
 
-## :green_circle: [Crne](https://open.kattis.com/problems/crne)
+## :yellow_circle: [Crne](https://open.kattis.com/problems/crne)
 
 ??? success "Solutions in 2 languages"
 
@@ -1223,7 +1223,7 @@ hide:
         --8<-- "src/dicegame.py"
         ```
 
-## :green_circle: [A Different Problem](https://open.kattis.com/problems/different)
+## :yellow_circle: [A Different Problem](https://open.kattis.com/problems/different)
 
 ??? success "Solution in Python"
 
@@ -1895,7 +1895,7 @@ hide:
         --8<-- "src/greetings2.py"
         ```
 
-## :green_circle: [Guess the Number](https://open.kattis.com/problems/guess)
+## :yellow_circle: [Guess the Number](https://open.kattis.com/problems/guess)
 
 ??? success "Solution in Python"
 
@@ -2201,7 +2201,7 @@ hide:
         --8<-- "src/illuminatispotti.py"
         ```
 
-## :yellow_circle: [Inheritance](https://open.kattis.com/problems/inheritance)
+## :green_circle: [Inheritance](https://open.kattis.com/problems/inheritance)
 
 ??? success "Solution in Python"
 
@@ -2219,6 +2219,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/internationaldates.py"
+        ```
+
+## :green_circle: [I Repeat Myself I Repeat Myself I Repeat](https://open.kattis.com/problems/irepeatmyself)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/irepeatmyself.py"
         ```
 
 ## :green_circle: [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
@@ -4727,7 +4737,7 @@ hide:
         --8<-- "src/utf8.py"
         ```
 
-## :green_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
+## :yellow_circle: [Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)
 
 ??? success "Solution in Python"
 

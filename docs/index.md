@@ -6,15 +6,14 @@
 
 ## Summary by Difficulty
 
-> as of 2023-10-06
+> as of 2023-10-12
 
 ```vegalite
 {
   "data": {
     "values": [
-      {"Difficulty": "Easy", "Count": 425},
-      {"Difficulty": "Medium", "Count": 22},
-      {"Difficulty": "Hard", "Count": 1}
+      {"Difficulty": "Easy", "Count": 423},
+      {"Difficulty": "Medium", "Count": 26}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},
@@ -40,29 +39,29 @@
       {"Initial": "M", "Count": 25},
       {"Initial": "H", "Count": 20},
       {"Initial": "E", "Count": 19},
-      {"Initial": "R", "Count": 18},
       {"Initial": "D", "Count": 18},
+      {"Initial": "R", "Count": 18},
       {"Initial": "F", "Count": 17},
       {"Initial": "G", "Count": 14},
       {"Initial": "L", "Count": 12},
-      {"Initial": "V", "Count": 10},
       {"Initial": "O", "Count": 10},
+      {"Initial": "V", "Count": 10},
+      {"Initial": "I", "Count": 9},
       {"Initial": "W", "Count": 9},
-      {"Initial": "K", "Count": 9},
       {"Initial": "J", "Count": 9},
-      {"Initial": "I", "Count": 8},
+      {"Initial": "K", "Count": 9},
       {"Initial": "N", "Count": 5},
       {"Initial": "Q", "Count": 5},
       {"Initial": "U", "Count": 5},
+      {"Initial": "1", "Count": 2},
       {"Initial": "Y", "Count": 2},
       {"Initial": "Z", "Count": 2},
-      {"Initial": "1", "Count": 2},
-      {"Initial": "Ó", "Count": 1},
       {"Initial": "3", "Count": 1},
+      {"Initial": "4", "Count": 1},
       {"Initial": "9", "Count": 1},
-      {"Initial": "Ú", "Count": 1},
       {"Initial": "Ö", "Count": 1},
-      {"Initial": "4", "Count": 1}
+      {"Initial": "Ó", "Count": 1},
+      {"Initial": "Ú", "Count": 1}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},
@@ -79,14 +78,14 @@
 {
   "data": {
     "values": [
-      {"Language": "Python", "Count": 445},
+      {"Language": "Python", "Count": 446},
       {"Language": "Go", "Count": 36},
       {"Language": "Java", "Count": 25},
       {"Language": "C++", "Count": 16},
       {"Language": "JavaScript", "Count": 8},
       {"Language": "Haskell", "Count": 3},
-      {"Language": "Rust", "Count": 2},
-      {"Language": "Kotlin", "Count": 2}
+      {"Language": "Kotlin", "Count": 2},
+      {"Language": "Rust", "Count": 2}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},

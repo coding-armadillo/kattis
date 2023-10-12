@@ -112,7 +112,7 @@ summary = Counter(level for _, _, level in cache.values())
 with open(".all-contributorsrc") as f:
     num_contributors = len(json.load(f)["contributors"])
 
-with open("docs/index.md", "w") as f:
+with open("docs/index.md", "w", encoding="utf-8") as f:
     text = """
 <figure markdown>
 ![Logo](https://open.kattis.com/images/site-logo){ width="100" }

@@ -2231,6 +2231,16 @@ hide:
         --8<-- "src/irepeatmyself.py"
         ```
 
+## :yellow_circle: [Is It Even?](https://open.kattis.com/problems/isiteven)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/isiteven.py"
+        ```
+
 ## :green_circle: [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
 
 ??? success "Solutions in 2 languages"
@@ -3901,7 +3911,7 @@ hide:
         --8<-- "src/sifferprodukt.py"
         ```
 
-## :yellow_circle: [Simon Says](https://open.kattis.com/problems/simon)
+## :green_circle: [Simon Says](https://open.kattis.com/problems/simon)
 
 ??? success "Solution in Python"
 

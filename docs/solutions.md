@@ -241,7 +241,7 @@ hide:
         --8<-- "src/anotherbrick.py"
         ```
 
-## :green_circle: [Another Candies](https://open.kattis.com/problems/anothercandies)
+## :yellow_circle: [Another Candies](https://open.kattis.com/problems/anothercandies)
 
 ??? success "Solution in Python"
 
@@ -353,6 +353,16 @@ hide:
         --8<-- "src/astrologicalsign.py"
         ```
 
+## :green_circle: [Attendance](https://open.kattis.com/problems/attendance2)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/attendance2.py"
+        ```
+
 ## :green_circle: [Autori](https://open.kattis.com/problems/autori)
 
 ??? success "Solution in Python"
@@ -383,7 +393,7 @@ hide:
         --8<-- "src/avion.py"
         ```
 
-## :green_circle: [Babelfish](https://open.kattis.com/problems/babelfish)
+## :yellow_circle: [Babelfish](https://open.kattis.com/problems/babelfish)
 
 ??? success "Solution in Python"
 
@@ -877,7 +887,7 @@ hide:
         --8<-- "src/classfieldtrip.py"
         ```
 
-## :green_circle: [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
+## :yellow_circle: [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
 
 ??? success "Solution in Python"
 
@@ -1007,6 +1017,16 @@ hide:
         --8<-- "src/cookingwater.py"
         ```
 
+## :green_circle: [Cornhusker](https://open.kattis.com/problems/cornhusker)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/cornhusker.py"
+        ```
+
 ## :green_circle: [Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)
 
 ??? success "Solution in Python"
@@ -1077,7 +1097,7 @@ hide:
         --8<-- "src/cprnummer.py"
         ```
 
-## :yellow_circle: [Crne](https://open.kattis.com/problems/crne)
+## :green_circle: [Crne](https://open.kattis.com/problems/crne)
 
 ??? success "Solutions in 2 languages"
 
@@ -2201,7 +2221,7 @@ hide:
         --8<-- "src/illuminatispotti.py"
         ```
 
-## :green_circle: [Inheritance](https://open.kattis.com/problems/inheritance)
+## :yellow_circle: [Inheritance](https://open.kattis.com/problems/inheritance)
 
 ??? success "Solution in Python"
 
@@ -2353,7 +2373,7 @@ hide:
         --8<-- "src/justaminute.py"
         ```
 
-## :yellow_circle: [Running Race](https://open.kattis.com/problems/kaploeb)
+## :green_circle: [Running Race](https://open.kattis.com/problems/kaploeb)
 
 ??? success "Solution in Python"
 
@@ -2479,7 +2499,7 @@ hide:
         --8<-- "src/ladder.py"
         ```
 
-## :green_circle: [Lamps](https://open.kattis.com/problems/lamps)
+## :yellow_circle: [Lamps](https://open.kattis.com/problems/lamps)
 
 ??? success "Solution in Python"
 
@@ -3761,7 +3781,7 @@ hide:
         --8<-- "src/samedigitseasy.py"
         ```
 
-## :green_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
+## :yellow_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
 
 ??? success "Solution in Python"
 
@@ -4429,7 +4449,7 @@ hide:
         --8<-- "src/tetration.py"
         ```
 
-## :yellow_circle: [Thanos](https://open.kattis.com/problems/thanos)
+## :green_circle: [Thanos](https://open.kattis.com/problems/thanos)
 
 ??? success "Solution in Python"
 

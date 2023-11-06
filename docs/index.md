@@ -19,7 +19,8 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {"field": "Difficulty", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
-    "y": {"field": "Count", "type": "quantitative"}
+    "y": {"field": "Count", "type": "quantitative"},
+    "color": {"field": "Difficulty", "legend": null}
   }
 }
 ```
@@ -67,7 +68,8 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {"field": "Initial", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
-    "y": {"field": "Count", "type": "quantitative"}
+    "y": {"field": "Count", "type": "quantitative"},
+    "color": {"field": "Initial", "legend": null}
   }
 }
 ```
@@ -91,7 +93,8 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {"field": "Language", "type": "nominal", "axis": {"labelAngle": 0}, "sort": "-y"},
-    "y": {"field": "Count", "type": "quantitative"}
+    "y": {"field": "Count", "type": "quantitative"},
+    "color": {"field": "Language", "legend": null}
   }
 }
 ```

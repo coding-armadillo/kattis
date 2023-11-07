@@ -61,7 +61,7 @@ hide:
         --8<-- "src/4thought.py"
         ```
 
-## :yellow_circle: [99 Problems](https://open.kattis.com/problems/99problems)
+## :green_circle: [99 Problems](https://open.kattis.com/problems/99problems)
 
 ??? success "Solution in Python"
 
@@ -1097,7 +1097,7 @@ hide:
         --8<-- "src/cprnummer.py"
         ```
 
-## :green_circle: [Crne](https://open.kattis.com/problems/crne)
+## :yellow_circle: [Crne](https://open.kattis.com/problems/crne)
 
 ??? success "Solutions in 2 languages"
 
@@ -1925,6 +1925,16 @@ hide:
         --8<-- "src/guess.py"
         ```
 
+## :green_circle: [Guess Who](https://open.kattis.com/problems/guesswho)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/guesswho.py"
+        ```
+
 ## :green_circle: [Watch Out For Those Hailstones!](https://open.kattis.com/problems/hailstone)
 
 ??? success "Solutions in 2 languages"
@@ -2499,7 +2509,7 @@ hide:
         --8<-- "src/ladder.py"
         ```
 
-## :yellow_circle: [Lamps](https://open.kattis.com/problems/lamps)
+## :green_circle: [Lamps](https://open.kattis.com/problems/lamps)
 
 ??? success "Solution in Python"
 
@@ -3781,7 +3791,7 @@ hide:
         --8<-- "src/samedigitseasy.py"
         ```
 
-## :yellow_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
+## :green_circle: [Same Digits (Hard)](https://open.kattis.com/problems/samedigitshard)
 
 ??? success "Solution in Python"
 
@@ -4417,6 +4427,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/tarifa.py"
+        ```
+
+## :green_circle: [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/temperature.py"
         ```
 
 ## :yellow_circle: [Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion)

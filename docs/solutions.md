@@ -177,7 +177,25 @@ hide:
 
 ## :green_circle: [Á leið í bíó](https://open.kattis.com/problems/aleidibio)
 
-??? success "Solution in Python"
+??? success "Solutions in 4 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/aleidibio.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/aleidibio.go"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/aleidibio.java"
+        ```
 
     === "Python"
 
@@ -1431,6 +1449,16 @@ hide:
         --8<-- "src/egypt.py"
         ```
 
+## :green_circle: [Eiginnöfn](https://open.kattis.com/problems/eiginnofn)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/eiginnofn.py"
+        ```
+
 ## :green_circle: [Ekki dauði opna inni](https://open.kattis.com/problems/ekkidaudi)
 
 ??? success "Solution in Python"
@@ -1761,12 +1789,54 @@ hide:
 
 ## :green_circle: [Flýtibaka](https://open.kattis.com/problems/flytibaka)
 
-??? success "Solution in Python"
+??? success "Solutions in 8 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/flytibaka.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/flytibaka.go"
+        ```
+
+    === "Haskell"
+
+        ```hs linenums="1"
+        --8<-- "src/flytibaka.hs"
+        ```
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/flytibaka.java"
+        ```
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/flytibaka.js"
+        ```
+
+    === "Kotlin"
+
+        ```kt linenums="1"
+        --8<-- "src/flytibaka.kt"
+        ```
 
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/flytibaka.py"
+        ```
+
+    === "Rust"
+
+        ```rs linenums="1"
+        --8<-- "src/flytibaka.rs"
         ```
 
 ## :green_circle: [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
@@ -4069,6 +4139,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/sjecista.py"
+        ```
+
+## :green_circle: [Skammstöfun](https://open.kattis.com/problems/skammstofun)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/skammstofun.py"
         ```
 
 ## :green_circle: [Skener](https://open.kattis.com/problems/skener)

@@ -12,7 +12,7 @@
 {
   "data": {
     "values": [
-      {"Difficulty": "Easy", "Count": 434},
+      {"Difficulty": "Easy", "Count": 436},
       {"Difficulty": "Medium", "Count": 28}
     ]
   },
@@ -31,7 +31,7 @@
 {
   "data": {
     "values": [
-      {"Initial": "S", "Count": 59},
+      {"Initial": "S", "Count": 60},
       {"Initial": "C", "Count": 39},
       {"Initial": "A", "Count": 35},
       {"Initial": "P", "Count": 34},
@@ -39,7 +39,7 @@
       {"Initial": "T", "Count": 31},
       {"Initial": "M", "Count": 26},
       {"Initial": "H", "Count": 20},
-      {"Initial": "E", "Count": 19},
+      {"Initial": "E", "Count": 20},
       {"Initial": "F", "Count": 19},
       {"Initial": "D", "Count": 18},
       {"Initial": "R", "Count": 18},
@@ -81,14 +81,14 @@
 {
   "data": {
     "values": [
-      {"Language": "Python", "Count": 459},
-      {"Language": "Go", "Count": 36},
-      {"Language": "Java", "Count": 25},
-      {"Language": "C++", "Count": 16},
-      {"Language": "JavaScript", "Count": 8},
-      {"Language": "Haskell", "Count": 3},
-      {"Language": "Kotlin", "Count": 2},
-      {"Language": "Rust", "Count": 2}
+      {"Language": "Python", "Count": 461},
+      {"Language": "Go", "Count": 38},
+      {"Language": "Java", "Count": 27},
+      {"Language": "C++", "Count": 18},
+      {"Language": "JavaScript", "Count": 9},
+      {"Language": "Haskell", "Count": 4},
+      {"Language": "Kotlin", "Count": 3},
+      {"Language": "Rust", "Count": 3}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},

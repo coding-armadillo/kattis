@@ -2279,6 +2279,16 @@ hide:
         --8<-- "src/herman.py"
         ```
 
+## :green_circle: [Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/heroesofvelmar.py"
+        ```
+
 ## :green_circle: [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 
 ??? success "Solutions in 3 languages"
@@ -2721,7 +2731,13 @@ hide:
 
 ## :green_circle: [Leggja saman](https://open.kattis.com/problems/leggjasaman)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/leggjasaman.go"
+        ```
 
     === "Python"
 
@@ -3265,7 +3281,13 @@ hide:
 
 ## :green_circle: [Óvissa](https://open.kattis.com/problems/ovissa)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/ovissa.go"
+        ```
 
     === "Python"
 
@@ -5065,12 +5087,42 @@ hide:
 
 ## :green_circle: [Velkomin!](https://open.kattis.com/problems/velkomin)
 
-??? success "Solution in Python"
+??? success "Solutions in 6 languages"
+
+    === "Java"
+
+        ```java linenums="1"
+        --8<-- "src/velkomin.java"
+        ```
+
+    === "JavaScript"
+
+        ```js linenums="1"
+        --8<-- "src/velkomin.js"
+        ```
+
+    === "Kotlin"
+
+        ```kt linenums="1"
+        --8<-- "src/velkomin.kt"
+        ```
+
+    === "Lua"
+
+        ```lua linenums="1"
+        --8<-- "src/velkomin.lua"
+        ```
 
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/velkomin.py"
+        ```
+
+    === "Ruby"
+
+        ```rb linenums="1"
+        --8<-- "src/velkomin.rb"
         ```
 
 ## :green_circle: [Who wins?](https://open.kattis.com/problems/vemvinner)

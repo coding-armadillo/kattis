@@ -1789,7 +1789,7 @@ hide:
 
 ## :green_circle: [Flýtibaka](https://open.kattis.com/problems/flytibaka)
 
-??? success "Solutions in 8 languages"
+??? success "Solutions in 11 languages"
 
     === "C++"
 
@@ -1815,6 +1815,12 @@ hide:
         --8<-- "src/flytibaka.java"
         ```
 
+    === "Julia"
+
+        ```jl linenums="1"
+        --8<-- "src/flytibaka.jl"
+        ```
+
     === "JavaScript"
 
         ```js linenums="1"
@@ -1827,10 +1833,22 @@ hide:
         --8<-- "src/flytibaka.kt"
         ```
 
+    === "Lua"
+
+        ```lua linenums="1"
+        --8<-- "src/flytibaka.lua"
+        ```
+
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/flytibaka.py"
+        ```
+
+    === "Ruby"
+
+        ```rb linenums="1"
+        --8<-- "src/flytibaka.rb"
         ```
 
     === "Rust"
@@ -2173,7 +2191,7 @@ hide:
 
 ## :green_circle: [Hello World!](https://open.kattis.com/problems/hello)
 
-??? success "Solutions in 8 languages"
+??? success "Solutions in 11 languages"
 
     === "C++"
 
@@ -2199,6 +2217,12 @@ hide:
         --8<-- "src/hello.java"
         ```
 
+    === "Julia"
+
+        ```jl linenums="1"
+        --8<-- "src/hello.jl"
+        ```
+
     === "JavaScript"
 
         ```js linenums="1"
@@ -2211,10 +2235,22 @@ hide:
         --8<-- "src/hello.kt"
         ```
 
+    === "Lua"
+
+        ```lua linenums="1"
+        --8<-- "src/hello.lua"
+        ```
+
     === "Python"
 
         ```py linenums="1"
         --8<-- "src/hello.py"
+        ```
+
+    === "Ruby"
+
+        ```rb linenums="1"
+        --8<-- "src/hello.rb"
         ```
 
     === "Rust"

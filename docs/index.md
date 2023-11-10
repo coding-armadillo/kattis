@@ -88,7 +88,10 @@
       {"Language": "JavaScript", "Count": 9},
       {"Language": "Haskell", "Count": 4},
       {"Language": "Kotlin", "Count": 3},
-      {"Language": "Rust", "Count": 3}
+      {"Language": "Rust", "Count": 3},
+      {"Language": "Julia", "Count": 2},
+      {"Language": "Lua", "Count": 2},
+      {"Language": "Ruby", "Count": 2}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},

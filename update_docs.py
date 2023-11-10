@@ -22,14 +22,17 @@ force = args.force
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 language_map = {
-    "py": "Python",
     "cpp": "C++",
-    "java": "Java",
-    "rs": "Rust",
     "go": "Go",
     "hs": "Haskell",
+    "java": "Java",
+    "jl": "Julia",
     "js": "JavaScript",
     "kt": "Kotlin",
+    "lua": "Lua",
+    "py": "Python",
+    "rb": "Ruby",
+    "rs": "Rust",
 }
 level_map = {
     "Easy": ":green_circle:",

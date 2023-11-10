@@ -61,7 +61,7 @@ hide:
         --8<-- "src/4thought.py"
         ```
 
-## :green_circle: [99 Problems](https://open.kattis.com/problems/99problems)
+## :yellow_circle: [99 Problems](https://open.kattis.com/problems/99problems)
 
 ??? success "Solution in Python"
 
@@ -173,6 +173,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/akcija.py"
+        ```
+
+## :green_circle: [Á leið í bíó](https://open.kattis.com/problems/aleidibio)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/aleidibio.py"
         ```
 
 ## :yellow_circle: [Alex and Barb](https://open.kattis.com/problems/alexandbarb)
@@ -341,6 +351,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/armystrengthhard.py"
+        ```
+
+## :green_circle: [ASCII kassi](https://open.kattis.com/problems/asciikassi)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/asciikassi.py"
         ```
 
 ## :green_circle: [Astrological Sign](https://open.kattis.com/problems/astrologicalsign)
@@ -1719,6 +1739,16 @@ hide:
         --8<-- "src/fizzbuzz.py"
         ```
 
+## :green_circle: [Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/flatbokuveisla.py"
+        ```
+
 ## :green_circle: [Flexible Spaces](https://open.kattis.com/problems/flexible)
 
 ??? success "Solution in Python"
@@ -1727,6 +1757,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/flexible.py"
+        ```
+
+## :green_circle: [Flýtibaka](https://open.kattis.com/problems/flytibaka)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/flytibaka.py"
         ```
 
 ## :green_circle: [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
@@ -2779,6 +2819,16 @@ hide:
         --8<-- "src/mia.py"
         ```
 
+## :green_circle: [Millifærsla](https://open.kattis.com/problems/millifaersla)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/millifaersla.py"
+        ```
+
 ## :green_circle: [Missing Numbers](https://open.kattis.com/problems/missingnumbers)
 
 ??? success "Solution in Python"
@@ -3421,6 +3471,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/printingcosts.py"
+        ```
+
+## :green_circle: [Prjónamynstur](https://open.kattis.com/problems/prjonamynstur)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/prjonamynstur.py"
         ```
 
 ## :green_circle: [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
@@ -4571,6 +4631,16 @@ hide:
         --8<-- "src/tolower.py"
         ```
 
+## :green_circle: [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/tolvunarfraedingartelja.py"
+        ```
+
 ## :green_circle: [Tower Construction](https://open.kattis.com/problems/tornbygge)
 
 ??? success "Solution in Python"
@@ -4745,6 +4815,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/ultimatebinarywatch.py"
+        ```
+
+## :green_circle: [Umferð](https://open.kattis.com/problems/umferd)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/umferd.py"
         ```
 
 ## :green_circle: [Undead or Alive](https://open.kattis.com/problems/undeadoralive)

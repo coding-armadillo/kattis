@@ -6,14 +6,14 @@
 
 ## Summary by Difficulty
 
-> as of 2023-11-07
+> as of 2023-11-10
 
 ```vegalite
 {
   "data": {
     "values": [
-      {"Difficulty": "Easy", "Count": 427},
-      {"Difficulty": "Medium", "Count": 27}
+      {"Difficulty": "Easy", "Count": 434},
+      {"Difficulty": "Medium", "Count": 28}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},
@@ -33,16 +33,16 @@
     "values": [
       {"Initial": "S", "Count": 59},
       {"Initial": "C", "Count": 39},
-      {"Initial": "A", "Count": 34},
-      {"Initial": "P", "Count": 33},
+      {"Initial": "A", "Count": 35},
+      {"Initial": "P", "Count": 34},
       {"Initial": "B", "Count": 31},
-      {"Initial": "T", "Count": 30},
-      {"Initial": "M", "Count": 25},
+      {"Initial": "T", "Count": 31},
+      {"Initial": "M", "Count": 26},
       {"Initial": "H", "Count": 20},
       {"Initial": "E", "Count": 19},
+      {"Initial": "F", "Count": 19},
       {"Initial": "D", "Count": 18},
       {"Initial": "R", "Count": 18},
-      {"Initial": "F", "Count": 17},
       {"Initial": "G", "Count": 15},
       {"Initial": "L", "Count": 12},
       {"Initial": "I", "Count": 10},
@@ -51,15 +51,16 @@
       {"Initial": "W", "Count": 9},
       {"Initial": "J", "Count": 9},
       {"Initial": "K", "Count": 9},
+      {"Initial": "U", "Count": 6},
       {"Initial": "N", "Count": 5},
       {"Initial": "Q", "Count": 5},
-      {"Initial": "U", "Count": 5},
       {"Initial": "1", "Count": 2},
       {"Initial": "Y", "Count": 2},
       {"Initial": "Z", "Count": 2},
       {"Initial": "3", "Count": 1},
       {"Initial": "4", "Count": 1},
       {"Initial": "9", "Count": 1},
+      {"Initial": "Á", "Count": 1},
       {"Initial": "Ö", "Count": 1},
       {"Initial": "Ó", "Count": 1},
       {"Initial": "Ú", "Count": 1}
@@ -80,7 +81,7 @@
 {
   "data": {
     "values": [
-      {"Language": "Python", "Count": 451},
+      {"Language": "Python", "Count": 459},
       {"Language": "Go", "Count": 36},
       {"Language": "Java", "Count": 25},
       {"Language": "C++", "Count": 16},

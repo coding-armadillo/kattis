@@ -6,14 +6,15 @@
 
 ## Summary by Difficulty
 
-> as of 2023-11-10
+> as of 2023-11-14
 
 ```vegalite
 {
   "data": {
     "values": [
       {"Difficulty": "Easy", "Count": 437},
-      {"Difficulty": "Medium", "Count": 28}
+      {"Difficulty": "Medium", "Count": 28},
+      {"Difficulty": "Hard", "Count": 1}
     ]
   },
   "mark": {"type": "bar", "tooltip": true},
@@ -35,8 +36,8 @@
       {"Initial": "C", "Count": 39},
       {"Initial": "A", "Count": 35},
       {"Initial": "P", "Count": 34},
+      {"Initial": "T", "Count": 32},
       {"Initial": "B", "Count": 31},
-      {"Initial": "T", "Count": 31},
       {"Initial": "M", "Count": 26},
       {"Initial": "H", "Count": 21},
       {"Initial": "E", "Count": 20},
@@ -81,14 +82,14 @@
 {
   "data": {
     "values": [
-      {"Language": "Python", "Count": 462},
-      {"Language": "Go", "Count": 40},
+      {"Language": "Python", "Count": 463},
+      {"Language": "Go", "Count": 42},
       {"Language": "Java", "Count": 28},
-      {"Language": "C++", "Count": 18},
+      {"Language": "C++", "Count": 20},
       {"Language": "JavaScript", "Count": 10},
+      {"Language": "Lua", "Count": 5},
       {"Language": "Haskell", "Count": 4},
       {"Language": "Kotlin", "Count": 4},
-      {"Language": "Lua", "Count": 3},
       {"Language": "Ruby", "Count": 3},
       {"Language": "Rust", "Count": 3},
       {"Language": "Julia", "Count": 2}

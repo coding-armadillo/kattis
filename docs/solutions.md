@@ -1135,7 +1135,7 @@ hide:
         --8<-- "src/cprnummer.py"
         ```
 
-## :yellow_circle: [Crne](https://open.kattis.com/problems/crne)
+## :green_circle: [Crne](https://open.kattis.com/problems/crne)
 
 ??? success "Solutions in 2 languages"
 
@@ -4667,7 +4667,7 @@ hide:
         --8<-- "src/tetration.py"
         ```
 
-## :green_circle: [Thanos](https://open.kattis.com/problems/thanos)
+## :yellow_circle: [Thanos](https://open.kattis.com/problems/thanos)
 
 ??? success "Solution in Python"
 
@@ -4701,6 +4701,34 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/thelastproblem.py"
+        ```
+
+## :green_circle: [The Plank](https://open.kattis.com/problems/theplank)
+
+??? success "Solutions in 4 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/theplank.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/theplank.go"
+        ```
+
+    === "Lua"
+
+        ```lua linenums="1"
+        --8<-- "src/theplank.lua"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/theplank.py"
         ```
 
 ## :green_circle: [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)
@@ -4739,7 +4767,7 @@ hide:
         --8<-- "src/titlecost.py"
         ```
 
-## :green_circle: [Töflur](https://open.kattis.com/problems/toflur)
+## :red_circle: [Töflur](https://open.kattis.com/problems/toflur)
 
 ??? success "Solution in Python"
 
@@ -4771,7 +4799,25 @@ hide:
 
 ## :green_circle: [Tölvunarfræðingar telja](https://open.kattis.com/problems/tolvunarfraedingartelja)
 
-??? success "Solution in Python"
+??? success "Solutions in 4 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/tolvunarfraedingartelja.cpp"
+        ```
+
+    === "Go"
+
+        ```go linenums="1"
+        --8<-- "src/tolvunarfraedingartelja.go"
+        ```
+
+    === "Lua"
+
+        ```lua linenums="1"
+        --8<-- "src/tolvunarfraedingartelja.lua"
+        ```
 
     === "Python"
 

@@ -1559,6 +1559,22 @@ hide:
         --8<-- "src/estimatingtheareaofacircle.py"
         ```
 
+## :green_circle: [Euler's Number](https://open.kattis.com/problems/eulersnumber)
+
+??? success "Solutions in 2 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/eulersnumber.cpp"
+        ```
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/eulersnumber.py"
+        ```
+
 ## :green_circle: [Evening Out 1](https://open.kattis.com/problems/eveningout1)
 
 ??? success "Solution in Python"
@@ -2539,7 +2555,7 @@ hide:
         --8<-- "src/justaminute.py"
         ```
 
-## :green_circle: [Running Race](https://open.kattis.com/problems/kaploeb)
+## :yellow_circle: [Running Race](https://open.kattis.com/problems/kaploeb)
 
 ??? success "Solution in Python"
 
@@ -2665,7 +2681,7 @@ hide:
         --8<-- "src/ladder.py"
         ```
 
-## :green_circle: [Lamps](https://open.kattis.com/problems/lamps)
+## :yellow_circle: [Lamps](https://open.kattis.com/problems/lamps)
 
 ??? success "Solution in Python"
 

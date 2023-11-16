@@ -222,10 +222,12 @@ with open("docs/index.md", "w", encoding="utf-8") as f:
     f.write(text.lstrip())
 
 
-text = """---
+text = f"""---
 hide:
   - toc
 ---
+
+# {len(solutions)} Solutions
 """
 for name, languages in tqdm(sorted(solutions.items()), desc="📖 Refreshing Docs"):
     url = f"https://open.kattis.com/problems/{name}"

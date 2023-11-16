@@ -3,6 +3,8 @@ hide:
   - toc
 ---
 
+# 470 Solutions
+
 ## :yellow_circle: [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)
 
 ??? success "Solution in Python"
@@ -1577,7 +1579,13 @@ hide:
 
 ## :green_circle: [Evening Out 1](https://open.kattis.com/problems/eveningout1)
 
-??? success "Solution in Python"
+??? success "Solutions in 2 languages"
+
+    === "C++"
+
+        ```cpp linenums="1"
+        --8<-- "src/eveningout1.cpp"
+        ```
 
     === "Python"
 
@@ -2681,7 +2689,7 @@ hide:
         --8<-- "src/ladder.py"
         ```
 
-## :yellow_circle: [Lamps](https://open.kattis.com/problems/lamps)
+## :green_circle: [Lamps](https://open.kattis.com/problems/lamps)
 
 ??? success "Solution in Python"
 
@@ -3131,6 +3139,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/nodup.py"
+        ```
+
+## :green_circle: [NOP](https://open.kattis.com/problems/nop)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/nop.py"
         ```
 
 ## :green_circle: [No Thanks!](https://open.kattis.com/problems/nothanks)
@@ -3665,6 +3683,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/ptice.py"
+        ```
+
+## :green_circle: [Plants vs Bad Guys](https://open.kattis.com/problems/pvbg)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/pvbg.py"
         ```
 
 ## :green_circle: [Building Pyramids](https://open.kattis.com/problems/pyramids)
@@ -4859,6 +4887,16 @@ hide:
 
         ```py linenums="1"
         --8<-- "src/touchscreenkeyboard.py"
+        ```
+
+## :green_circle: [Tram](https://open.kattis.com/problems/tram)
+
+??? success "Solution in Python"
+
+    === "Python"
+
+        ```py linenums="1"
+        --8<-- "src/tram.py"
         ```
 
 ## :green_circle: [Transit Woes](https://open.kattis.com/problems/transitwoes)

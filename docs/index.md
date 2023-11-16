@@ -6,14 +6,14 @@
 
 ## Summary by Difficulty
 
-> as of 2023-11-15
+> as of 2023-11-16
 
 ```vegalite
 {
   "data": {
     "values": [
-      {"Difficulty": "Easy", "Count": 436},
-      {"Difficulty": "Medium", "Count": 30},
+      {"Difficulty": "Easy", "Count": 440},
+      {"Difficulty": "Medium", "Count": 29},
       {"Difficulty": "Hard", "Count": 1}
     ]
   },
@@ -35,8 +35,8 @@
       {"Initial": "S", "Count": 60},
       {"Initial": "C", "Count": 39},
       {"Initial": "A", "Count": 35},
-      {"Initial": "P", "Count": 34},
-      {"Initial": "T", "Count": 32},
+      {"Initial": "P", "Count": 35},
+      {"Initial": "T", "Count": 33},
       {"Initial": "B", "Count": 31},
       {"Initial": "M", "Count": 26},
       {"Initial": "H", "Count": 21},
@@ -52,8 +52,8 @@
       {"Initial": "W", "Count": 9},
       {"Initial": "J", "Count": 9},
       {"Initial": "K", "Count": 9},
+      {"Initial": "N", "Count": 6},
       {"Initial": "U", "Count": 6},
-      {"Initial": "N", "Count": 5},
       {"Initial": "Q", "Count": 5},
       {"Initial": "1", "Count": 2},
       {"Initial": "Y", "Count": 2},
@@ -82,10 +82,10 @@
 {
   "data": {
     "values": [
-      {"Language": "Python", "Count": 464},
+      {"Language": "Python", "Count": 467},
       {"Language": "Go", "Count": 42},
       {"Language": "Java", "Count": 28},
-      {"Language": "C++", "Count": 21},
+      {"Language": "C++", "Count": 22},
       {"Language": "JavaScript", "Count": 10},
       {"Language": "Lua", "Count": 5},
       {"Language": "Haskell", "Count": 4},

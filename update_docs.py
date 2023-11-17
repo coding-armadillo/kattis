@@ -2,7 +2,6 @@ import json
 import pickle
 import subprocess
 import sys
-from argparse import ArgumentParser
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -12,13 +11,6 @@ import urllib3
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-parser = ArgumentParser(
-    prog="UpdateDocs",
-    description="A helper script to update docs",
-)
-parser.add_argument("-f", "--force", action="store_true")
-args, _ = parser.parse_known_args()
-force = args.force
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 language_map = {
@@ -40,14 +32,7 @@ level_map = {
     "Hard": ":red_circle:",
 }
 
-try:
-    with open("docs/.cache", "rb") as f:
-        cache = pickle.load(f)
-except:
-    cache = {}
-
-if force:
-    cache = {}
+cache = {}
 
 files = [f for f in list(Path("src").glob("*")) if not f.name.startswith(".")]
 solutions = {}
@@ -57,9 +42,6 @@ for file in files:
     else:
         solutions[file.stem].append(file.name)
 
-if set(solutions.keys()) <= set(cache.keys()):
-    print(f"⛔ no update needed")
-    sys.exit()
 
 try:
     subprocess.call(
@@ -84,22 +66,19 @@ except:
     pass
 
 for name, languages in tqdm(solutions.items(), desc="🌐 Caching"):
-    if name in cache:
-        title, score, level = cache[name]
-    else:
-        url = f"https://open.kattis.com/problems/{name}?tab=metadata"
-        html = requests.get(url, verify=False, timeout=30)
-        soup = BeautifulSoup(html.content, "html.parser")
-        title = soup.find("h1").text
-        metas = soup.find_all("div", class_="metadata_list-item")
-        difficulty = [
-            item
-            for item in metas
-            if item.attrs.get("data-name") == "metadata_item-difficulty"
-        ][0]
-        difficulty = difficulty.text.split()[-1]
-        score, level = difficulty[:3], difficulty[3:]
-        cache[name] = (title, score, level)
+    url = f"https://open.kattis.com/problems/{name}?tab=metadata"
+    html = requests.get(url, verify=False, timeout=30)
+    soup = BeautifulSoup(html.content, "html.parser")
+    title = soup.find("h1").text
+    metas = soup.find_all("div", class_="metadata_list-item")
+    difficulty = [
+        item
+        for item in metas
+        if item.attrs.get("data-name") == "metadata_item-difficulty"
+    ][0]
+    difficulty = difficulty.text.split()[-1]
+    score, level = difficulty[:3], difficulty[3:]
+    cache[name] = (title, score, level)
 
 total = len(solutions)
 s = "s" if total > 1 else ""
@@ -107,8 +86,6 @@ print()
 print(f"🔍 Found {total} solution{s}")
 print()
 
-with open("docs/.cache", "wb") as f:
-    pickle.dump(cache, f)
 
 summary = Counter(level for _, _, level in cache.values())
 
@@ -116,18 +93,15 @@ with open(".all-contributorsrc") as f:
     num_contributors = len(json.load(f)["contributors"])
 
 with open("docs/index.md", "w", encoding="utf-8") as f:
-    text = """
+    text = f"""
 <figure markdown>
-![Logo](https://open.kattis.com/images/site-logo){ width="100" }
+![Logo](https://open.kattis.com/images/site-logo){{ width="100" }}
 </figure>
 
 # Kattis
 
 ## Summary by Difficulty
-"""
 
-    if force:
-        text += f"""
 > as of {date.today()}
 """
 

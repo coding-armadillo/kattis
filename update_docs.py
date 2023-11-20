@@ -1,7 +1,5 @@
 import json
-import pickle
 import subprocess
-import sys
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -98,11 +96,9 @@ with open("docs/index.md", "w", encoding="utf-8") as f:
 ![Logo](https://open.kattis.com/images/site-logo){{ width="100" }}
 </figure>
 
-# Kattis
+# kattis
 
 ## Summary by Difficulty
-
-> as of {date.today()}
 """
 
     data = ",\n      ".join(
@@ -191,6 +187,10 @@ with open("docs/index.md", "w", encoding="utf-8") as f:
 !!! note ""
 
     Thanks to all {num_contributors} [contributors](https://github.com/coding-armadillo/kattis#contributors-).
+
+---
+
+> Last update: {date.today()}
 """
 
     f.write(text.lstrip())

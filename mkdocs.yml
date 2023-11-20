@@ -35,9 +35,6 @@ plugins:
       auto_caption: true
   - minify:
       minify_html: true
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
 markdown_extensions:
   - attr_list
   - md_in_html

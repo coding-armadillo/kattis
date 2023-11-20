@@ -65,7 +65,7 @@ try:
 except:
     pass
 
-for name, languages in tqdm(solutions.items(), desc="🌐 Caching"):
+for name, languages in tqdm(solutions.items(), desc="🌐 Caching", mininterval=10):
     url = f"https://open.kattis.com/problems/{name}?tab=metadata"
     html = requests.get(url, verify=False, timeout=30)
     soup = BeautifulSoup(html.content, "html.parser")

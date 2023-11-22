@@ -25,6 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kabloosh1234"><img src="https://avatars.githubusercontent.com/u/90011938?v=4?s=100" width="100px;" alt="kabloosh1234"/><br /><sub><b>kabloosh1234</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=kabloosh1234" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Yzhao20100531"><img src="https://avatars.githubusercontent.com/u/129009874?v=4?s=100" width="100px;" alt="Yzhao20100531"/><br /><sub><b>Yzhao20100531</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=Yzhao20100531" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/chez-entity"><img src="https://avatars.githubusercontent.com/u/129009737?v=4?s=100" width="100px;" alt="chez entity"/><br /><sub><b>chez entity</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=chez-entity" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/xhh09a"><img src="https://avatars.githubusercontent.com/u/36784638?v=4?s=100" width="100px;" alt="Natalie"/><br /><sub><b>Natalie</b></sub></a><br /><a href="https://github.com/coding-armadillo/kattis/commits?author=xhh09a" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

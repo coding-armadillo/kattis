@@ -25,6 +25,7 @@ theme:
     - header.autohide
     - content.code.copy
     - navigation.top
+    - navigation.footer
 repo_name: kattis
 repo_url: https://github.com/coding-armadillo/kattis
 plugins:

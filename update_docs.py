@@ -201,7 +201,7 @@ hide:
   - toc
 ---
 
-# {len(solutions)} Solutions
+# {len(solutions)} Problems, {sum(len(v) for v in solutions.values())} Solutions, {len(language_map)} languages
 """
 for name, languages in tqdm(sorted(solutions.items()), desc="📖 Refreshing Docs"):
     url = f"https://open.kattis.com/problems/{name}"

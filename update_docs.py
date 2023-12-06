@@ -68,14 +68,12 @@ for name, languages in tqdm(solutions.items(), desc="🌐 Caching", mininterval=
     html = requests.get(url, verify=False, timeout=30)
     soup = BeautifulSoup(html.content, "html.parser")
     title = soup.find("h1").text
-    metas = soup.find_all("div", class_="metadata_list-item")
-    difficulty = [
-        item
-        for item in metas
-        if item.attrs.get("data-name") == "metadata_item-difficulty"
-    ][0]
-    difficulty = difficulty.text.split()[-1]
-    score, level = difficulty[:3], difficulty[3:]
+    metas = soup.find("div", class_="metadata-difficulty-card")
+    difficulty = metas.text[: -len("Difficulty")]
+    if "-" not in difficulty:
+        score, level = difficulty[:3], difficulty[3:]
+    else:
+        score, level = difficulty[6:9], difficulty[9:]
     cache[name] = (title, score, level)
 
 total = len(solutions)

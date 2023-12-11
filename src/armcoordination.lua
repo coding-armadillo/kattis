@@ -1,0 +1,5 @@
+x, y, r = io.read("*n", "*n", "*n")
+print(x - r, y - r)
+print(x + r, y - r)
+print(x + r, y + r)
+print(x - r, y + r)

@@ -69,11 +69,8 @@ for name, languages in tqdm(solutions.items(), desc="🌐 Caching", mininterval=
     soup = BeautifulSoup(html.content, "html.parser")
     title = soup.find("h1").text
     metas = soup.find("div", class_="metadata-difficulty-card")
-    difficulty = metas.text[: -len("Difficulty")]
-    if "-" not in difficulty:
-        score, level = difficulty[:3], difficulty[3:]
-    else:
-        score, level = difficulty[6:9], difficulty[9:]
+    difficulty = metas.text.replace("Difficulty", "-").split("-")
+    score, level = difficulty[-2], difficulty[-1]
     cache[name] = (title, score, level)
 
 total = len(solutions)
@@ -199,7 +196,7 @@ hide:
   - toc
 ---
 
-# {len(solutions)} Problems, {sum(len(v) for v in solutions.values())} Solutions, {len(language_map)} languages
+# {len(solutions)} Problems, {sum(len(v) for v in solutions.values())} Solutions, {len(language_map)} Languages
 """
 for name, languages in tqdm(sorted(solutions.items()), desc="📖 Refreshing Docs"):
     url = f"https://open.kattis.com/problems/{name}"

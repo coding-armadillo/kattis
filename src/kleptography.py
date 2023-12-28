@@ -1,6 +1,5 @@
 from string import ascii_lowercase as l
 
-
 n, m = [int(d) for d in input().split()]
 p = input()
 c = input()

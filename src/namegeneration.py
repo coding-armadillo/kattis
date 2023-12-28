@@ -1,5 +1,5 @@
 import string
-from random import randint, choice
+from random import choice, randint
 
 vowels = set("aeiou")
 consonants = set(string.ascii_lowercase) - vowels

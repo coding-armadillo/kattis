@@ -1,4 +1,4 @@
-from operator import add, sub, truediv, mul
+from operator import add, mul, sub, truediv
 
 a, b, c = [int(d) for d in input().split()]
 ops = {

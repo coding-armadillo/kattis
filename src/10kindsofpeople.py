@@ -3,7 +3,6 @@
 
 from copy import deepcopy
 
-
 row, col = [int(d) for d in input().split()]
 m = []
 for _ in range(row):

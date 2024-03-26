@@ -9,7 +9,6 @@ import urllib3
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 language_map = {
     "cpp": "C++",
@@ -86,12 +85,14 @@ with open(".all-contributorsrc") as f:
     num_contributors = len(json.load(f)["contributors"])
 
 with open("docs/index.md", "w", encoding="utf-8") as f:
-    text = f"""
+    text = """
 <figure markdown>
 ![Logo](https://open.kattis.com/images/site-logo){{ width="100" }}
 </figure>
 
 # kattis
+
+About the solutions to [Kattis Problem Archive](https://open.kattis.com/)
 
 ## Summary by Difficulty
 """
@@ -224,5 +225,5 @@ for name, languages in tqdm(sorted(solutions.items()), desc="📖 Refreshing Doc
 """
     text += card
 
-with open(f"docs/solutions.md", "w", encoding="utf-8") as f:
+with open("docs/solutions.md", "w", encoding="utf-8") as f:
     f.write(text)

@@ -9,15 +9,21 @@ theme:
   font:
     text: Roboto
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: orange
       accent: orange
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - scheme: slate
-      primary: orange
-      accent: orange
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode

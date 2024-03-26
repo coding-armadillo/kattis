@@ -87,7 +87,7 @@ with open(".all-contributorsrc") as f:
 with open("docs/index.md", "w", encoding="utf-8") as f:
     text = """
 <figure markdown>
-![Logo](https://open.kattis.com/images/site-logo){{ width="100" }}
+![Logo](https://open.kattis.com/images/site-logo){ width="100" }
 </figure>
 
 # kattis

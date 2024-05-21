@@ -1,7 +1,7 @@
 beautifulsoup4==4.12.3
 mkdocs-charts-plugin==0.0.10
 mkdocs-glightbox==0.4.0
-mkdocs-material==9.5.22
+mkdocs-material==9.5.24
 mkdocs-minify-plugin==0.8.0
 mkdocs==1.6.0
 requests==2.31.0

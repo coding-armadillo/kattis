@@ -12,6 +12,7 @@ from tqdm import tqdm
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 language_map = {
     "cpp": "C++",
+    "cs": "C#",
     "go": "Go",
     "hs": "Haskell",
     "java": "Java",

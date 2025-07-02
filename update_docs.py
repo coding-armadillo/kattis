@@ -123,7 +123,7 @@ About the solutions to [Kattis Problem Archive](https://open.kattis.com/)
     )
 
     data = ",\n      ".join(
-        f'{{"Initial": "{initial}", "Count": {count}}}'
+        f'{{"Initial": "{initial.replace('"', r'\"')}", "Count": {count}}}'
         for initial, count in Counter(
             [title[0] for title, _, _ in cache.values()]
         ).most_common()

@@ -1,0 +1,5 @@
+s = input()
+xy, z = s.split("+")
+x, y = xy.split("d")
+x, y, z = int(x), int(y), int(z)
+print((1 + y) / 2 * x + z)

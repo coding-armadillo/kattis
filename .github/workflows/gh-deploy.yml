@@ -7,10 +7,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
       - run: pip install -r requirements-docs.txt
       - run: python update_docs.py
       - run: mkdocs gh-deploy --force

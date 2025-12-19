@@ -1,2 +1,2 @@
 -r requirements-docs.txt
-pip-check-updates==0.27.0
+pip-check-updates==0.28.0

@@ -67,13 +67,17 @@ for name, languages in tqdm(solutions.items(), desc="🌐 Caching", mininterval=
     url = f"https://open.kattis.com/problems/{name}?tab=metadata"
     html = requests.get(url, verify=False, timeout=30)
     soup = BeautifulSoup(html.content, "html.parser")
-    title = soup.find("h1").text
-    metas = soup.find("div", class_="metadata-difficulty-card")
-    difficulty = metas.text.replace("Difficulty", "-").split("-")
-    score, level = difficulty[-2], difficulty[-1]
-    cache[name] = (title, score, level)
+    try:
+        title = soup.find("h1").text
+        metas = soup.find("div", class_="metadata-difficulty-card")
+        difficulty = metas.text.replace("Difficulty", "-").split("-")
+        score, level = difficulty[-2], difficulty[-1]
+        cache[name] = (title, score, level)
+    except:
+        print(f"\nError processing {name}\n")
 
-total = len(solutions)
+
+total = len(cache)
 s = "s" if total > 1 else ""
 print()
 print(f"🔍 Found {total} solution{s}")
@@ -198,11 +202,15 @@ hide:
   - toc
 ---
 
-# {len(solutions)} Problems, {sum(len(v) for v in solutions.values())} Solutions, {len(language_map)} Languages
+# {len(cache)} Problems, {sum(len(v) for k,v in solutions.items() if k in cache)} Solutions, {len(language_map)} Languages
 """
 for name, languages in tqdm(sorted(solutions.items()), desc="📖 Refreshing Docs"):
     url = f"https://open.kattis.com/problems/{name}"
-    title, score, level = cache[name]
+
+    try:
+        title, score, level = cache[name]
+    except:
+        continue
 
     if len(languages) > 1:
         suffix = f"s in {len(languages)} languages"

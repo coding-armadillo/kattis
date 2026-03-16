@@ -9,9 +9,11 @@ def f(numbers):
             ans[prev] = 1
 
     parts = [
-        f"{key}-{key+value-1}"
-        if value > 1
-        else " ".join([str(d) for d in range(key, key + value)])
+        (
+            f"{key}-{key+value-1}"
+            if value > 1
+            else " ".join([str(d) for d in range(key, key + value)])
+        )
         for key, value in ans.items()
     ]
 

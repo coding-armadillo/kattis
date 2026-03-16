@@ -13,9 +13,11 @@ for i in range(1, n):
 print(
     " ".join(
         [
-            f"{key}-{key+value-1}"
-            if value > 2
-            else " ".join([str(d) for d in range(key, key + value)])
+            (
+                f"{key}-{key+value-1}"
+                if value > 2
+                else " ".join([str(d) for d in range(key, key + value)])
+            )
             for key, value in ans.items()
         ]
     )

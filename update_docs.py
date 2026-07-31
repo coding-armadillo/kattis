@@ -71,7 +71,7 @@ for name, languages in tqdm(solutions.items(), desc="🌐 Caching", mininterval=
         title = soup.find("h1").text
         metas = soup.find("div", class_="metadata-difficulty-card")
         difficulty = metas.text.replace("Difficulty", "-").split("-")
-        score, level = difficulty[-2], difficulty[-1]
+        score, level = difficulty[-2].strip(), difficulty[-1].strip()
         cache[name] = (title, score, level)
     except:
         print(f"\nError processing {name}\n")
@@ -122,9 +122,7 @@ About the solutions to [Kattis Problem Archive](https://open.kattis.com/)
   }
 }
 ```
-""".replace(
-        "%%data%%", data
-    )
+""".replace("%%data%%", data)
 
     data = ",\n      ".join(
         f'{{"Initial": "{initial.replace('"', r'\"')}", "Count": {count}}}'
@@ -150,9 +148,7 @@ About the solutions to [Kattis Problem Archive](https://open.kattis.com/)
   }
 }
 ```
-""".replace(
-        "%%data%%", data
-    )
+""".replace("%%data%%", data)
 
     data = ",\n      ".join(
         f'{{"Language": "{language}", "Count": {count}}}'
@@ -178,9 +174,7 @@ About the solutions to [Kattis Problem Archive](https://open.kattis.com/)
   }
 }
 ```
-""".replace(
-        "%%data%%", data
-    )
+""".replace("%%data%%", data)
 
     text += f"""
 ---
